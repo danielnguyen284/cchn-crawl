@@ -268,7 +268,7 @@
     "correct": "Không có phương án nào chính xác.",
     "dists": [
       "Có hoạt động lưu ký chứng khoán",
-      "Giám sát việc quản ý quỹ đầu tư, Công ty đầu tư chứng khoán",
+      "Giám sát việc quản lý quỹ đầu tư, Công ty đầu tư chứng khoán",
       "Cả a và b"
     ],
     "explanation": "Đáp án đúng là D"
@@ -407,7 +407,7 @@
   },
   {
     "subjectId": "cccm2",
-    "question": "Hiện nay, tổ chức kinh doanh chứng khaosn ngước ngoài khi hoạt động trên lãnh thổ việt nam được: I.Thành lập dưới hình thức công ty cổ phần II. Thành lập cty 100% vốn nước ngoài III. Đặt văn phòng đại diện IV. Tham gia góp vốn mua cổ phần, góp vốn liên doanh thành lập công ty theo tỷ lệ góp vốn không quá 49% tổng số vốn Phương án:",
+    "question": "Hiện nay, tổ chức kinh doanh chứng khoán nước ngoài khi hoạt động trên lãnh thổ việt nam được: I.Thành lập dưới hình thức công ty cổ phần II. Thành lập cty 100% vốn nước ngoài III. Đặt văn phòng đại diện IV. Tham gia góp vốn mua cổ phần, góp vốn liên doanh thành lập công ty theo tỷ lệ góp vốn không quá 49% tổng số vốn Phương án:",
     "correct": "Tất cả",
     "dists": [
       "1,2,4",
