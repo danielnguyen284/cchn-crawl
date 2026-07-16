@@ -1,0 +1,38 @@
+[
+  {
+    "q": "Quỹ đóng khác quỹ mở ở?",
+    "options": [
+      "CCQ cố định, không mua lại",
+      "Thanh khoản cao hơn",
+      "Không có NAV",
+      "Chỉ ĐT CP"
+    ],
+    "correct": "A",
+    "exp": "Quỹ đóng phát hành CCQ cố định.",
+    "topic": "cccm7-t1"
+  },
+  {
+    "q": "NAV là?",
+    "options": [
+      "Giá trị TS ròng/CCQ",
+      "LN hàng năm",
+      "Phí QL quỹ",
+      "Số lượng CCQ"
+    ],
+    "correct": "A",
+    "exp": "NAV = (Tổng TS - Tổng nợ) / Số CCQ.",
+    "topic": "cccm7-t4"
+  },
+  {
+    "q": "Chỉ số Sharpe đo?",
+    "options": [
+      "LN vượt trội/đơn vị rủi ro",
+      "Tổng LN tuyệt đối",
+      "Biến động giá",
+      "Chi phí QL"
+    ],
+    "correct": "A",
+    "exp": "Sharpe = (Rp - Rf) / σp.",
+    "topic": "cccm7-t4"
+  }
+]

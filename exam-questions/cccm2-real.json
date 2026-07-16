@@ -1,0 +1,518 @@
+[
+  {
+    "subjectId": "cccm2",
+    "question": "Hành vi nào sau đây không phải là thao túng thị trường:",
+    "correct": "Giao dịch chứng khoán bằng các Lôi kéo, xíu giục người khác",
+    "dists": [
+      "Thông đồng trong giao dịch chứng khoán nhằm tạo cung, cầu giả tạo",
+      "Kết hợp hoặc sử dụng các phương tiện giao dich khác để thao túng giá",
+      "Sử dụng thông tin nội bộ để mua bán chứng khoán cho mình hoặc cho người khác"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Những hành vi nào là hành vi phạm công bố thông tin",
+    "correct": "Tất cả các điều trên",
+    "dists": [
+      "Làm lộ bí mật các tài liệu, số liệu bí mật thông tin ko công bố hoặc chưa công bố",
+      "Công bố thông tin nhưng không thực hiện báo cáo ủy ban chứng khoán nhà nước",
+      "Người công bố thông tin không đủ thẩm quyền theo quy định của pháp luật"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Thời hạn để ủy ban chứng khoán nhà nước cấp giấy chứng nhận chào bán chứng chỉ quỹ ra công chúng kể từ ngày nhận đủ hồ sơ là",
+    "correct": "15 ngày",
+    "dists": [
+      "30 ngày",
+      "45 ngày",
+      "07 ngày"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Theo luật chứng khoán, đối tượng nào sau đây phải công bố thông tin bất thường trong vòng 24h kể từ khi sự kiện sảy ra I. Tổ chức phát hành II. Tổ chức niêm yết III. Công ty quản lý quỹ IV. Công ty chứng khoán Phương án:",
+    "correct": "Không phương án nào đúng",
+    "dists": [
+      "1 và 3",
+      "2 và 4",
+      "1,2, 3 và 4"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Theo quy định hiện hành kể từ ngày nhận được hồ sơ hợp lệ UBCK nhà nước cấp giấy phép thành lập và hoạt động cho công ty chứng khoán, cty quản lý quỹ trong thời hạn ?",
+    "correct": "15 ngày",
+    "dists": [
+      "30 ngày",
+      "60 ngày",
+      "45 ngày"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Cổ đông phổ thông có những quyền gì sau đây I. Quyền hưởng cổ tức II. Được ưu tiên mua cổ phiếu mới chào bán III. Quyền bỏ phiếu IV. Các quyền lợi pháp lý khác khi được yêu cầu Phương án:",
+    "correct": "1, 3 và 4",
+    "dists": [
+      "1 ,2 và 3",
+      "1,2,3 và 4",
+      "2, 3 và 4"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Người hành nghề kinh doanh ck có quyền:",
+    "correct": "Không phương án nào đúng",
+    "dists": [
+      "Đồng thời làm việc cho 2 hay nhiều công ty chứng khoán",
+      "Làm giám đốc hoặc cổ đông sở hữu trên 5% cổ phiếu có quyền biểu quết của 1 tổ chức phát hành chứng khoán trừ trường hợp làm đại diện cho công ty chứng khoán tại tổ chức phát hành nơi công ty chứng khoán tham gia đầu tư góp vốn",
+      "Cả a và b"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Phạm vị hoạt động của phòng giao dich tại 1 công ty chưng khoán bao gồm I. Môi giới chứng khoán II.Tự doanh chứng khoán III. Tư vấn đầu tư chứng khoán IV. Lưu ký chứng khoán Phương án:",
+    "correct": "Tất cả",
+    "dists": [
+      "1 ,3 và 4",
+      "2,3 và 4",
+      "1, 2, 3"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Công ty chứng khoán ko được thực hiện nghiệp vụ nào",
+    "correct": "Tự doanh chứng khoán",
+    "dists": [
+      "Bảo lãnh phát hành chứng khoán",
+      "Quản lý danh mục đầu tư",
+      "Môi giới chứng khoán"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Đại hội cổ đông của công ty cổ phần được tiến hành bời:",
+    "correct": "Tất cả các câu trên",
+    "dists": [
+      "Tất cả các cổ đông nắm giữ cổ phiểu có quyền biểu quyết",
+      "Cổ đông hoặc nhóm cô đông nắm gữ từ 1% cổ phiếu có quyền biểu quyết trở lên",
+      "Tất cả cổ đông nẵm giữ cổ phiếu phổ thông và cổ phiếu yêu đãi"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Cổ phiếu quỹ:",
+    "correct": "Là loại cổ phiếu chưa được phát hành",
+    "dists": [
+      "Là cổ phiếu được chia cổ tức",
+      "Là loại cổ phiếu được phát hành và tổ chức phát hành mua lại trên thị trường"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Hoạt động quản lý tiền của công ty chứng khoán cần đảm bảo các yêu cầu sau I.Quản lý tiền gửi giao dich chứng khoán của khách tách bạch với tiền của công ty chứng khoán II.Khách hàng tự lựa chọn ngân hàng thương mại đề mở tài khoản tiền gửi III. Cty chứng khoán nhận tiền trực tiếp của khách hàng IV. Khách hàng mở tài khoản tiền gửi tại ngân hàng do cty chứng khoán lựa chọn Phương án:",
+    "correct": "1,4",
+    "dists": [
+      "2,3 và 4",
+      "2,3",
+      "1, 3"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Theo luật chứng khoán, thanh tra chứng khoán là gì?",
+    "correct": "Không có phương án nào đúng.",
+    "dists": [
+      "Thanh tra chuyên ngành về chứng khoán và thị trường chứng khoán.",
+      "Thanh tra nhà nước về chứng khoán và thị trường chứng khoán",
+      "Thanh tra nhà nước chuyên ngành về chứng khoán và thị trường chứng khoán"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Theo quy định hiện hành loại hình doanh nghiệp nào chào bán cổ phiếu lần đầu ra công chứng bắt buộc phải có công ty chứng khoán tư vấn lập hồ sơ?",
+    "correct": "Cả A, B và C",
+    "dists": [
+      "Doanh nghiệp thành lập mới thuộc lĩnh vực xây dựng cơ sở hạ tầng.",
+      "Doanh nghiệp FDI chuyển đổi thành công ty cổ phần kết hợp với chào bán chứng khoán ra công chúng.",
+      "Doanh nghiệp FDI đã chuyển đổi thành công ty cổ phần chào bán chứng khoán ra công chúng."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Bộ tài chính có nhiệm vụ, quyền hạn sau, ngoại trừ?",
+    "correct": "Ban hành các văn bản quy phạm pháp luật về chứng khoán và thị trường chứng khoán.",
+    "dists": [
+      "Trình chính phủ, thủ tướng ban hành chiến lược, quy hoạch chính sách phát triển thị trường.",
+      "Chỉ đạo UBCKNN thực hiện chiến lược, quy hoạch chính sách phát triển thị trường.",
+      "Cấp và thu hồi các loại giấy phép liên quan đến hoạt động chứng khoán và thị trường chứng khoán."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Sau khi kết thúc việc chào bán tổ chức phát hành chào bán chứng khoán ra nước ngoài phải báo cáo kết quả đợt chào bán trong thời hạn:",
+    "correct": "Không phương án nào chính xác.",
+    "dists": [
+      "05 ngày",
+      "15 ngày.",
+      "10 ngày"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Công ty chứng khoán chỉ được phép thực hiện nghiệp vụ bảo lãnh chứng khoán khi:",
+    "correct": "Không có phương án nào đúng.",
+    "dists": [
+      "Thực hiện nghiệp vụ tư vấn đầu tư chứng khoán.",
+      "Thực hiện nghiệp vụ tự doanh chứng khoán.",
+      "Thực hiện nghiệp vụ môi giới chứng khoán."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Cổ đông lớn là cổ đông sở hữu trực tiếp hoặc gián tiếp?",
+    "correct": "Từ 5% trở lên số cổ phiếu quỹ của tổ chức phát hành.",
+    "dists": [
+      "Từ 5% trở lên số cổ phiếu có quyền biểu quyết của tổ chức phát hành.",
+      "Từ 3% trở lên số cổ phiếu đang lưu hành của tổ chức phát hành.",
+      "Từ 3% trở lên số cổ phiếu có quyền biểu quyết của tổ chức phát hành."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Theo quy định hiện hành, tổ chức phát hành cố ý công bố thông tin sai lệch sẽ bị phạt tiền ở mức nào:",
+    "correct": "Từ 10.000.000 đồng đến 20.000.000 đồng.",
+    "dists": [
+      "Từ 5.000.000 đồng đến 10.000.000 đồng.",
+      "Từ 70.000.000 đồng đến 90.000.000 đồng.",
+      "Từ 30.000.000 đồng đến 70.000.000 đồng."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Chào bán chứng khoán theo một trong các phương thức sau đây là chào bán chứng khoán ra công chúng, ngoại trừ?",
+    "correct": "Chào bán riêng lẻ.",
+    "dists": [
+      "Chào bán cho một số lượng nhà đầu tư không xác định.",
+      "Thông qua phương tiện thông tin đại chúng , kể cả internet,",
+      "Chào bán chứng khoán cho 100 nhà đầu tư trở lên, không kể nhà đầu tư chứng khoán chuyên nghiệp."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Theo quy định hiện hành, vốn khả dụng của công ty chứng khoán là gì?",
+    "correct": "Vốn vay. VKD là tiền mặt và tài sản lưu động có khả năng chuyển đổi thành tiền mặt trong một thời hạn nhất định.",
+    "dists": [
+      "Vốn vay ngắn hạn trong vòng 90 ngày.",
+      "Vốn kinh doanh.",
+      "Vốn chủ sở hữu có thể chuyển đổi thành tiền trong vòng 90 ngày."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Trung tâm lưu ký chứng khoán được phép tổ chức theo mô hình nào sau đây:",
+    "correct": "Công ty cổ phần hoặc công ty TNHH.",
+    "dists": [
+      "Công ty hợp danh.",
+      "Công ty cổ phần.",
+      "Công ty TNHH"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Điều kiện trở thành thành viên hệ thống tổng hợp giao dịch Upcom của sở giao dịch chứng khoán Hà nội là: I/ Các công ty chứng khoán đã là thành viên của Sở giao dịch chứng khoán hà Nội. II/ Các công ty chứng khoán đã là thành viên của Sở giao dịch chứng khoán. III/ Các công ty chứng khoán được Ủy ban chứng khoán nhà nước cấp phép hoạt động có đăng ký tham gia giao dịch với Sở giao dịch chứng khoán hà nội và có hệ thống kết nối với Sở giao dịch chứng khoán Hà Nội. PHƯƠNG ÁN TRẢ LỜI.",
+    "correct": "Cả I, II, và III.",
+    "dists": [
+      "Cả II và III.",
+      "Cả I và II.",
+      "Cả I và III."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Sở giao dịch chứng khoán có những quyền hạn sau, ngoại trừ?",
+    "correct": "Ban hành các quy chế về niêm yết, giao dịch, công bố thông tin và thành viên giao dịch sau khi được UBCKNN chấp thuận.",
+    "dists": [
+      "Sử phạt vi phạm hành chính các tổ chức, cá nhân vi phạm trên thị trường?",
+      "Chấp thuận hủy bỏ niêm yết chứng khoán.",
+      "Tổ chức điều hành hoạt động giao dịch chứng khoán."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Ngân hàng giám sát là ngân hàng thương mại?",
+    "correct": "Không có phương án nào chính xác.",
+    "dists": [
+      "Có hoạt động lưu ký chứng khoán",
+      "Giám sát việc quản ý quỹ đầu tư, Công ty đầu tư chứng khoán",
+      "Cả a và b"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Tổ chức nào sau đây không được UBCKNN chấp thuận là thành viên lưu ký?",
+    "correct": "Ngân hàng chỉ định thanh toán.",
+    "dists": [
+      "Ngân hàng thương mại.",
+      "Công ty đầu tư chứng khoán,",
+      "Công ty chứng khoán."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Ký hiệu \"XR\" có ý nghĩa gì khi SDG TP HCM công bố trên hệ thống giao dịch đối với cổ phiếu và chứng chỉ quỹ đầu tư?",
+    "correct": "Giao dịch không hưởng quyề đặt mua cổ phiếu, chứng chỉ quỹ đầu tư phát hành thêm cho cổ đông hiện hữu.",
+    "dists": [
+      "Giao dịch không hưởng cổ tức , quyền mua cổ phiếu, chứng chỉ quỹ đầu tư phát hành cho cổ đông hiện hữu trong cùng một ngày.",
+      "Giao dịch không hưởng lãi trái phiếu.",
+      "Giao dịch không hưởng cổ tức."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Công ty Cổ Phần? I/ Có quyền phát hành chứng khoán để huy động vốn. II/ Phải có cổ phiếu phổ thông. III/Có thể có hoặc không có cổ phiếu phổ thông. IV/Có thể có hoặc không có cổ phiếu Ưu đãi. Phương án",
+    "correct": "I, II, III",
+    "dists": [
+      "I, III, IV",
+      "I , II, IV",
+      "I, II, III, IV"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Hiện nay, hệ thống đăng ký, lưu ký, bù trừ và thanh toán chứng khoán trên thị trường chứng khoán Việt nam thực hiện theo mô hình?",
+    "correct": "Không có phương án nào chính xác.",
+    "dists": [
+      "Một cấp.",
+      "Ba cấp,",
+      "Hai cấp."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Công ty Chứng khoán được phép:",
+    "correct": "Tất cả",
+    "dists": [
+      "Bán chứng khoán lô lẻ cho khách hàng theo giá thỏa thuận trong biên độ do UBCK quy định so với giá thực hiện gần nhất trên sở giao dịch chứng khoán",
+      "Giao dịch cổ phiếu lô lẻ với nhà đầu tư theo mức giá khớp lệnh tại sở giao dịch chứng khoán TP HCM",
+      "Mua cp lô lẻ của nhà đầu tư với giá thỏa thuận trong biên độ quy định do UBCk quy định so với giá thực hiện gần nhất trên sở giao dịch chứng khoán"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Điều kiện chào bán cổ phiếu lần đầu ra công chúng ở việt nam là?",
+    "correct": "Có vốn 5ty đồng trở lên và hoạt động kinh doanh của 2 năm liền trước năm đăng ký phải có lãi",
+    "dists": [
+      "Có vốn 10ty đồng trở lên và hoạt động kinh doanh của 2 năm liền trước năm đăng ký phải có lãi",
+      "Có vốn 5 tỷ và hoạt động kinh doanh của năm liền trước năm đăng ký phải có lãi",
+      "Có vốn 10ty đồng trở lên và hoạt động kinh doanh của năm liền trước năm đăng ký phải có lãi"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Đối với thông tin liên quan đến tình trạng cá nhân, tài chính và hoạt động giao dịch của khách hàng, CTCK:",
+    "correct": "Không phương án nào đúng",
+    "dists": [
+      "Có thể sử dụng những thông tin về các lệnh chưa thực hiện của khách này để tư vấn cho khách khách",
+      "Phải được Bảo mật và không được sử dụng theo bất cứa cách nào khác để tác động đến giao dịch của cá nhân hay doanh nghiệp",
+      "Có thể tác động đến các giao dịch trên tài khoản cá nhận của họ"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Theo quy định hiện hành, công ty chứng khoán muốn thực hiện việc bảo lãnh phát hành ra công chúng phải đáp ứng các điều kiện?",
+    "correct": "Có giấy phép hoạt động tự doanh và và phương án chào bán chứng khoán ra công chúng khả thi",
+    "dists": [
+      "Có giấy phép hoạt động tự doanh và không có liên quan với tổ chức phát hành",
+      "Có giấy phép hoạt động bảo lãnh phát hành và không có liên quan với tổ chức phát hành",
+      "Có giấy phép hoạt động bảo lãnh phát hành và phương án chào bán chứn khoán ra công chúng khả thi"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Theo các quy định hướng đãn của luật chứng khoán thì tất cả các văn bản gộc bao gồm các phiếu lệnh; sổ nháp giao dịch hàng ngày; các bản thông báo xác nhận giao dịch phải được lưu giữ trong thời gian tối thiểu là:",
+    "correct": "Không phương án nào đúng",
+    "dists": [
+      "15 năm",
+      "10 năm",
+      "5 năm"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Chứng khoán chuyển nhượng có điều kiện được hạch toán vào?",
+    "correct": "Tài khoản chứng khoán giao dịch",
+    "dists": [
+      "Tài khoản chứng khoán tạm ngừng giao dịch",
+      "Tài khoản chứng khoán tạm giữ",
+      "Tài khoản chứng khoán chờ giao dịch"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Tổ chức, cá nhân sở hữu, 10%, vốn cổ phần hoặc vốn góp có quyền biểu quyết của một cty chứng khoán được phép sở hữu",
+    "correct": "Trên 5% số cổ phần hoặc phần vốn góp có quyền biểu quyết của một công ty quản lý quỹ khác nhau",
+    "dists": [
+      "Dưới 5% số cổ phần hoặc phần vốn góp có quyền biểu quyết của một công ty chứng khoán khác",
+      "Dưới 5% số cổ phần hoặc phần vốn góp có quyền biểu quyết của một công ty quản lý quỹ khác nhau",
+      "Trên 5% số cổ phần hoặc phần vốn góp có quyền biểu quyết của một công ty chứng khoán khác"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Sau nhiều năm hoạt động có lãi, hội đông quản trị công ty X dự kiến chào bán cổ phiếu của mình để mở rộng kinh doanh (công ty có vống điều lệ là 08 tỷ đồng) trên mạng internet. Hành động trên của cty X chịu sự điều chỉnh của luật nào?",
+    "correct": "Tất cả các câu trên",
+    "dists": [
+      "Luật chứng khoán",
+      "Luật đầu tư",
+      "Luật doanh nghiệp"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Hiện nay, tổ chức kinh doanh chứng khaosn ngước ngoài khi hoạt động trên lãnh thổ việt nam được: I.Thành lập dưới hình thức công ty cổ phần II. Thành lập cty 100% vốn nước ngoài III. Đặt văn phòng đại diện IV. Tham gia góp vốn mua cổ phần, góp vốn liên doanh thành lập công ty theo tỷ lệ góp vốn không quá 49% tổng số vốn Phương án:",
+    "correct": "Tất cả",
+    "dists": [
+      "1,2,4",
+      "2,4 và 3",
+      "1,2,3"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Tổ chức, cá nhân sở hữu, 10%, vốn cổ phần hoặc vốn góp có quyền biểu quyết của một cty quản lý quỹ được phép sở hữu",
+    "correct": "Trên 5% số cổ phần hoặc phần vốn góp có quyền biểu quyết của một công ty quản lý quỹ khác nhau",
+    "dists": [
+      "Dưới 5% số cổ phần hoặc phần vốn góp có quyền biểu quyết của một công ty chứng khoán khác",
+      "Dưới 5% số cổ phần hoặc phần vốn góp có quyền biểu quyết của một công ty quản lý quỹ khác nhau",
+      "Trên 5% số cổ phần hoặc phần vốn góp có quyền biểu quyết của một công ty chứng khoán khác"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Tổ chức phát hành khi niêm yết các loại chứng khoán phải lập hồ sơ đăng ký với SGDCK, ngoại trừ:",
+    "correct": "Trái phiếu doanh nghiệp",
+    "dists": [
+      "Chứng chỉ quỹ đầu tư chứng khoán",
+      "Trái phiếu chính phủ, trái phiếu được chính phủ bảo lãnh, trái phiếu chính quyền địa phương",
+      "Cổ phiếu"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Chủ tịch ủy ban chứng khoán nhà nước có các quyền",
+    "correct": "Phạt cảnh cáo, phạt tiền và xử phạt bổ sung",
+    "dists": [
+      "Phạt tiền và xử phạt bổ sung.",
+      "Phạt cảnh cáo hoặc phạt tiền",
+      "Phạt cảnh cáo và xử phạt bổ sung"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Trung tâm lưu ký chứng khoán có những nhiệm vụ, quyền hạn sau, ngoại trừ",
+    "correct": "Ban hành quy chế đăng ký, lưu ký, thanh toán bù trừ chứng khoán sau khi đươc ỦY ban chứng khoán nhà nước phê chuẩn",
+    "dists": [
+      "Cung cấp dịch vụ lưu ký, thanh toán bù trừ chứng khoán",
+      "Xử Phạt vi phạm hành chính với các vi phạm liên quan đên hoạt động đăng ký, lưu ký, thanh toán bù trừ chứng khoán",
+      "Chấp nhận, hủy bỏ tư cách thành viên lưu ký"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Việc thay đổi thời gian giao dịch khớp lệnh tại sở giao dịch chứng khoán là do ai quyết định?",
+    "correct": "Chủ tịch ủy ban chứng khoán nhà nước",
+    "dists": [
+      "Tổng giám đốc sở giao dịch chứng khoán",
+      "Hiệp hội kinh doanh chứng khoán",
+      "Bộ trưởng bộ tài chính"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Quỹ đại chúng mà chứng chỉ quỹ đó đã chào bán ra công chúng nhưng không được mua lại theo yêu cầu của nhà đầu tư là:",
+    "correct": "Không có phương án nào đúng",
+    "dists": [
+      "Quỹ thành viên",
+      "Quỹ mở",
+      "Quỹ đóng"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Theo quy định hiện hành, khi nhận lệnh giao dịch của khách hàng qua internet, điện thoại, fax cty chứng khoán phải tuân thủ: I.Luật giao dịch điện tự và các văn bản hướng dẫn, đảm bảo có ghi nhận thời điểm nhận lệnh II.Xác nhận bằng điện thoại với khách hàng trước khi chuyển lệnh vào hệ thống giao dịch (đối với lệnh qua internet) III. Xác nhận lại với khách hàng trước khi nhập lệnh vào hệ thống giao dịch, lưu giữ bằng chứng minh về việc đặ lệnh của khách hàng (đối với đặt lệnh qua điện toại, fax) IV. Có biện pháp khác phục thích hợp khi không nhập được lệnh của khách hàng vào hệ thống giao dịch do lỗi của công ty Phương án:",
+    "correct": "1,3,4",
+    "dists": [
+      "1,2,3",
+      "2,4 và 3",
+      "2,3"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "Thanh tra UBCKNN không có quyền áp dụng hình thức phạt nào sau đây",
+    "correct": "A và B",
+    "dists": [
+      "Phạt cảnh cáo",
+      "Phạt tiền",
+      "Áp dụng các hình thức phạt bổ sung bao gồm: thu hồ giấy phép, chứng chỉ hành nghề"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm2",
+    "question": "CTCK, Công ty quản lý quỹ, công ty đâu tư chứng khoán, CN công ty chứng khoán, cty quản lý quỹ nước ngoài tại Việt Nam bị phạt tiền từ 5tr đến 10tr nếu",
+    "correct": "A ,B và c Câu 49 UBCKNN có các quyền sau ngoại trừ",
+    "dists": [
+      "Thực hiện các thay đổi liên quan đến chứng khoán và thị trường chứng khoán khi chưa được UBCKNN chấp thuận",
+      "Tổ chức khai trương hoạt động khi chưa đáp ứng đầy đủ các điều kiện theo quy định của pháp luật",
+      "Thay đổi trụ sở khi chưa được cơ quan quản lý chấp thuận"
+    ],
+    "explanation": "Đáp án đúng là D"
+  }
+]

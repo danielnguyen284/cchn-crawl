@@ -1,0 +1,529 @@
+[
+  {
+    "subjectId": "cccm4",
+    "question": "Hãy xếp các trái phiếu sau theo thứ tự có Duration giảm dần: Trái phiếu Lãi coupon(%/năm) Thời hạn Lãi suất đáo hạn(%/năm) A 15 20 10 B 15 15 10 C 0 20 10 D 8 20 10 E 15 15 10 Hãy chọn phương án đúng",
+    "correct": "C, D, B, E, A",
+    "dists": [
+      "C, D, A, B, E",
+      "A, B, E, D, C",
+      "B, E, A, D, C"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Quyền chọn mua được mua bởi những người dự đoán giá của hàng hóa cơ sở sẽ tăng",
+    "correct": "Đúng",
+    "dists": [
+      "Sai"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Vào ngày 6/6/200X các mức lợi suất đáo hạn của các TP dài hạn như sau: TP chính phủ Mỹ 9,5% TP Công ty xếp hạng AAA 10,10% TP Công ty xếp hạng AA 10,70% TP Công ty xếp hạng A 11,40% TP Công ty xếp hạng BBB 12,46% Hãy xác định mức bù rủi ro lãi suất đối với các trái phiếu công ty xếp hạng A và BBB so với TP chính phủ Mỹ vào ngày hôm đó.",
+    "correct": "1,85% và 2,96%",
+    "dists": [
+      "1,85% và 2,92%",
+      "1,9% và 2,96%",
+      "1,9% và 2,8%"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Bé Minh vừa được 3 tuổi sinh vào đầu tháng 9. Sau 15 năm nữa bé Minh sẽ vào đại học và ba mẹ của em lo xa để em đi học nước ngoài. Dự kiến học đại học nước ngoài em phải học 5 năm cả ngoại ngữ và cần khoảng 20.000 USD vào đầu mỗi năm học. Nếu mỗi năm ba mẹ em gửi tiết kiệm vào ngày sinh nhật một số tiền cố định (dự kiến tháng 9 năm sau mới bắt đầu) thì họ phải gửi bao nhiêu mỗi lần để đạt mục tiêu trên và giả sử lãi suất ko đổi trong suốt thời gian đó là 5%/năm",
+    "correct": "8.000 USD",
+    "dists": [
+      "4.213 USD",
+      "6.061 USD X Thắng: 0912 843 338; 0986 708 338 Skype, Yahoo: Thangx84; Face: Xuanthang.dhthuyloi@gmail.com",
+      "5.021 USD"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Mức sinh lời tháng là 1%, mức sinh lời kép theo năm là:",
+    "correct": "12,91%",
+    "dists": [
+      "12,68%",
+      "12,82%",
+      "12%"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Bạn đang tư vấn cho khách hàng đầu tư vào trái phiếu XYZ với các thông số liên quan như sau: lãi suất coupon là 9%/năm trả lãi mỗi năm 1 lần thời hạn 4 năm mệnh giá 1000USD,lãi suất yêu cầu 10%/năm, thời gian đáo hạn bình quân là D là 3,52. Bạn xác định được giá trái phiếu A và thời gian đáo hạn bình quân điều chỉnh (MD) của A là:",
+    "correct": "960 USD và 3",
+    "dists": [
+      "970 USD và 4",
+      "968 USD và 3,2",
+      "968 USD và 4"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Giả sử đầu năm giá của cổ phiếu A là 42USD/CP, cổ tức trong năm là 2,4USD/CP. Vào cuối năm giá của cổ phiếu A sụt giảm chỉ còn 31USD/CP. Tỷ suất lợi nhuận đầu tư vào cổ phiếu A là:",
+    "correct": "7,42%",
+    "dists": [
+      "-20,48%",
+      "79,50%",
+      "-30,05%"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Có các thông số về hai trái phiếu có mức xếp hạng tín nhiệm giống nhau như sau: TP LS coupon/năm Năm đáo hạn Giá hiện hành ABC 6% 2013 1.038 USD XYZ 5.5% 2018 1.000 USD Nếu dự kiến các mức lãi suất sẽ giảm trong tương lai trái phiếu nào sẽ là khoản đầu tư tốt hơn xét theo mức sinh lời kỳ vọng",
+    "correct": "XYZ",
+    "dists": [
+      "ABC",
+      "Không xác định"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Bạn đang cân nhắc việc mua cổ phiếu thường của công ty MFM để nắm giữ trong một năm. Bạn kỳ vọng sẽ nhận được 1,25USD tiền cổ tức và 35USD tiền bán cổ phiếu đó vào cuối kỳ nắm giữ. Giả định bạn yêu cầu mức sinh lời tối thiểu 12%, mức giá cao nhất bạn sẽ trả để mua cổ phiếu đó ngày hôm nay là",
+    "correct": "31,25USD",
+    "dists": [
+      "41,32USD",
+      "32,37USD X Thắng: 0912 843 338; 0986 708 338 Skype, Yahoo: Thangx84; Face: Xuanthang.dhthuyloi@gmail.com",
+      "37,47USD"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Dấu hiệu nào trong những dấu hiệu sau ủng hộ cho xu thế đang giảm giá của chứng khoán",
+    "correct": "Chỉ số dòng tiền MFI<0",
+    "dists": [
+      "Chỉ số động lượng Momentum<0",
+      "Khối lượng giao dịch giảm",
+      "Chỉ số sức mạnh tương quan RSI<0"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Giá hiện tại của cổ phiếu VIC là 74.000đ/CP để dự báo giá của cổ phiếu trong 1 tháng tới người ta phỏng vấn 100 người có kết quả như sau: Giá 94 84 74 64 Số người 40 40 10 10 Mức sinh lời kỳ vọng, rủi ro đầu tư của cổ phiếu VIC là:",
+    "correct": "13,3% và 8,24%",
+    "dists": [
+      "14,86% và 15,81%",
+      "-7,49% và 13,3%",
+      "14,86% và 12,74%"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Giá trị tương lai sau 16 năm của dòng tiền 1đ với lãi suất 15%/năm là:",
+    "correct": "47,58 đ",
+    "dists": [
+      "56,20 đ",
+      "57,82 đ",
+      "55,72 đ"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Sau khi xuất hiện các hình mẫu củng cố, giá chứng khoán thường:",
+    "correct": "Chuyển động theo xu thế trước khi có hình mẫu củng cố",
+    "dists": [
+      "Chuyển động theo xu thế đi ngang",
+      "Chuyển động ngược chiều với xu thế trước khi có hình mẫu củng cố",
+      "Không xác định được"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Nếu bạn gửi tiết kiệm 8.000 USD trong vòng 15 năm với lãi suất 14%/năm, bạn sẽ nhận được khoản tiền cuối kỳ là:",
+    "correct": "58.801,25 USD",
+    "dists": [
+      "59.200,41 USD",
+      "57.103,50 USD",
+      "61.000,25 USD"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Một nhà quản lý quỹ trái phiếu lo lắng về mức lãi suất tăng có thể xảy ra sẽ thực hiện vị thế mua trên thị trường hợp đồng tương lai lãi suất: X Thắng: 0912 843 338; 0986 708 338 Skype, Yahoo: Thangx84; Face: Xuanthang.dhthuyloi@gmail.com",
+    "correct": "Đúng",
+    "dists": [
+      "Sai"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Mức sinh lời yêu cầu của nhà đầu tư đối với cổ phiếu của một công ty sẽ thay đổi như thế nào nếu hệ số đòn bẩy (mức độ sử dụng nợ vay) của công ty đó tăng lên",
+    "correct": "Giảm",
+    "dists": [
+      "Tăng",
+      "Không đủ thông tin đưa ra kết luận",
+      "Không thay đổi"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Đường trung bình trượt tính theo trọng số là dạng đường trung bình trượt dễ tính toán nhất",
+    "correct": "Đúng",
+    "dists": [
+      "Sai"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Công ty ACB có thu nhập trên mỗi cổ phần hiện tại là 6USD tỷ lệ chi trả cổ tức so với EPS là 55%. Lợi nhuận tăng trưởng ở mức 8.5%/năm. Giả sử mức sinh lời yêu cầu của nhà đầu tư là 15%/năm hãy xác định giá hiện tại của cổ phiếu này",
+    "correct": "55,18 USD",
+    "dists": [
+      "55,08 USD",
+      "50,70 USD",
+      "57,41 USD"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Môt nhà đẩu tư thu nhập những thông tin sau đây: Công ty P/E Lợi nhuận A 11 100 triệu B 10 110 triệu Nhà đầu tư đó nên đầu tư vào cổ phiếu của công ty nào trong số 2 công ty nói trên",
+    "correct": "CP B",
+    "dists": [
+      "CP A",
+      "Chưa đủ thông tin để đưa ra kết luận"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Trong đầu tư chứng khoán, rủi ro của một khoản đầu tư được hiểu là:",
+    "correct": "Sự hao hụt,mất mát, tổn thất do các yếu tố khác nhau gây ra",
+    "dists": [
+      "Phần thất thoát của tài sản trong quá trình đầu tư",
+      "Cả a và b",
+      "Sự bấp bênh,không ổn định,sự bất ổn của tiền lãi đầu tư"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Một trái phiếu zero coupon có mệnh giá 1000USD thời hạn 5 năm, lợi suất yêu cầu hiện hành đối với trái phiếu đó là 8%/năm.Giá và thời gian đáo hạn bình quân của trái phiếu đó được xác định như sau: X Thắng: 0912 843 338; 0986 708 338 Skype, Yahoo: Thangx84; Face: Xuanthang.dhthuyloi@gmail.com",
+    "correct": "600USD và 4 năm",
+    "dists": [
+      "640USD và 4 năm",
+      "680USD và 5 năm",
+      "700USD và 5 năm"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Công ty A đầu tư vào cổ phiếu B,bảng số liệu dưới đây dự kiến tỷ lệ lãi đầu tư vào cổ phiếu B trong 4 năm như sau: Năm 1 2 3 4 Ri – cổ phiếu B 8 30 10 14 Cặp lợi nhuận kỳ vọng và rủi ro khi đầu tư vào cổ phiếu B lần lượt là:",
+    "correct": "16,21% và 8,65%",
+    "dists": [
+      "15,5% và 29,82",
+      "15,5% và 26,3%",
+      "15,5% và 8,65%"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Đồ thị dạng then chắn theo tháng thường được sử dụng để xác định xu thế ngắn hạn của giá chứng khoán",
+    "correct": "Đúng",
+    "dists": [
+      "Sai"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Nhà đầu tư A mua một quyền chọn mua 100 cổ phiếu kỳ hạn 6 tháng với giá là 5USD/cp của doanh nghiệp XYZ.Vào thời điểm mua quyền chọn giá cổ phiếu XYZ đang được bán với giá 50USD/cp, giá thực hiện của quyền chọn là 48USD/cp.Nếu không có thuế và phí giao dịch, hãy xác định lãi lỗ của nhà đầu tư A nếu giá cổ phiếu là 45USD/cp khi quyền chọn đáo hạn trong các phương án sau:",
+    "correct": "Lãi 300USD",
+    "dists": [
+      "Lỗ 500USD",
+      "Lỗ 450USD",
+      "Lãi 480USD"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Một doanh nghiệp có kế hoạch phát hành thêm 1.500.000 cổ phiếu mới.Biết rằng tổng khối lượng cổ phiếu đang lưu hành của doanh nghiệp là 3 triệu và toàn bộ số cổ phiếu mới được dành cho cổ đông hiện hữu mua thông qua quyền chọn mua cổ phiếu được phát hành kèm theo,hỏi số lượng quyền mua cần có của mỗi cổ đông để mua được 1 cp mới là bao nhiêu:",
+    "correct": "1,5",
+    "dists": [
+      "0,5",
+      "2,0",
+      "1,0"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Ban đang quản lý một danh mục trái phiếu có giá thị trường là 45 triệu USD.Lãi suất yêu cầu hiện hành đối với DMTP là 12%/năm và đường cong lợi suất dự kiến là phẳng.Danh mục đầu tư của bạn gồm 2 TP zero coupon thời hạn 4 năm và 8 năm,với tỷ trọng đầu tư tương ứng là 25% và 75%.Dựa vào những dữ liệu đã cho bạn xác định mệnh giá của 2 TP này: X Thắng: 0912 843 338; 0986 708 338 Skype, Yahoo: Thangx84; Face: Xuanthang.dhthuyloi@gmail.com",
+    "correct": "30,2 triệu USD (TP 4 năm) và 50,6 triệu USD (TP 8 năm)",
+    "dists": [
+      "17,7 triệu USD (TP 4 năm) và 83,6 triệu USD (TP 8 năm)",
+      "20,2 triệu USD (TP 4 năm) và 60,5 triệu USD (TP 8 năm)",
+      "15,1 triệu USD (TP 4 năm) và 70,4 triệu USD (TP 8 năm)"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Ngân hàng nhà nước công bố LSCB là 7%/năm,vậy NHTM được cho vay lãi suất tháng tối đa là bao nhiêu nếu tính lãi trên lãi:",
+    "correct": "0,86%",
+    "dists": [
+      "0,85%",
+      "0,58%",
+      "0,84%"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Hợp đồng tương lai hàng hóa có các biên độ giá được xác định bởi Sở giao dịch hợp đồng tương lai",
+    "correct": "Đúng",
+    "dists": [
+      "Sai"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Các thước đo độ rủi ro của chứng khoán:",
+    "correct": "Phương sai,độ lệch chuẩn",
+    "dists": [
+      "Phương sai,hệ số Bêta",
+      "Độ lệch chuẩn, hệ số Bêta",
+      "Không có phương án nào đúng"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Một nhà đầu tư tin rằng giá cà phê trên thị trường sẽ tăng trong tương lai sẽ mua hợp đồng tương lai cà phê:",
+    "correct": "Sai",
+    "dists": [
+      "Đúng"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Tỷ suất chiết khấu được dung để xác định giá trị hiện tại của một luồng tiền nhận được trong tương lai còn được gọi là:",
+    "correct": "Tỷ suất cổ tức",
+    "dists": [
+      "Tỷ suất sinh lời kỳ vọng",
+      "Tỷ suất lợi nhuận",
+      "Tỷ suất vốn hóa"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Nếu tôi được chia thừa kế 1 tỷ đồng sau 5 năm nữa,giá trị đó sẽ có giá trị tại thời điểm hiện tại là:",
+    "correct": "Không đủ thông tin để dự báo",
+    "dists": [
+      "Lớn hơn 1 tỷ",
+      "Đúng bằng 1 tỷ",
+      "Nhỏ hơn 1 tỷ X Thắng: 0912 843 338; 0986 708 338 Skype, Yahoo: Thangx84; Face: Xuanthang.dhthuyloi@gmail.com"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Ba trái phiếu A, B, C có các đặc điểm giống nhau ngoại trừ việc trái phiếu A là trái phiếu thường, trái phiếu B là trái phiếu có thể mua lại, trái phiếu C là trái phiếu có thể bán lại. Nhận định nào sau đây là đúng đối với các mức giá của TP A, B, C",
+    "correct": "Giá của TP C là thấp nhất trong 3 TP",
+    "dists": [
+      "Giá của TP A lớn hơn giá của TP B",
+      "Giá của TP B lớn hơn giá TP của A và C",
+      "Giá của TP A, B, C là giống nhau"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Lãi suất tiết kiệm 2 tháng là 1.5%. Lãi suất này tương đương lãi suất kép năm là:",
+    "correct": "9,34%",
+    "dists": [
+      "9,26%",
+      "9,00%",
+      "9,42%"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Thị trường chứng khoán đang phát triển bình thường. Ngân hàng bạn đang xem xét đầu tư vào CP X có lợi suất kỳ vọng là 15%, lãi suất tín phiếu kho bạc là 8%/năm, lãi suất đầu tư bình quân của thị trường CP là 12%, cổ phiếu đang xem xét có độ rủi ro bằng 0.5 lần rủi ro thị trường",
+    "correct": "Không nên đầu tư vào CP X",
+    "dists": [
+      "Không có lời khuyên vì không đủ thông tin",
+      "Đầu tư vào CP X",
+      "Cả A,B,C đều sai"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Xem xét thời điểm cắt nhau của đường tín hiệu và đường MACD là nguyên tắc chính trong phương pháp sử dụng đường MACD làm công cụ xác định dấu hiệu mua vào và bán ra",
+    "correct": "Đúng",
+    "dists": [
+      "Sai"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Giả sử cá mức lợi suất đáo hạn của các trái phiếu dài hạn được xác định như sau: TP chính phủ Mỹ 8% TP công ty xếp hạng AAA 9.5% TP công ty xếp hạng AA 9.75% TP công ty xếp hạng A 10.25% TP công ty xếp hạng BBB 11.55% Hãy xác định mức bù rủi ro lãi suất đối với các trái phiếu công ty xếp hạng AA và BBB so với TP chính phủ Mỹ cùng thời hạn",
+    "correct": "1,75% và 3,65%",
+    "dists": [
+      "1,65% và 2,55%",
+      "1,75% và 3,55% X Thắng: 0912 843 338; 0986 708 338 Skype, Yahoo: Thangx84; Face: Xuanthang.dhthuyloi@gmail.com"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Cổ phiếu ABC có beta bằng 1.2 và mức sinh lời kỳ vọng bằng 15.4%. Cổ phiếu UTX có beta bằng 1.4 và mức sinh lời kỳ vọng bằng 19%. Lãi suất phi rủi ro là 6% và mức sinh lời kỳ vọng của thị trường là 13.5%. Dựa trên những dữ liệu trên chiến lược nào sau đây tốt nhất:",
+    "correct": "Mua UTX, bán chỉ số thị trường",
+    "dists": [
+      "Mua ACB, bán chỉ số thị trường",
+      "Mua chỉ sổ thị trường và bán UTX",
+      "Mua chỉ số thị trường và bán ABC"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Một USD đáng giá bao nhiêu tại thời điểm hiện tại nếu sau 1 năm nữa bạn nhận được nó từ một ngân hàng,giả định không có rủi ro tín dụng",
+    "correct": "Nhiều hơn 1 USD",
+    "dists": [
+      "1 USD",
+      "Ít hơn 1 USD",
+      "Không đủ thông tin để xác định"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Giai đoạn nào trong chu trình vòng đời của một công ty sẽ có tốc độ tăng trưởng ổn định về doanh số bán hàng",
+    "correct": "Giai đoạn khởi đầu",
+    "dists": [
+      "Giai đoạn ổn định",
+      "Giai đoạn chín muồi",
+      "Giai đoạn tăng trưởng e. Giai đoạn suy thoái"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Khi tính toán đường trung bình trượt theo trọng số giá các thời kỳ trước so với giá hiện tại thường chiếm tỷ trọng lớn hơn",
+    "correct": "Sai",
+    "dists": [
+      "Đúng"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Trong phân tích và đầu tư chứng khoán mức sinh lời của một khoản đầu tư được hiểu là:",
+    "correct": "Tỷ lệ phần trăm tăng lên của tài sản sau một quá trình đầu tư",
+    "dists": [
+      "Giá trị tài sản(tính bằng tiền) tăng lên sau một quá trình đầu tư so với vốn gốc",
+      "Tỷ lệ phần trăm thay đổi của tài sản sau một quá trình đầu tư",
+      "Cả ba phương án trên đều sai"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Tỷ lệ tăng trưởng cổ tức của công ty XYZ trong tương lai được kỳ vọng ở mức 7%/năm.Biết mức chi trả cổ tức hiện tại là 3.85USD và mức sinh lời yêu cầu của nhà đầu tư là 14.5%/năm hãy xác định giá cổ phiếu XYZ sau 3 năm nữa",
+    "correct": "67,29 USD",
+    "dists": [
+      "54,93 USD",
+      "62,88 USD",
+      "58,77 USD X Thắng: 0912 843 338; 0986 708 338 Skype, Yahoo: Thangx84; Face: Xuanthang.dhthuyloi@gmail.com"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Mức sinh lời yêu cầu của một chứng khoán là phương trình của: 1. Phần bù rủi ro của khoản đầu tư 2. Lãi suất phi rủi ro 3. Tỷ lệ lạm phát kỳ vọng",
+    "correct": "Chỉ 1 và 2 đúng",
+    "dists": [
+      "Chỉ 2 và 3 đúng",
+      "Chỉ 1 và 3 đúng",
+      "Cả 1, 2, 3 đều đúng"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Công ty XYZ có thu nhập trên mỗi CP (EPS) là 10 USD và chi trả cổ tức là 6USD/CP. Năm tới bạn kỳ vọng EPS của cổ phiếu này là 11 USD và tỷ lệ chi trả cổ tức duy trì như cũ. Giả định bạn kỳ vọng bán được cổ phiếu này với giá 132USD sau 1 năm nữa. Mức sinh lời yêu cầu của bạn đối với CP này là 12%/năm. Xác định giá cp mà bạn có thể chấp nhận mua vào thời điểm hiện tại",
+    "correct": "128,75 USD",
+    "dists": [
+      "125,75 USD",
+      "123,75 USD",
+      "122,75 USD"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Để áp dụng phương pháp chiết khấu luồng tiền vào định giá cổ phiếu một công ty ta cần thu thập một số dữ liệu đầu vào. Câu trả lời nào dưới đây phản ánh đúng và đầy đủ nhất những dữ liệu cần thiết đó",
+    "correct": "Luồng tiền tự do của công ty, hệ số đòn bẩy mục tiêu",
+    "dists": [
+      "Luồng tiền tự do của công ty, Chi phí vốn vay",
+      "Luồng tiền tự do của công ty, chi phí vốn bình quân",
+      "Luồng tiền tự do của công ty, chi phí vốn cổ phần"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Đối với mô hình Đỉnh đầu - vai, dấu hiệu đảo chiều xu thế được công nhận khi đường vòng cổ trong mô hình bị phá vỡ",
+    "correct": "Sai",
+    "dists": [
+      "Đúng"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Trong xây dựng và phát triển đường xu thế giá đi lên người ta nối các đỉnh với nhau với nguyên tắc đỉnh sau cao hơn đỉnh trước",
+    "correct": "Đúng",
+    "dists": [
+      "Sai"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Nếu tỷ suất chiết khấu là 15%/năm, giá trị hiện tại của dòng tiền 1USD nhận vào cuối mỗi năm trong vòng 3 năm là:",
+    "correct": "2,283USD",
+    "dists": [
+      "1,859USD",
+      "1,736USD X Thắng: 0912 843 338; 0986 708 338 Skype, Yahoo: Thangx84; Face: Xuanthang.dhthuyloi@gmail.com",
+      "1,626USD"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm4",
+    "question": "Giá trị nội tại của 1 cổ phiếu:",
+    "correct": "Không phải lúc nào cũng bằng giá trị thị trường của cổ phiếu đó",
+    "dists": [
+      "Bằng giá trị hiện tại của các luồng tiền ròng dự kiến trong tương lai",
+      "Cả hai đáp án trên đều đúng",
+      "Lớn hơn giá trị hiện tại của các luống tiền ròng dự kiến trong tương lai Ghi chú: Đáp án là do anh tự trả lời, kiến thức có hạn nên không chắc chắn đúng đâu nhé! Phạm Xuân Thắng Mobile: 0912 843 338; 0986 708 338 Skype: Thangx84 Yahoo: Thangx84 Face: xuanthang.dhthuyloi@gmail.com"
+    ],
+    "explanation": "Đáp án đúng là A"
+  }
+]

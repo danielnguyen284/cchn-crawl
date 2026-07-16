@@ -1,0 +1,38 @@
+[
+  {
+    "q": "Luật CK hiện hành có hiệu lực từ năm nào?",
+    "options": [
+      "2021",
+      "2019",
+      "2010",
+      "2015"
+    ],
+    "correct": "A",
+    "exp": "Luật CK 2019 (54/2019/QH14) hiệu lực 01/01/2021.",
+    "topic": "cccm2-t1"
+  },
+  {
+    "q": "Vốn điều lệ tối thiểu để niêm yết tại HOSE?",
+    "options": [
+      "120 tỷ",
+      "30 tỷ",
+      "50 tỷ",
+      "200 tỷ"
+    ],
+    "correct": "A",
+    "exp": "HOSE yêu cầu VĐL tối thiểu 120 tỷ.",
+    "topic": "cccm2-t1"
+  },
+  {
+    "q": "Công bố TT bất thường phải thực hiện trong?",
+    "options": [
+      "24 giờ",
+      "3 ngày",
+      "7 ngày",
+      "1 tháng"
+    ],
+    "correct": "A",
+    "exp": "TT bất thường phải công bố trong 24 giờ.",
+    "topic": "cccm2-t1"
+  }
+]

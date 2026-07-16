@@ -1,0 +1,182 @@
+[
+  {
+    "q": "Công ty Chứng khoán ABC hiện đang trả cổ tức là 2.000 VNĐ/cổ phiếu. Tốc độ tăng trưởng cổ tức dự kiến là 15% trong 3 năm tới, sau đó giảm dần và duy trì ở mức tăng trưởng ổn định là 5% vĩnh viễn. Nếu tỷ suất sinh lời yêu cầu của nhà đầu tư là 12%, giá trị thực của cổ phiếu ABC gần nhất với mức nào sau đây?",
+    "options": [
+      "34.500 VNĐ",
+      "38.250 VNĐ",
+      "41.120 VNĐ",
+      "45.000 VNĐ"
+    ],
+    "correct": "C",
+    "exp": "Đây là bài toán định giá theo mô hình chiết khấu cổ tức 2 giai đoạn (Two-stage DDM).",
+    "topic": "cccm1-t2"
+  },
+  {
+    "q": "Một nhà đầu tư mua một trái phiếu doanh nghiệp có đặc tính Callable và Putable. Phát biểu nào sau đây là chính xác nhất?",
+    "options": [
+      "Callable làm tăng lợi suất yêu cầu, Putable làm giảm lợi suất yêu cầu",
+      "Cả hai đều làm tăng lợi suất",
+      "Callable giảm rủi ro tái đầu tư, Putable tăng rủi ro",
+      "Lợi suất luôn bằng straight bond"
+    ],
+    "correct": "A",
+    "exp": "Callable mang lợi ích cho tổ chức phát hành, Putable mang lợi ích cho nhà đầu tư.",
+    "topic": "cccm1-t2"
+  },
+  {
+    "q": "Khi công ty mua lại cổ phiếu quỹ, điều nào KHÔNG xảy ra?",
+    "options": [
+      "Số lượng CP lưu hành giảm",
+      "EPS tăng nếu lợi nhuận không đổi",
+      "Tổng VCSH tăng lên",
+      "Tỷ lệ sở hữu cổ đông còn lại tăng"
+    ],
+    "correct": "C",
+    "exp": "Mua cổ phiếu quỹ dùng tiền mặt, VCSH giảm chứ không tăng.",
+    "topic": "cccm1-t2"
+  },
+  {
+    "q": "VN-Index tính theo trọng số vốn hóa. Khi một công ty (10% vốn hóa) trả cổ tức bằng CP tỷ lệ 1:1, chỉ số sẽ?",
+    "options": [
+      "Giảm 10%",
+      "Giảm 5%",
+      "Tăng 10%",
+      "Không thay đổi"
+    ],
+    "correct": "D",
+    "exp": "Vốn hóa không đổi khi chia tách/trả cổ tức CP.",
+    "topic": "cccm1-t4"
+  },
+  {
+    "q": "Tài sản nào KHÔNG được coi là chứng khoán theo Luật CK 2019?",
+    "options": [
+      "HĐTL trái phiếu CP",
+      "Chứng chỉ tiền gửi NHTM",
+      "Chứng chỉ quỹ mở",
+      "Chứng quyền có bảo đảm"
+    ],
+    "correct": "B",
+    "exp": "CCTG là công cụ thị trường tiền tệ, không phải chứng khoán.",
+    "topic": "cccm1-t1"
+  },
+  {
+    "q": "Chứng khoán là gì theo Luật CK 2019?",
+    "options": [
+      "CP, TP, CCQ, CQ, CQBĐ, QM CP, CCLK, CCCN và CK phái sinh",
+      "Chỉ CP, TP DN, TP CP và CCQ",
+      "Giấy tờ có giá do NHNN phát hành",
+      "Phương tiện thanh toán thay thế tiền mặt"
+    ],
+    "correct": "A",
+    "exp": "Điều 4 Luật CK 2019.",
+    "topic": "cccm1-t1"
+  },
+  {
+    "q": "Thị trường sơ cấp là?",
+    "options": [
+      "TT phát hành CK lần đầu",
+      "TT mua đi bán lại CK",
+      "TT OTC",
+      "TT phái sinh"
+    ],
+    "correct": "A",
+    "exp": "TT sơ cấp = nơi CK được phát hành lần đầu.",
+    "topic": "cccm1-t3"
+  },
+  {
+    "q": "VN-Index phản ánh gì?",
+    "options": [
+      "Biến động vốn hóa toàn bộ CP trên HOSE",
+      "TB cộng 30 CP thanh khoản nhất",
+      "Biến động CP DNNN cổ phần hóa",
+      "Hiệu suất quỹ mở và ETF"
+    ],
+    "correct": "A",
+    "exp": "VN-Index phản ánh vốn hóa toàn bộ CP trên HOSE.",
+    "topic": "cccm1-t4"
+  },
+  {
+    "q": "Lệnh ATO có đặc điểm?",
+    "options": [
+      "Ưu tiên khớp trước LO tại phiên mở cửa",
+      "Mua/bán tại giá đóng cửa hôm trước",
+      "Chỉ nhập khi có tin bất thường",
+      "Khớp toàn bộ ngay hoặc hủy (FOK)"
+    ],
+    "correct": "A",
+    "exp": "ATO ưu tiên khớp cao nhất tại phiên định kỳ mở cửa.",
+    "topic": "cccm1-t5"
+  },
+  {
+    "q": "HOSE là viết tắt của?",
+    "options": [
+      "Sở GDCK TP.HCM",
+      "Hội đồng CK",
+      "UBCK",
+      "Trung tâm Lưu ký"
+    ],
+    "correct": "A",
+    "exp": "Ho Chi Minh Stock Exchange.",
+    "topic": "cccm1-t6"
+  },
+  {
+    "q": "Mệnh giá CP tại VN?",
+    "options": [
+      "10.000đ",
+      "1.000đ",
+      "100.000đ",
+      "Không quy định"
+    ],
+    "correct": "A",
+    "exp": "Mệnh giá CP = 10.000đ.",
+    "topic": "cccm1-t2"
+  },
+  {
+    "q": "Trái phiếu zero coupon là?",
+    "options": [
+      "TP không trả lãi định kỳ, phát hành chiết khấu",
+      "TP trả lãi hàng năm",
+      "TP chuyển đổi",
+      "TP có bảo đảm"
+    ],
+    "correct": "A",
+    "exp": "Zero-coupon bond phát hành thấp hơn mệnh giá.",
+    "topic": "cccm1-t2"
+  },
+  {
+    "q": "Biên độ dao động giá tối đa tại HOSE?",
+    "options": [
+      "±7%",
+      "±10%",
+      "±5%",
+      "±15%"
+    ],
+    "correct": "A",
+    "exp": "HOSE: ±7%.",
+    "topic": "cccm1-t5"
+  },
+  {
+    "q": "Lô giao dịch tối thiểu tại HOSE?",
+    "options": [
+      "100 CP",
+      "10 CP",
+      "1.000 CP",
+      "1 CP"
+    ],
+    "correct": "A",
+    "exp": "1 lô = 100 CP.",
+    "topic": "cccm1-t5"
+  },
+  {
+    "q": "T+2 có nghĩa là?",
+    "options": [
+      "Thanh toán sau 2 ngày LV",
+      "GD trong 2 giờ",
+      "Kết quả sau 2 tuần",
+      "Hạn mức 2 lần"
+    ],
+    "correct": "A",
+    "exp": "T+2 = thanh toán 2 ngày LV sau ngày GD.",
+    "topic": "cccm1-t5"
+  }
+]

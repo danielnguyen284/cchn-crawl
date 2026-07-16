@@ -1,0 +1,38 @@
+[
+  {
+    "q": "HĐTL VN30 có nghĩa vụ gì?",
+    "options": [
+      "Cả hai bên có nghĩa vụ",
+      "Chỉ người mua",
+      "Chỉ người bán",
+      "Không bắt buộc"
+    ],
+    "correct": "A",
+    "exp": "Futures tạo nghĩa vụ cho cả hai bên.",
+    "topic": "cccm8-t1"
+  },
+  {
+    "q": "Delta trong quyền chọn biểu thị?",
+    "options": [
+      "Thay đổi giá QC khi giá TS cơ sở thay đổi 1 đơn vị",
+      "Thời gian đáo hạn",
+      "Biến động ngụ ý",
+      "LS phi rủi ro"
+    ],
+    "correct": "A",
+    "exp": "Delta đo độ nhạy giá QC.",
+    "topic": "cccm8-t2"
+  },
+  {
+    "q": "Hedging với HĐTL là?",
+    "options": [
+      "Mở vị thế ngược chiều",
+      "Tăng đòn bẩy",
+      "Mua và giữ TS",
+      "Không hành động"
+    ],
+    "correct": "A",
+    "exp": "Hedging = mở vị thế nghịch chiều.",
+    "topic": "cccm8-t4"
+  }
+]

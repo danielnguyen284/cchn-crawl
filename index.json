@@ -1,0 +1,105 @@
+{
+  "subjects": [
+    {
+      "id": "cccm1",
+      "code": "CCCM 1",
+      "name": "Cơ sở về Chứng khoán",
+      "docs": [
+        {
+          "id": "coso-500cauhoi",
+          "title": "500 Câu hỏi – Cơ bản về CK & TTCK",
+          "type": "Ngân hàng câu hỏi",
+          "url": "/documents/CoSo-500CauHoi.pdf"
+        },
+        {
+          "id": "coso-deweb",
+          "title": "Đề Web – Nhóm 1 & 2",
+          "type": "Đề thi mẫu",
+          "url": "/documents/CoSo-DeWeb.pdf"
+        }
+      ]
+    },
+    {
+      "id": "cccm2",
+      "code": "CCCM 2",
+      "name": "Pháp luật Chứng khoán",
+      "docs": [
+        {
+          "id": "luat-bode",
+          "title": "Bộ đề Luật – Cập nhật",
+          "type": "Đề thi mẫu",
+          "url": "/documents/Luat-BoDe.pdf"
+        },
+        {
+          "id": "luat-tonghopchuY",
+          "title": "Tổng hợp Chú ý – Pháp luật CK",
+          "type": "Tài liệu ôn thi",
+          "url": "/documents/Luat-TongHopChuY.pdf"
+        },
+        {
+          "id": "luat-dethi",
+          "title": "Đề thi Mới Cập Nhật",
+          "type": "Đề thi mẫu",
+          "url": "/documents/Luat-DeThi.pdf"
+        }
+      ]
+    },
+    {
+      "id": "cccm3",
+      "code": "CCCM 3",
+      "name": "Môi giới Chứng khoán",
+      "docs": [
+        {
+          "id": "moigioi-vietstock",
+          "title": "Tài liệu Môi giới – VietStock",
+          "type": "Tài liệu ôn thi",
+          "url": "/documents/MoiGioi-VietStock.pdf"
+        },
+        {
+          "id": "moigioi-nganhang",
+          "title": "91 câu hỏi Môi giới có đáp án",
+          "type": "Ngân hàng câu hỏi",
+          "url": "/documents/MoiGioi-NganHangCauHoi.pdf"
+        }
+      ]
+    },
+    {
+      "id": "cccm4",
+      "code": "CCCM 4",
+      "name": "Phân tích & Đầu tư CK",
+      "docs": [
+        {
+          "id": "phantich-bangcongthuc",
+          "title": "Bảng công thức Phân tích",
+          "type": "Công thức",
+          "url": "/documents/PhanTich-BangCongThuc.pdf"
+        },
+        {
+          "id": "phantich-bangcongthuc2",
+          "title": "Bảng công thức PT & ĐTCK",
+          "type": "Công thức",
+          "url": "/documents/PhanTich-BangCongThuc2.pdf"
+        },
+        {
+          "id": "phantich-tailieu",
+          "title": "Tài liệu ôn tập Phân tích",
+          "type": "Tài liệu ôn thi",
+          "url": "/documents/PhanTich-TaiLieuOnTap.pdf"
+        },
+        {
+          "id": "phantich-dapan",
+          "title": "Đáp án Đề thi Phân tích",
+          "type": "Đáp án",
+          "url": "/documents/PhanTich-DapAnDeThi.pdf"
+        },
+        {
+          "id": "phantich-dechuanTN",
+          "title": "Đề chuẩn Trắc nghiệm PT",
+          "type": "Đề thi mẫu",
+          "url": "/documents/PhanTich-DeChuanTN.pdf"
+        }
+      ]
+    }
+  ],
+  "downloadedAt": "2026-07-16T11:57:10.877Z"
+}

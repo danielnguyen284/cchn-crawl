@@ -1,0 +1,114 @@
+[
+  {
+    "id": "cccm1",
+    "code": "CCCM 1",
+    "name": "Cơ bản về Chứng khoán",
+    "totalQuestions": 300,
+    "topics": [
+      {
+        "id": "cccm1-t1",
+        "name": "Tổng quan về chứng khoán",
+        "count": 45
+      },
+      {
+        "id": "cccm1-t2",
+        "name": "Cổ phiếu và trái phiếu",
+        "count": 60
+      },
+      {
+        "id": "cccm1-t3",
+        "name": "Thị trường sơ cấp và thứ cấp",
+        "count": 50
+      },
+      {
+        "id": "cccm1-t4",
+        "name": "Chỉ số thị trường chứng khoán",
+        "count": 40
+      },
+      {
+        "id": "cccm1-t5",
+        "name": "Cơ chế giao dịch",
+        "count": 55
+      },
+      {
+        "id": "cccm1-t6",
+        "name": "Các tổ chức trên thị trường",
+        "count": 50
+      }
+    ]
+  },
+  {
+    "id": "cccm2",
+    "code": "CCCM 2",
+    "name": "Pháp luật về Chứng khoán",
+    "totalQuestions": 300,
+    "topics": [
+      {
+        "id": "cccm2-t1",
+        "name": "Luật Chứng khoán 2019",
+        "count": 70
+      },
+      {
+        "id": "cccm2-t2",
+        "name": "Nghị định và Thông tư hướng dẫn",
+        "count": 60
+      },
+      {
+        "id": "cccm2-t3",
+        "name": "Công bố thông tin",
+        "count": 55
+      },
+      {
+        "id": "cccm2-t4",
+        "name": "Chế tài xử phạt vi phạm",
+        "count": 45
+      },
+      {
+        "id": "cccm2-t5",
+        "name": "UBCKNN",
+        "count": 40
+      },
+      {
+        "id": "cccm2-t6",
+        "name": "Quy tắc đạo đức nghề nghiệp",
+        "count": 30
+      }
+    ]
+  },
+  {
+    "id": "cccm3",
+    "code": "CCCM 3",
+    "name": "Môi giới và Tư vấn đầu tư",
+    "totalQuestions": 300
+  },
+  {
+    "id": "cccm4",
+    "code": "CCCM 4",
+    "name": "Phân tích và Đầu tư CK",
+    "totalQuestions": 300
+  },
+  {
+    "id": "cccm5",
+    "code": "CCCM 5",
+    "name": "Phân tích BCTC",
+    "totalQuestions": 300
+  },
+  {
+    "id": "cccm6",
+    "code": "CCCM 6",
+    "name": "Tư vấn TC và Bảo lãnh PH",
+    "totalQuestions": 300
+  },
+  {
+    "id": "cccm7",
+    "code": "CCCM 7",
+    "name": "Quản lý Quỹ và Tài sản",
+    "totalQuestions": 300
+  },
+  {
+    "id": "cccm8",
+    "code": "CCCM 8",
+    "name": "Chứng khoán Phái sinh",
+    "totalQuestions": 300
+  }
+]

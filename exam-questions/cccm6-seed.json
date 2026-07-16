@@ -1,0 +1,26 @@
+[
+  {
+    "q": "Bảo lãnh phát hành là?",
+    "options": [
+      "Cam kết mua toàn bộ CK chưa bán hết",
+      "Tư vấn niêm yết",
+      "QLDM",
+      "Môi giới CK"
+    ],
+    "correct": "A",
+    "exp": "BLP = cam kết mua CK chưa phân phối hết.",
+    "topic": "cccm6-t1"
+  },
+  {
+    "q": "M&A là?",
+    "options": [
+      "Mergers and Acquisitions",
+      "Market Analysis",
+      "Management Audit",
+      "Money and Assets"
+    ],
+    "correct": "A",
+    "exp": "Sáp nhập và Mua lại.",
+    "topic": "cccm6-t3"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "collections": [
+    "cccm1",
+    "cccm2",
+    "cccm3",
+    "cccm4",
+    "documents",
+    "settings",
+    "users"
+  ],
+  "firestorePatterns": [],
+  "driveLinks": [],
+  "notebookLinks": [],
+  "interesting": []
+}

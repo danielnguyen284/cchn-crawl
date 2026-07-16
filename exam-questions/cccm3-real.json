@@ -1,0 +1,695 @@
+[
+  {
+    "subjectId": "cccm3",
+    "question": "Nghề môi giới chứng khoán là: I. Công việc chuyên môn của các cá nhân II. Công việc chuyên môn của các tổ chức III. Được hình thành theo sự phân công lao động xã hội IV. Làm trung gian giúp cho việc mua, bán chứng khoán được thực hiện V. Kết nối nhu cầu bên mua với nhu cầu bên bán chứng khoán.",
+    "correct": "I và III",
+    "dists": [
+      "I, III và IV",
+      "II, IV và V",
+      "Tất cả các mục trên Đáp án: d"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Chức năng môi giới chứng khoán bao gồm: I. Chức năng cung cấp thông tin và tư vấn cho khách hàng về i. diễn biến tổng thể của thị trường ii. động thái của từng ngành iii. hoạt động của từng công ty trong ngành II. Chức năng cung cấp các sản phẩm và dịch vụ tài chính giúp KH thực hiện giao dịch i. Theo yêu cầu của khách hàng ii. Vì lợi ích của khách hàng",
+    "correct": "I(i) và II",
+    "dists": [
+      "I và II",
+      "I(i), I(ii) và II(i)",
+      "I và II(ii) Đáp án: b"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Hoạt động môi giới chứng khoán, hiểu theo nghĩa rộng là: I. Làm trung gian giúp khách hàng mua, bán chứng khoán II. Tư vấn đầu tư liên quan đến chứng khoán III. Làm trung gian giúp cho việc mua bán chứng khoán được thực hiện có hàm lượng tư vấn đầu tư cao Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu!",
+    "correct": "I và II",
+    "dists": [
+      "III Đáp án: b"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Khi nhận dịch vụ do người môi giới chứng khoán cung cấp, người đầu tư mong chờ người môi giới giúp ra các quyết định: I. Cho biết thời điểm nên mua II. Cho biết thời điểm nên bán III. Cho biết thông tin mới nhất về những gì đang diễn ra trên thị trường",
+    "correct": "I và II",
+    "dists": [
+      "I, II và III",
+      "II và III Đáp án: b"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Công ty môi giới chứng khoán, tùy chức năng và điều kiện cho phép có thể giúp khách hàng thực hiện lệnh theo những phương thức sau: I. Làm trung gian thu xếp mua, bán chứng khoán với tư cách là đại diện của khách hàng mua, bán chứng khoán cho tài khoản của khách hàng II. Hoạt động với tư cách nhà giao dịch (trader) chứng khoán, bằng cách mua lại của nhà tạo giá, kê giá lên thành giá thực bán và bán lại cho khách hàng III. Bán chứng khoán có trong danh mục của công ty môi giới chứng khoán theo lệnh đặt mua của khách hàng",
+    "correct": "I và II",
+    "dists": [
+      "I, II và III",
+      "II, III",
+      "I hoặc II, hoặc III Đáp án: d"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Bán hàng tư vấn là phương pháp bán hàng được triển khai theo chiều rộng một cách logic trên cơ sở: I. Phương pháp bán hàng truyền thống II. Phương pháp bán hàng tiếp thị, trong đó i. Người môi giới cố gắng tìm hiểu những hàng hóa, sản phẩm khách hàng cần ii. Người môi giới cố gắng đáp ứng nhu cầu của khách hàng một cách tốt nhất bằng các sản phẩm hay dịch vụ của mình Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu! iii. Người môi giới phải cố gắng đáp ứng nhu cầu của khách hàng bằng các sản phẩm thích hợp",
+    "correct": "I",
+    "dists": [
+      "II",
+      "I và II(iii) Đáp án: b"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Trong bán hàng tư vấn, các yếu tố quyết định thành công của người hành nghề tài chính chuyên nghiệp là: I. Thái độ của người môi giới đối với khách hàng II. Thái độ của người môi giới đối với công việc III. Tri thức nhà nghề IV. Năng lực truyền đạt ý tưởng và kiến thức một cách hiệu quả V. Liên tục phát triển kỹ năng cá nhân và nghiệp vụ",
+    "correct": "I, II và III",
+    "dists": [
+      "I, III và IV",
+      "Tất cả các yếu tố trên Đáp án: c"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Để tránh sự phản ứng, chống đối của khách hàng khi người môi giới tiếp xúc với khách hàng, với tư cách hành nghề tài chính chuyên nghiệp, mục tiêu cần ưu tiên số 1 mà người môi giới chứng khoán cần thể hiện rõ để khách hàng nhận biết được lý do khiến họ quyết định trở thành người môi giới chứng khoán là:",
+    "correct": "Vì tiền",
+    "dists": [
+      "Vì thách thức",
+      "Vì thích nghề môi giới chứng khoán/vì phấn khích",
+      "Giúp khách hàng đạt mục tiêu tài chính của mình Đáp án: d Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu!"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Nguyên nhân cơ bản dẫn đến tranh chấp xung đột lợi ích, đặc trưng riêng có của lĩnh vực môi giới chứng khoán giữa nhân viên môi giới với khách hàng, là: I. Phương thức trả thù lao cho người bán hàng – nhân viên môi giới II. Căn cứ trả thêm các khoản phúc lợi III. Động lực cơ bản thúc đẩy khách hàng thực hiện giao dịch chứng khoán và động lực của người môi giới là giống nhau IV. Động lực cơ bản thúc đẩy khách hàng thực hiện giao dịch chứng khoán và động lực của người môi giới là trái ngược nhau",
+    "correct": "I, II và III",
+    "dists": [
+      "I, II và IV",
+      "II, III và IV",
+      "I, III và IV Đáp án: b"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Nhà môi giới chứng khoán hoạt động với tư cách đại lý, đại diện thu xếp giao dịch chứng khoán cho khách hàng và môi giới được nhận hoa hồng từ các dịch vụ cung cấp cho khách hàng. Khi hoạt động với tư cách người hành nghề môi giới, công ty môi giới chứng khoán:",
+    "correct": "Thực hiện mua, bán chứng khoán cho chính mình",
+    "dists": [
+      "Không thực hiện mua, bán chứng khoán cho mình mà chỉ là người kết nối và giúp khách hàng thực hiện yêu cầu mua, bán chứng khoán Đáp án: b"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Trong quá trình cung cấp dịch vụ môi giới cho khách hàng, người môi giới phải tuân thủ các chuẩn mực đạo đức nghề nghiệp như sau: I. Trung thực và cẩn trọng II. Độc lập và liêm khiết III. Hiểu khách hàng (chuyên nghiệp và mẫn cán) IV. Có đạo đức",
+    "correct": "I, III và IV",
+    "dists": [
+      "II, III và IV",
+      "I, II và IV",
+      "Tất cả các chuẩn mực trên Đáp án: d"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Để ngăn ngừa và xử lý xung đột lợi ích có thể phát sinh giữa người môi giới và khách hàng trong việc thực hiện các giao dịch bảo chứng, công ty môi giới phải đề ra nội quy bảo đảm Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu! người môi giới phải hiểu và tuân thủ trong quá trình hành nghề, người môi giới phải tuân thủ chuẩn mực đạo đức đề ra, đó là: I. Đáp ứng tiêu chí về tính phù hợp của giao dịch II. Tuân thủ quy định trong việc đặt lệnh và thực hiện các bút toán tương ứng trên tài khoản của khách hàng III. Tuân thủ quy định về giao dịch bảo chứng IV. Tránh việc giao dịch thái quá trên tài khoản của khách hàng V. Công ty môi giới phải xây dựng và thức hiện chức năng giám sát quá trình tác nghiệp của nhân viên công ty",
+    "correct": "I, II và III",
+    "dists": [
+      "I, III và IV",
+      "II, III, IV và V",
+      "I, III, IV và V e. Tất cả các qui định trên Đáp án: e"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Trong lĩnh vực Môi giới chứng khoán “tính phù hợp” theo nghĩa rộng được thể hiện qua việc chấp thuận cho mở tài khoản, theo nghĩa hẹp “tính phù hợp” được minh họa bằng các giao dịch trên tài khoản đã mở. Để đáp ứng yêu cầu thỏa mãn “tính phù hợp” của mỗi giao dịch với khách hàng, người môi giới phải: I. Được ủy thác về tài chính. II. Xử lý mối tương quan giữa tình trạng tài chính của khách hàng với trạng thái tài khoản hay chiến lược được đề xuất. III. Không nhất thiết được ủy thác về tài chính. IV. Thường xuyên tìm hiểu về thu nhập, tài sản thực có nói chung và tài sản thực có bằng tiền của khách hàng.",
+    "correct": "I, II, III",
+    "dists": [
+      "I, III",
+      "II, III, IV",
+      "II, III e. I, IV Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu! Đáp án: c"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Trong quá trình xử lý tài khoản, đại diện giao dịch mua bán chứng khoán cho khách hàng, để tránh các vụ khiếu kiện của khách hàng, người môi giới cần tuân thủ các qui định sau: I. Chỉ đặt lệnh mua bán chứng khoán thay mặt khách hàng khi tài khoản được mở một cách hợp lệ. II. Chỉ được thực hiện lệnh giao dịch thay mặt khách hàng khi khách hàng cho phép bằng văn bản. III. Không được nâng giá quá mức. IV. Phải tuân thủ qui định pháp luật và nội qui công ty trong quá trình nhập lệnh.",
+    "correct": "I, III, IV",
+    "dists": [
+      "II, III, IV",
+      "I, II, III",
+      "Tất cả các qui định trên Đáp án: d"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Giao dịch bảo chứng là nghiệp vụ kinh doanh chứng khoán, trong đó công ty môi giới chứng khoán:",
+    "correct": "Thực hiện giao dịch cho khách hàng trong phạm vi số tiền có trên tài khoản bảo chứng theo nguyên tắc thực hiện giao dịch chứng khoán như trên tài khoản bằng tiền.",
+    "dists": [
+      "Cho người đầu tư vay một phần tiền để mua chứng khoán và dùng chứng khoán của nhà đầu tư làm vật thế chấp cho khoản vay.",
+      "Cho người đầu tư vay tất cả tiền để mua chứng khoán và dùng chứng khoán của nhà đầu tư làm vật thế chấp cho khoản vay.",
+      "Cho người đầu tư vay để mua chứng khoán và người đầu tư được toàn quyền sử dụng số chứng khoán có trên tài khoản bảo chứng. Đáp án: b"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Các loại “lệnh gọi bảo chứng” bao gồm: I. Lệnh gọi ban đầu. II. Lệnh gọi duy trì.",
+    "correct": "I",
+    "dists": [
+      "II Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu!",
+      "I và II Đáp án: c"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Mục đích duy nhất của việc “gọi ký quỹ” duy trì khi công ty môi giới quản lý tài khoản bảo chứng là:",
+    "correct": "Chỉ bảo vệ người đầu tư.",
+    "dists": [
+      "Chỉ bảo vệ công ty chứng khoán.",
+      "Bảo vệ người đầu tư và công ty chứng khoán. Đáp án: b"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Để duy trì vị thế an toàn trên tài khoản bảo chứng, khi công ty môi giới yêu cầu / gửi các lệnh “gọi ký quỹ” duy trì, trong thời gian từ 1-3 ngày khách hàng phải bổ sung tài sản sau để đáp ứng các lệnh “gọi ký quỹ”:",
+    "correct": "Bằng tiền tùy theo khả năng của khách hàng",
+    "dists": [
+      "Bằng chứng khoán khác tùy khách hàng lựa chọn",
+      "Bằng tiền hoặc thế chấp bằng chứng khoán khác tùy công ty môi giới quyết định chấp nhận hay không Đáp án: c"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Khi công ty môi giới quản lý, theo dõi trạng thái của tài khoản bảo chứng, trường hợp khách hàng không thể bổ sung được khoản ký quỹ cần thiết hoặc không muốn ký quỹ thêm khi nhận được lệnh “gọi ký quỹ” duy trì, công ty môi giới được quyền:",
+    "correct": "Bán số cổ phiếu có trên tài khoản bảo chứng để đảm bảo đủ số tiền (hoặc mua lại đủ số cổ phiếu đã bán khống) để duy trì trạng thái tài khoản theo đúng qui định.",
+    "dists": [
+      "Thanh lý toàn bộ số cổ phiếu có trên tài khoản bảo chứng và tất toán tài khoản bảo chứng Đáp án: a"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " “Xoay vòng chứng khoán” về cơ bản có thể xảy ra khi người môi giới kiểm soát tài khoản của một người khác tham gia giao dịch và khi giao dịch có dấu hiệu sau:",
+    "correct": "Giao dịch với tần số quá lớn Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu!",
+    "dists": [
+      "Giao dịch với khối lượng quá lớn",
+      "avà b",
+      "Hoặc a hoặc b Đáp án: d"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Yếu tố/điều kiện cần có để một tài khoản có thể bị “xoay vòng”:",
+    "correct": "Động cơ kiếm lời thúc đẩy người môi giới thực hiện xoay vòng.",
+    "dists": [
+      "Việc giao dịch quá mức",
+      "Có việc kiểm soát tài khoản",
+      "Cả ba yếu tố/điều kiện trên Đáp án: d"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Việc giao dịch quá mức có thể được xác định thông qua động cơ của hành động xoay vòng là kiếm lời. Do vậy, để xác định một giao dịch là quá mức, có thể: I. So sánh các khoản hoa hồng của môi giới với số vốn ban đầu của khách hàng dành cho giao dịch chứng khoán để tính chỉ số chi phí vốn II. So sánh các khoản hoa hồng của môi giới với số vốn bình quân của khách hàng để tính chỉ số chi phí vốn.",
+    "correct": "Hoặc I hoặc II",
+    "dists": [
+      "Cả I và II Đáp án: a"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Trước khi mở tài khoản giao dịch bảo chứng, khách hàng cần hiểu rằng: I. Khách hàng có thể mất nhiều tiền hơn khi thực hiện trên tài khoản bảo chứng so với đầu tư trên tài khoản tiền II. Khách hàng phải đặt cọc thêm tiền hoặc chứng khoán ngay khi môi giới “gọi ký quỹ” để bù lỗ III. Khách hàng không phải đặt thêm tiền hoặc chứng khoán khi có “gọi ký quỹ” IV. Khách hàng bị ép bán cổ phiếu khi giá cổ phiếu giảm V. Công ty môi giới được quyền bán một phần hoặc tất cả cổ phiếu mà khách hàng có và không phải hỏi ý kiến khách hàng về việc bán cổ phiếu để bù đắp khoản vay",
+    "correct": "I, II, III Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu!",
+    "dists": [
+      "I, II, IV, V",
+      "I, III, IV, V",
+      "II, III, IV, V Đáp án: b"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Khách hàng mua cổ phiếu trên tài khoản bảo chứng với tổng giá trị là 16.000$ bằng cách vay 8.000$ từ công ty môi giới và trả 8.000$ còn lại bằng tiền. Giả sử giá trị thị trường hiện hành của cổ phiếu giảm xuống còn 12.000$ và giả sử theo qui định pháp luật mức duy trì ký quỹ bắt buộc là 25%, hỏi khách hàng cần phải có ít nhất bao nhiêu tiền trong tài khoản để đảm bảo mức ký quỹ duy trì? Hãy chọn phương án đúng trong số các phương án sau:",
+    "correct": "3.000$",
+    "dists": [
+      "4.000$",
+      "2.000$",
+      "3.500$ Đáp án: a"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Khách hàng mua cổ phiếu trên tài khoản bảo chứng với tổng giá trị là 16.000$ bằng cách vay 8.000$ từ công ty môi giới và trả 8.000$ còn lại bằng tiền. Giả sử giá trị thị trường hiện hành của cổ phiếu giảm xuống còn 12.000$ và giả sử theo qui định của công ty môi giới mức duy trì ký quỹ bắt buộc là 40%. (1) Tài khoản của khách hàng có đủ tiền để duy trì tài khoản ký quỹ không",
+    "correct": "Có",
+    "dists": [
+      "Không Đáp án: b (2) Trong trường hợp này môi giới được quyền “gọi ký quỹ” là:",
+      "800$",
+      "600$",
+      "500$ Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu! Đáp án: b"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Tài khoản bảo chứng (tài khoản margin) thực chất là:",
+    "correct": "Tài khoản thể hiện khoản Nợ giữa khách hàng và người môi giới, trong đó số chứng khoán khách hàng đã mua được dùng làm vật bảo đảm, thế chấp cho khoản vay",
+    "dists": [
+      "Tài khoản bằng tiền, trong đó khi thực hiện giao dịch chứng khoán khách hàng phải thanh toán đủ số tiền mua chứng khoán và được toàn quyền sở hữu số chứng khoán đã mua Đáp án: a"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Giá trị thị trường hiện hành của số cổ phiếu có trên tài khoản giao dịch bảo chứng là:",
+    "correct": "Tổng giá trị cổ phiếu mà khách hàng đã mua vào lần giao dịch đầu tiên.",
+    "dists": [
+      "Tổng giá trị cổ phiếu mà khách hàng đã mua vào lần giao dịch gần nhất.",
+      "Tổng giá trị cổ phiếu tính theo giá gốc. Đáp án: b"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Khi thực hiện giao dịch trên tài khoản bảo chứng, yêu cầu về mức “ký quỹ ban đầu” do cơ quan quản lý qui định là:",
+    "correct": "Số tiền khách hàng phải nộp vào tài khoản khi khách hàng định mua chứng khoán trên tài khoản giao dịch bảo chứng",
+    "dists": [
+      "Số tiền phải nộp vào khi khách hàng định mua chứng khoán trên tài khoản giao dịch chứng khoán bằng tiền",
+      "Cả hai loại trên Đáp án: a"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Dư Nợ hình thành trên tài khoản giao dịch bảo chứng là:",
+    "correct": "Khoản tiền người môi giới cho khách hàng vay.",
+    "dists": [
+      "Khoản tiền khách hàng cho người môi giới vay.",
+      "Chênh lệch giữa khoản tiền môi giới cho khách hàng vay với vốn có của khách hàng. Đáp án: a Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu!"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Vốn chủ sở hữu (hay giá trị tài sản thực có) của khách hàng trong giao dịch bảo chứng được coi là:",
+    "correct": "Giá trị thị trường hiện hành của số cổ phiếu trên tài khoản bảo chứng của khách hàng",
+    "dists": [
+      "Khoản chênh lệch giữa giá trị thị trường hiện hành của số cổ phiếu trên tài khoản bảo chứng và dư Nợ trên tài khoản bảo chứng của khách hàng Đáp án: b"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Một tài khoản được xác định là “bị xoay vòng”, trước hết phải có những yếu tố sau: I. Tài khoản đó phải chịu sự kiểm soát của Môi giới - người được hưởng lợi từ hành vi xoay vòng chứng khoán II. Môi giới được ủy quyền quản lý tài khoản III. Các giao dịch trên tài khoản được thực hiện với tần số quá lớn IV. Các giao dịch trên tài khoản được thực hiện với khối lượng quá lớn",
+    "correct": "I và III",
+    "dists": [
+      "I và IV",
+      "I, II và III (hoặc IV)",
+      "D. II và IV e. II và III Đáp án: c"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Biện pháp bảo vệ môi giới tránh việc quy kết môi giới thực hiện hành vi “xoay vòng chứng khoán”, là:",
+    "correct": "Người môi giới phải cung cấp chứng cứ rõ ràng chứng minh tài khoản không bị xoay vòng",
+    "dists": [
+      "Người môi giới phải chứng minh giao dịch là không quá mức bằng cách đưa ra những chỉ số như vòng quay vốn, chi phí giao dịch so với vốn có ban đầu hay vốn bình quân thấp hơn mức của dấu hiệu xoay vòng chứng khoán",
+      "Chứng minh môi giới không nắm quyền kiểm soát tài khoản",
+      "Tất cả các hành động trên Đáp án: d"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Các khoản mục chính trên tài khoản bảo chứng: Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu! I. Giá trị hiện hành của cổ phiếu trên thị trường II. Giá trị cổ phiếu (chứng khoán) thực có III. Dư Có IV. Dư Nợ V. Giá trị khoản vay VI. Giá trị vượt trội VII. Sức mua VIII. Tỷ lệ an toàn vốn tối thiểu",
+    "correct": "I, II, III, V, VI",
+    "dists": [
+      "I, II, III, VI, VII",
+      "I, II, VII, VIII",
+      "Tất cả các khoản mục trên Đáp án: d"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Mỗi tài khoản bảo chứng được chia thành 3 phần: (1) Thị giá hiện hành của chứng khoán có trên tài khoản vào thời điểm hiện tại; (2) Giá trị chứng khoán thực có; (3) Dư Nợ. Hãy cho biết 3 phần trong tài khoản có mối quan hệ với nhau không?",
+    "correct": "3 phần của tài khoản được liên hệ bằng công thức: Giá trị CK thực có = Giá trị hiện hành của CK trên thị trường – Dư Nợ",
+    "dists": [
+      "3 phần của tài khoản không có mối tương quan nào Đáp án: a"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Giả sử vào ngày thứ hai, khách hàng mua 100 cổ phần XYZ trên tài khoản bảo chứng 100 cổ phần XYZ với giá 50$/1CP. Tổng cộng số tiền phải trả là 5.000$ (chưa tính phí môi giới). Nếu cũng vào ngày thứ hai đó, giá đóng cửa của cổ phiếu XYZ là 52$/1CP. Giá trị hiện hành trên thị trường của cổ phiếu XYZ trong ngày thứ ba là:",
+    "correct": "5.000$",
+    "dists": [
+      "5.200$ Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu! Đáp án: b"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Vào ngày 15/4/2008, một khách hàng mua 100 cổ phần XYZ trên tài khoản bảo chứng với số tiền là 5.000$. Cùng ngày khách hàng gửi 4.000$ để thanh toán. Như vậy Dư nợ là 1.000$. Giá đóng cửa của cổ phiếu XYZ trong ngày 15/4/2008 là 52$/1CP. Giá trị chứng khoán thực có trên tài khoản của khách hàng vào ngày 15/4/2008 và 16/4/2008 tương ứng là:",
+    "correct": "4.200$; 4.000$",
+    "dists": [
+      "4.000$; 4.200$ Đáp án: b"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Vào ngày 15/4/2008, một khách hàng mua 100 cổ phần XYZ trên tài khoản bảo chứng với số tiền là 5.000$. Cùng ngày khách hàng gửi 4.000$ để thanh toán. Dư nợ là 1.000$. Giá đóng cửa của cổ phiếu XYZ trong ngày 15/4/2008 là 52$/1CP và trong ngày 16/4/2008 là 48$/1CP. Hỏi giá trị chứng khoán thực có trên tài khoản bảo chứng của khách hàng vào ngày 15/4, 16/4 và 17/4/2008 tương ứng là bao nhiêu? Lựa chọn 1 trong các phương án sau:",
+    "correct": "4.000$; 4.200$; 3.800$",
+    "dists": [
+      "5.000$; 5.200$; 4.800$ Đáp án: a"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Vào ngày 15/4/2008, một khách hàng mua 100 cổ phần XYZ trên tài khoản bảo chứng với số tiền là 5.000$. Cùng ngày khách hàng gửi 4.000$ để thanh toán. Dư nợ là 1.000$. Giá đóng cửa của cổ phiếu XYZ trong ngày 15/4/2008 là 52$, trong ngày 16/4/2008 là 48$. Hỏi giá trị thị trường hiện hành của chứng khoán đó tương ứng trong ngày 15,16 và 17/4/2008 là bao nhiêu. Hãy lựa chọn 1 trong các phương án sau:",
+    "correct": "5.000$; 5.200$; 4.800$",
+    "dists": [
+      "5.200$; 5.000$; 4.800$",
+      "4.800$; 5.200$; 5.000$ Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu! Đáp án: a"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " ‘Tỷ lệ dự trữ vốn tối thiểu bắt buộc” là yêu cầu khách hàng phải duy trì giá trị chứng khoán thực có = 25% giá trị thị trường của các chứng khoán này. Nếu khách hàng có giá trị chứng khoán hiện hành theo thị trường (giá trị thị trường của chứng khoán này) là 10.000$ trên tài khoản bảo chứng, thì giá trị chứng khoán thực có tối thiểu phải là:",
+    "correct": "2.500$",
+    "dists": [
+      "10.000$ Đáp án: a"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Khách hàng mua 1000 cổ phiếu thưởng của công ty XYZ và cổ phiếu này được đăng ký đứng tên công ty môi giới. Công ty XYZ công bố trả cổ tức 25.000đ/1CP. Đến ngày trả cổ tức, công ty XYZ phải chuyển bao nhiêu tiền cho công ty môi giới để trả cho khách hàng? Chọn Phương án đúng trong số các phương án sau:",
+    "correct": "50 triệu đ",
+    "dists": [
+      "25 triệu đ",
+      "15 triệu đ",
+      "10 triệu đ Đáp án: b"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Khách hàng A đến làm thủ tục mở tài khoản tại công ty môi giới chứng khoán. Ngày 16/3, khách hàng chuyển 10.000.000đồng vào tài khoản để thực hiện giao dịch chứng khoán. Trong hợp đồng mở tài khoản nêu rõ đây là tài khoản bằng tiền mở để thực hiện giao dịch chứng khoán. Và ngày 17/3 người môi giới nhận lệnh của khách hàng đặt mua 10.000 CP của Công ty cổ phần cơ điện lạnh (Ree) với giá 20.000đồng/1CP trên tài khoản bảo chứng và hứa sẽ gửi giấy ủy quyền thực hiện giao dịch trên tài khoản bảo chứng. Mức ký quỹ tối thiểu ban đầu là 10.000.000 đồng và phải đạt 50% giá trị giao dịch trong lần đặt mua chứng khoán lần đầu trên tài khoản giao dịch ký quỹ. Nhân viên môi giới đưa lệnh đó vào hệ thống giao dịch của SGDCK Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu! TP.HCM và lệnh đó được khớp và môi giới thực hiện hoàn tất giao dịch vào ngày 20/3. Cho đến ngày 21/3/2008 khách hàng A vẫn chưa gửi giấy ủy quyền giao dịch trên tài khoản bảo chứng. 1. Ngày 21/3, giá cổ phiếu Ree giảm còn 15.000đồng/1CP. Khách hàng A khiếu kiện công ty môi giới đã thực hiện giao dịch chưa có giấy ủy quyền bằng văn bản của khách hàng A cho nhân viên môi giới thực hiện giao dịch trên tài khoản bảo chứng và không đồng ý thanh toán giao dịch này. Trường hợp này bên có lỗi là:",
+    "correct": "Khách hàng A",
+    "dists": [
+      "Công ty môi giới",
+      "Không ai có lỗi Đáp án: b 2. Tại sao công ty môi giới bị buộc tội thực hiện giao dịch không đúng qui định?",
+      "Vì tỷ lệ ký quỹ tối thiểu ban đầu không đảm bảo qui định pháp luật.",
+      "Vì cả hai lý do trên Đáp án: a"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Điều kiện nào để khách hàng được phép đưa ra những lệnh bảo chứng đầu tiên:",
+    "correct": "Được môi giới chấp thuận và hoàn tất thủ tục mở tài khoản giao dịch chứng khoán bằng tiền.",
+    "dists": [
+      "Gửi các giấy tờ bảo chứng xác nhận công ty môi giới được quyền sử dụng 50% số tiền có trên tài khoản của khách hàng để thực hiện giao dịch theo nguyên tắc vay tiền công ty môi giới để mua chứng khoán và đồng ý dùng chứng khoán đó làm vật đảm bảo cho khoản vay.",
+      "Cả a và b Đáp án: c Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu!"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Lệnh bán “khống” chứng khoán là lệnh:",
+    "correct": "Bán số chứng khoán đi vay (hay bán số chứng khoán khi không sở hữu chứng khoán đó).",
+    "dists": [
+      "Bán chứng khoán khi đã sở hữu chứng khoán đó.",
+      "Cả 2 loại trên Đáp án: a"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " “Bán khống” chứng khoán là:",
+    "correct": "Bán số chứng khoán mà người bán không sở hữu chứng khoán đó",
+    "dists": [
+      "Bán số chứng khoán mà người bán có trên tài khoản của mình Đáp án: a"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "“Lệnh thị trường” là:",
+    "correct": "Là lệnh do khách hàng ghi rõ giá mua hay giá bán trên phiếu và môi giới chỉ được thực hiện lệnh theo giá ghi trên lệnh.",
+    "dists": [
+      "Lệnh ra chỉ thị cho môi giới chấp nhận giá hiện hành trên thị trường hay là lệnh chấp nhận giá đặt mua và giá chào bán (giá yết). Đáp án: b"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Lệnh giới hạn là lệnh được hiểu và có đặc điểm sau:",
+    "correct": "Ấn định mức giá giới hạn mà khách hàng sẵn sàng bán hoặc mua",
+    "dists": [
+      "Với lệnh giao dịch theo giá giới hạn khách hàng muốn mua chứng khoán phải thanh toán tiền tối đa bằng giá giới hạn ghi trên lệnh giao dịch và khách hàng bán chứng khoán được nhận tiền thanh toán tối thiểu bằng giá giới hạn đó",
+      "Lệnh phải ghi rõ: hoặc “có giá trị trong ngày” hoặc “có giá trị đến khi được hủy”",
+      "Tất cả các điểm a, b, c Đáp án: d Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu!"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Lệnh dừng bán hay lệnh bán tự động là:",
+    "correct": "Lệnh cho phép người môi giới tự động bán khi giá của cổ phiếu mà khách hàng đang nắm giữ rớt xuống tới mức nhất định",
+    "dists": [
+      "Lệnh không cho phép người môi giới tự động bán khi giá cổ phiếu mà khách hàng đang nắm giữ rớt xuống mức nhất định Đáp án: a"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Lệnh dừng cắt lỗ hoạt động theo nguyên tắc sau:",
+    "correct": "Khách hàng đặt lệnh dừng ở mức giá nhất định đối với loại cổ phiếu mà mình đang nắm giữ, cổ phiếu xuống đến mức giá đó và lệnh dừng của khách hàng ngay lập tức có hiệu lực và sẽ được đưa vào hệ thống để khớp.",
+    "dists": [
+      "Khách hàng đặt lệnh dừng ở mức giá nhất định đối với loại cổ phiếu mà mình đang nắm giữ, cổ phiếu xuống đến mức giá đó và khách hàng phải chỉ thị cho môi giới thực hiện ngay. Đáp án: a"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Bộ phận mua và bán trong công ty môi giới chứng khoán có chức năng chính sau:",
+    "correct": "Ghi chép giao dịch",
+    "dists": [
+      "Lên số liệu (lập báo cáo giao dịch)",
+      "Đối chiếu và điều chỉnh",
+      "Xác nhận và hạch toán ghi sổ e. Tất cả các chức năng trên Đáp án: e"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Bộ phận thủ quỹ của 1 công ty môi giới chứng khoán có những chức năng chính sau:",
+    "correct": "Giao và nhận chứng khoán,thanh toán tiền",
+    "dists": [
+      "Bảo quản, quản lý chứng khoán Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu!",
+      "Thế chấp chứng khoán có trên tài khoản bảo chứng của khách hàng để vay tiền tại ngân hàng",
+      "Cho vay chứng khoán e. Chuyển quyền sở hữu chứng khoán f. Theo dõi quá trình tổ chức lại công ty, chào mua công khai và tách công ty g. Tất cả những chức năng trên Đáp án: g"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Bảng cân đối tài sản của 1 Công ty môi giới chứng khoán bao gồm các phần sau:",
+    "correct": "Tài sản, nguồn vốn (hay các khoản nợ)",
+    "dists": [
+      "Tài sản, nguồn vốn (hay các khoản nợ) và phần giá trị ròng",
+      "Tài sản và phần giá trị ròng Đáp án: b"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " “Bán hàng tư vấn” là triết lý mới hình thành trong nghề môi giới chứng khoán trên các thị trường chứng khoán phát triển được hiểu là:",
+    "correct": "Phương pháp bán hàng được phát triển theo chiều rộng một cách logic trên cơ sở phương pháp bán hàng tiếp thị, trong đó người môi giới cố gắng tìm hiểu những hàng hóa, sản phẩm mà khách hàng cần và sau đó người môi giới cố gắng đáp ứng nhu cầu đó một cách tốt nhất bằng sản phẩm hay dịch vụ của mình.",
+    "dists": [
+      "Là phương pháp bán hàng trong đó người môi giới bán sản phẩm hoặc cung cấp cho khách hàng những dịch vụ mà công ty môi giới có Đáp án: a"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Mục đích duy nhất và ưu tiên của môi giới trong khi áp dụng phương pháp “bán hàng tư vấn” là:",
+    "correct": "Phục vụ khách hàng, đáp ứng nhu cầu tài chính của khách hàng và giúp khách hàng đạt được những mục tiêu tài chính của chính họ",
+    "dists": [
+      "Để thu lợi nhuận từ giao dịch của khách hàng Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu!",
+      "Để thu lợi cho công ty môi giới và duy trì việc làm của người môi giới",
+      "Thỏa mãn nhu cầu cá nhân trong nghề tài chính năng động đầy thử thách Đáp án: a"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Trong “bán hàng tư vấn”, triết lý mới hình thành trong nghề môi giới chứng khoán trên các thị trường chứng khoán phát triển, có những yếu tố nào quyết định thành công của người môi giới - người hành nghề tài chính chuyên nghiệp:",
+    "correct": "Thái độ đối với khách hàng và thái độ đối với công việc",
+    "dists": [
+      "Kiến thức chuyên môn",
+      "Năng lực truyền đạt ý tưởng và kiến thức một cách hiệu quả",
+      "Liên tục phát triển kỹ năng các nhân và nghiệp vụ e. Tất cả các yếu tố trên Đáp án: e"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Để trở thành một cố vấn được tin cậy, người môi giới phải “hiểu khách hàng” và phải thực hiện được những mục tiêu sau: I. Tạo lập được lòng tin và tạo được môi trường tin cậy II. Thực sự hiểu nguyện vọng và mục tiêu tài chính của khách hàng III. Hiểu được động cơ thúc đẩy khách hàng ra quyết định IV. Trở thành người tập hợp tài sản V. Thuyết trình với “cá nhân” khách hàng căn cứ vào nền tảng kiến thức, mức độ am hiểu, phong cách học hỏi và cá tính của khách hàng. VI. Chăm sóc, theo dõi việc đầu tư của khách hàng và biết được tình trạng tài chính của khách hàng. VII. Biết đôi chút về đời tư của khách hàng",
+    "correct": "I, III, VII",
+    "dists": [
+      "II, IV, V, VI",
+      "II, IV, V, VI Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu!",
+      "a và c Đáp án: d"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Ba nguyên nhân chủ yếu dẫn đến sự phản ứng tự nhiên chống đối của khách hàng đối với việc bán hàng của người môi giới là: (1) khách hàng chỉ nhận thức được người môi giới là người bán hàng; (2) người môi giới không biết truyền đạt rõ ràng về thông tin chuyên ngành theo quan điểm của khách hàng; (3) người môi giới không có khả năng thiết lập sự đồng cảm sâu sắc và niềm tin trong mối quan hệ với khách hàng. Vậy kỹ thuật để khắc phục những nguyên nhân đó là: I. Môi giới phải học được nghệ thuật truyền đạt bao gồm thể hiện thái độ quan tâm của người môi giới đến với khách hàng II. Môi giới phải biết sử dụng kỹ năng để thực hiện 4 bước trước khi trả lời khách hàng đó là: (1) làm sáng tỏ vấn đề; (2), (3) coi là chính đáng và thừa nhận những mối lo ngại của khách hàng; (4) thăm dò (kiểm tra) lại nhận định của mình có đúng với suy nghĩ của khách hàng không III. Nói bằng ngôn ngữ riêng của khách hàng",
+    "correct": "I và II",
+    "dists": [
+      "II và III",
+      "I và III",
+      "I, II, III Đáp án: d"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Bạn hãy lựa chọn phương pháp tìm kiếm khách hàng thông dụng nhất trong số các phương pháp sau: I. Chỉ đạo từ công ty hoặc các tài khoản được chuyển nhượng lại II. Lời giới thiệu khách hàng đến III. Giới thiệu khách hàng cho người môi giới khác, công ty môi giới khác có thể giúp đỡ tận dụng mạng lưới kinh doanh Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu! IV. Chiến dịch viết thư V. Tọa đàm, hội thảo VI. Gọi điện thoại làm quen VII. Đến từng nhà gõ cửa tự giới thiệu về mình và nghề môi giới VIII. Quảng cáo trên các phương tiện thông tin đại chúng, website của công ty.",
+    "correct": "I, II, IV, V, VII, VIII",
+    "dists": [
+      "I, II, III, V, VII, VIII",
+      "I, II, III, IV, V, VI",
+      "I, IV, V, VI, VII, VIII Đáp án: c"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Mục đích của cuộc nói chuyện lần đầu của môi giới với khách hàng tiềm năng giúp môi giới tìm hiểu thực tế, thẩm định khách hàng để làm rõ những vấn đề sau: I. Khách hàng có cần đến người môi giới không II. Người môi giới có cần khách hàng không III. Xác định vị trí của khách hàng và môi giới trong mối quan hệ tương lai",
+    "correct": "I, II",
+    "dists": [
+      "II, III",
+      "I, III",
+      "I, II, III Đáp án: d"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Hãy lựa chọn phương án đúng về giá trị của một cuộc gọi điện thoại tim kiếm khách hàng trong số các lựa chọn sau, khi biết: (1) Người môi giới được hưởng lương cố định năm là 100 triệu đồng/năm; (2) ngày làm việc trong năm là 263 ngày và (3) trong một ngày môi giới dự kiến gọi 100 cuộc điện thoại; (4) không tính cước phí cuộc gọi",
+    "correct": "3.802 đồng",
+    "dists": [
+      "3.000 đồng Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu!",
+      "5.000 đồng",
+      "2.000 đồng Đáp án: a"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Giả sử (1) Môi giới được hưởng hoa hồng trên một tài khoản mới mở là 3.000.000 đồng; (2) cần có 10 cuộc gọi để có 1 khách hàng tiềm năng; (3) và gọi 10 khách hàng tiềm năng thì mới có 1 khách hàng thực sự làm thủ tục mở tài khoản. Hỏi giá trị mỗi cuộc gọi là bao nhiêu? Hãy lựa chọn phương án đúng trong số các phương án sau:",
+    "correct": "20.000 đồng",
+    "dists": [
+      "25.000 đồng",
+      "30.000 đồng",
+      "35.000 đồng Đáp án: c"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Quy trình thực hiện tư vấn đầu tư chứng khoán chỉ bao gồm các bước sau: I. Khách hàng gặp công ty tư vấn đầu tư chứng khoán/ công ty môi giới chứng khoán II. Công ty nhận yêu cầu tư vấn và khách hàng cung cấp thong tin cho công ty III. Ký hợp đồng tư vấn Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu! IV. Thực hiện hợp đồng tư vấn V. Thanh lý hợp đồng tư vấn",
+    "correct": "II, III, IV",
+    "dists": [
+      "I, II, III, IV, V",
+      "I, III, IV",
+      "I, III, IV, V Đáp án: b"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Trong quy trình thực hiện tư vấn đầu tư chứng khoán, công ty tư vấn đầu tư chứng khoán phải tìm hiểu rõ về khách hàng, thu nhập và quản lý thông tin về khách hàng liên quan đến nội dung sau: I. Tìm hiểu tình hình tài chính và thu nhập của khách hàng II. Tìm hiểu mục tiêu đầu tư và khả năng chấp nhận rủi ro của khách hàng III. Tìm hiểu kinh nghiệm và hiểu biết về đầu tư của khách hàng",
+    "correct": "I, III",
+    "dists": [
+      "I, II",
+      "I, II, III",
+      "II, III Đáp án: c"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Nội dung của tư vấn đầu tư chứng khoán bao gồm: I. Cung cấp kết quả phân tích chứng khoán và thị trường chứng khoán II. Tư vấn chiến lược và kỹ thuật giao dịch bao gồm giá, giá trị, loại, chất lượng, số lượng, phương thức, thời gian giao dịch III. Tư vấn cho khách hàng ra quyết định mua hoặc bán một loại chứng khoán nhất định",
+    "correct": "I, II",
+    "dists": [
+      "I, II, III",
+      "I, III Đáp án: b Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu!"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Khi hoạt động tư vấn đầu tư chứng khoán, người hành nghề tư vấn đầu tư chứng khoán phải tuân thủ quy tắc đạo đức nghề nghiệp sau: I. Người tư vấn đầu tư phải đưa ra ý kiến đánh giá một cách độc lập và khách quan trong hoạt động chuyên môn II. Người tư vấn đầu tư chứng khoán phải đảm bảo tính liêm khiết, minh bạch trong hoạt động chuyên môn và các vấn đề cá nhân III. Người TVĐTCK phải luôn làm việc một cách chuyên nghiệp và cần mẫn IV. Người TVĐTCK phảỉ luôn trung thành với khách hàng và luôn ưu tiên lợi ích khách hàng V. Người TVĐTCK phải đảm bảo mọi khách hàng được đối xử công bằng và bình đẳng VI. Người TVĐTCK phải ưu tiên hơn cho những khách hàng trả mức phí đặc biệt cao so với những khách hàng trả mức phí thấp hơn",
+    "correct": "I, II, V",
+    "dists": [
+      "I, II, V, VI",
+      "III, IV",
+      "a và c e. b và c Đáp án: d"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Trong quá trình thực hiện TVĐTCK, để đảm bảo tuân thủ nguyên tắc tránh xung đột lợi ích, người hành nghề TVĐTCK phải tuân thủ nghĩa vụ sau: I. Tránh các tình huống có xung đột lợi ích với khách hàng II. Ưu tiên lợi ích của khách hàng (đặt lợi ích của khách hàng trên lợi ích của môi giới và công ty) III. Ưu tiên cho khách hàng trả phí cao hơn so với khách hàng trả phí thấp hơn khi cung cấp sản phẩm TVĐTCK IV. Đối xử công bằng đối với các khách hàng V. Minh bạch",
+    "correct": "I, II, III",
+    "dists": [
+      "I, II, III, V",
+      "I, II, IV, V Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu!",
+      "I, III, V Đáp án: c"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm3",
+    "question": " Giả sử tỷ lệ ký quỹ là 70%, một khách hàng mua 1000CP công ty ACB với giá 35 triệu đồng. Khách hàng trả tiền 24,5 triệu đồng và vay 10,5 triệu đồng. Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu! 1. Giá trị cổ phiếu thực có là:",
+    "correct": "24,5 triệu đồng",
+    "dists": [
+      "35 triệu đồng",
+      "10,5 triệu đồng",
+      "30 triệu đồng Đáp án: a 2. Giả sử giá cổ phiếu ACB trên thị trường tăng lên 70.000 đồng/CP. Như vậy giá trị hiện hành trên thị trường của 1.000CP ACB có trên tài khoản là 70 triệu đồng. Vậy giá trị CK ký quỹ là:",
+      "50 triệu đồng",
+      "49 triệu đồng",
+      "70 triệu đồng Đáp án: d 3. Giá trị chứng khoán thực có sau khi giá cổ phiếu ACB trên thị trường tăng lên là:",
+      "70 triệu đồng",
+      "45,5 triệu đồng",
+      "35 triệu đồng Đáp án: c 4. Hãy tính giá trị vượt trội (giá trị vượt qui định ký quỹ) sau khi có những thay đổi về giá chứng khoán lên 70.000đồng/CP. Hãy chọn 1 trong các phương án sau:",
+      "21 triệu đồng",
+      "24,5 triệu đồng",
+      "36,5 triệu đồng Đáp án: a Tài liệu được chia sẻ bởi thành viên diễn đàn chứng khoán Việt Nam – http://www.vse.vn http://www.vse.vn – Ôn thi chứng khoán không thể bỏ qua! Tham gia là đậu! 5. Hãy tính sức mua biết tỷ lệ ký quỹ là 70% và giá trị vượt trội là 10,5 triệu đồng.",
+      "10,5 triệu đồng",
+      "21 triệu đồng Đáp án: a"
+    ],
+    "explanation": "Đáp án đúng là A"
+  }
+]

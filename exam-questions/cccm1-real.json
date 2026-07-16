@@ -1,0 +1,3276 @@
+[
+  {
+    "subjectId": "cccm1",
+    "question": "Người sở hữu cổ phiếu và trái phiếu đều được hưởng:",
+    "correct": "Lãi suất từ vốn mà mình đầu tư vào công ty",
+    "dists": [
+      "Lãi suất cố định",
+      "Thu nhập phụ thuộc vào hoạt động của công ty",
+      "Được quyền bầu cử tại Đại hội cổ đông"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Nhà đầu tư mua 10 trái phiếu có mệnh giá 100 USD, có lai suất danh nghĩa 6%/năm với giá 900 USD. Vậy hàng năm nhà đầu tư sẽ nhận được tiền lãi là:",
+    "correct": "60 USD (10*100*6% = 60 $)",
+    "dists": [
+      "600 USD",
+      "570 USD",
+      "500 USD"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Cổ phiếu quỹ:",
+    "correct": "Là loại cổ phiếu được phát hành và được tổ chức phát hành mua lại trên thị trường.",
+    "dists": [
+      "Được chia cổ tức.",
+      "Người sở hữu có quyền biểu quyết.",
+      "Là một phần cổ phiếu chưa được phép phát hành."
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Các câu nào sau đây đúng với thị trường sơ cấp",
+    "correct": "Làm tăng lượng vốn đầu tư cho nền kinh tế",
+    "dists": [
+      "Làm tăng lượng tiền trong lưu thông.",
+      "Không làm tăng lượng tiền trong lưu thông.",
+      "Giá phát hành do quan hệ cung cầu quyết định"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Thị trường thứ cấp",
+    "correct": "Là nơi mua bán các chứng khoán đã phát hành",
+    "dists": [
+      "Là nơi các doanh nghiệp huy động vốn trung và dài hạn thông qua việc phát hành cổ phiếu và trái phiếu.",
+      "Là nơi mua bán các loại chứng khoán kém chất lượng",
+      "Là thị trường chứng khoán kém phát triển"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Hình thức bảo lãnh mà trong đó các nhà bảo lãnh phát hành cam kết sẽ mua toàn bộ chứng khoán của tổ chức phát hành cho dù họ có thể bán hết hay không được gọi là:",
+    "correct": "Bảo lãnh với cam kết chắc chắn.",
+    "dists": [
+      "Bảo lãnh tất cả hoặc không",
+      "Bảo lãnh với cố gắng tối đa",
+      "Bảo lãnh với hạn mức tối thiểu;"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Đối với công chúng đầu tư, tài liệu nào quan trọng nhất trong hồ sơ đăng ký phát hành ra công chúng:",
+    "correct": "Bản cáo bạch",
+    "dists": [
+      "Bản sao giấy phép thành lập và đăng ký kinh doanh",
+      "Danh sách và sơ yếu lý lịch thành viên Hội đồng Quản Trị và Ban Giám đốc.",
+      "Đơn xin phép phát hành."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Trật tự ưu tiên lệnh theo phương thức khớp lệnh là:",
+    "correct": "Giá, thời gian, số lượng",
+    "dists": [
+      "Thời gian, giá, số lượng",
+      "Số lượng, thời gian, giá",
+      "Thời gian, số lượng, giá"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Lệnh giới hạn là lệnh:",
+    "correct": "Được thực hiện tại mức giá mà người đặt lệnh chỉ định",
+    "dists": [
+      "Được ưu tiên thực hiện trước các loại lệnh khác",
+      "Được thực hiện tại mức giá khớp lệnh",
+      "Người đặt bán và người đặt mua đều có ưu tiên giống nhau."
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Lệnh dùng để bán được đưa ra",
+    "correct": "Với giá thấp hơn giá thị trường hiện hành",
+    "dists": [
+      "Với giá cao hơn giá thị trường hiện hành",
+      "Hoặc cao hơn hoặc thấp hơn giá thị trường hiện hành",
+      "Ngay tại giá trị trường hiện hành."
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Lý do nào sau đây đúng với bán khống chứng khoán:",
+    "correct": "Hưởng lợi từ sụt giá chứng khoán",
+    "dists": [
+      "Ngăn chặn sự thua lỗ",
+      "Hưởng lợi từ việc tăng giá chứng khoán",
+      "Hạn chế rủi ro"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Các chỉ tiêu nào sau đây không phải là chỉ tiêu của phân tích cơ bản:",
+    "correct": "Chỉ số giá của thị trường chứng khoán ➔ Phái sinh",
+    "dists": [
+      "Các chỉ tiêu phản ánh khả năng sinh lời của công ty",
+      "Các chỉ tiêu phản ánh khả năng thanh toán của công ty",
+      "Tỷ số P/E"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Giao dịch theo phương pháp khớp lệnh ở Việt Nam quy định đơn vị yết giá đối với những cổ phiếu có mức giá từ 50.000 đồng đến 99.500 đồng là:",
+    "correct": "500đ",
+    "dists": [
+      "100đ: 10.000 - 49.900 đồng; 50đ: 0-9.950 đ",
+      "200đ",
+      "300đ"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Ông X vừa bán 100 cổ phiếu của công ty A với giá 40 USD/cổ phiếu. Ông ta mua cổ phiếu đó một năm trước đây với giá 30 USD/cổ phiếu, năm vừa qua ông ta có nhận cổ tức 2 USD/cổ phiếu. Vậy thu nhập trước thuế của ông từ 100 cổ phiếu A là: (100 CP * 40 USD) – (100 * 30USD) = 1.000 USD + 2*100 = 1.200 USD",
+    "correct": "1200 USD",
+    "dists": [
+      "1000 USD",
+      "1300 USD",
+      "Tất cả đều sai"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Mệnh giá trái phiếu phát hành ra công chúng ở Việt Nam là:",
+    "correct": "Tối thiểu là 100.000 đồng và bội số của 100.000đồng",
+    "dists": [
+      "100.000 đồng",
+      "10.000 đồng",
+      "200.000 đồng"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Nếu một trái phiếu được bán với giá thấp hơn mệnh giá thì:",
+    "correct": "Lãi suất hiện hành của trái phiếu > lãi suất danh nghĩa của trái phiếu",
+    "dists": [
+      "Lãi suất hiện hành của trái phiếu < lãi suất danh nghĩa của trái phiếu",
+      "Lãi suất hiện hành của trái phiếu = lãi suất danh nghĩa của trái phiếu",
+      "Không có cơ sở để so sánh"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Nhà phát hành định phát hành 2 loại trái phiếu: trái phiếu X có thời hạn 5 năm và trái phiếu Y có thời hạn 20 năm. Như vậy, nhà phát hành phải định mức l•i suất cho 2 trái phiếu trên như thế nào?",
+    "correct": "Lãi suất trái phiếu X < lãi suất trái phiếu Y",
+    "dists": [
+      "L•i suất trái phiếu X > l•i suất trái phiếu Y",
+      "L•i suất trái phiếu X = l•i suất trái phiếu Y",
+      "Còn tùy trường hợp cụ thể."
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Ng i bán kh ng ch ng khoán th ườ ố ứ ực hiện hành động bán khống khi họ dự đoán giá của cổ phiếu:",
+    "correct": "Giảm đi",
+    "dists": [
+      "Tăng lên",
+      "Không thay đổi",
+      "Không câu nào đúng."
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Giả sử cổ phiếu A có giá đóng cửa ở phiên giao dịch trước là: 101.000 đồng, theo quy chế giao dịch ở thị trường chứng khoán Việt Nam hiện nay, mức giá nào sẽ là mức đặt lệnh hợp lệ trong các mức giá sau:",
+    "correct": "100.000 đồng",
+    "dists": [
+      "101.500 đồng",
+      "106.050 đồng",
+      "95.000 đồng"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Lệnh dừng để mua được đưa ra:",
+    "correct": "Với giá cao hơn giá thị trường hiện hành",
+    "dists": [
+      "Hoặc cao hơn hoặc thấp hơn giá thị trường hiện hành",
+      "Với giá thấp hơn giá thị trường hiện hành",
+      "Ngay tại giá thị trường hiện hành."
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Thị trường vốn là thị trường giao dịch.",
+    "correct": "Các công cụ tài chính trung và dài hạn",
+    "dists": [
+      "Các công cụ tài chính ngắn hạn",
+      "Kỳ phiếu",
+      "Tiền tệ"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Thị trường chứng khoán là một bộ phận của:",
+    "correct": "Thị trường vốn",
+    "dists": [
+      "Thị trường tín dụng",
+      "Thị trường liên ngân hàng",
+      "Thị trường mở"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Thặng dư vốn phát sinh khi:",
+    "correct": "Chênh lệch giá khi phát hành cổ phiếu mới",
+    "dists": [
+      "Công ty làm ăn có l•i",
+      "Tất cả các trường hợp trên."
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty cổ phần bắt buộc phải có",
+    "correct": "Cổ phiếu phổ thông",
+    "dists": [
+      "Cổ phiếu ưu đ•i",
+      "Trái phiếu công ty",
+      "Tất cả các loại chứng khoán trên"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Quỹ đầu tư chứng khoán dạng mở là quỹ:",
+    "correct": "Liên tục phát hành chứng chỉ quỹ",
+    "dists": [
+      "Có chứng chỉ được niêm yết trên thị trường chứng khoán",
+      "Không mua lại chứng chỉ quỹ",
+      "Chỉ phát hành chứng chỉ quỹ một lần"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Quỹ đầu tư chứng khoán dạng đóng là quỹ:",
+    "correct": "Có thể được niêm yết chứng chỉ quỹ trên thị trường chứng khoán",
+    "dists": [
+      "Phát hành chứng chỉ quỹ nhiều lần",
+      "Được quyền mua lại chứng chỉ quỹ từ nhà đầu tư",
+      "Được quyền phát hành bổ sung ra công chứng"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Mục đích phân biệt phát hành riêng lẻ và phát hành ra công chúng là:",
+    "correct": "Để bảo vệ công chúng đầu tư",
+    "dists": [
+      "Để dễ dàng quản lý",
+      "Để thu phí phát hành",
+      "Để dễ dàng huy động vốn"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Năm N, Công ty ABC có thu nhập ròng là 800 triệu đồng, số cổ phiếu đ• phát hành là 600.000 cổ phiếu, cổ phiếu quỹ là 40.000, không có cổ phiếu ưu đ•i. Hội đồng quản trị quyết định trả 560 triệu cổ tức. Như vậy mỗi cổ phiếu được trả cổ tức là:",
+    "correct": "1000 đ",
+    "dists": [
+      "1500 đ",
+      "2000 đ",
+      "1300 đ"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Trong trường hợp phá sản, giải thể doanh nghiệp, các cổ đông sẽ:",
+    "correct": "Là người cuối cùng được thanh toán",
+    "dists": [
+      "Là chủ nợ chung",
+      "Mất toàn bộ số tiền đầu tư",
+      "Được ưu tiên trả lại cổ phần đ• góp trước"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Khi phá sản, giải thể công ty, người nắm giữ trái phiếu sẽ được hoàn trả:",
+    "correct": "Trước các cổ đông nắm giữ cổ phiếu ưu đ•i và cổ phiếu phổ thông",
+    "dists": [
+      "Trước các khoản vay có thế chấp và các khoản phải trả",
+      "Trước thuế",
+      "Sau các khoản vay có thế chấp và các khoản phải trả"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Một trong những điều kiện phát hành cổ phiếu lần đầu ra công chúng ở Việt Nam là:",
+    "correct": "Có vốn tối thiểu là 10 tỷ USD, hoạt động kinh doanh của năm liền trước năm đăng ký phát hành phải có l•i.",
+    "dists": [
+      "Có vốn tối thiểu là 10 tỷ VND, hoạt động kinh doanh của 2 năm liền trước năm đăng ký phải có l•i.",
+      "Có vốn tối thiểu là 5 tỷ VND, hoạt động kinh doanh của 2 năm liền trước năm đăng ký phải có l•i.",
+      "Có vốn tối thiểu là 5 tỷ VND, hoạt động kinh doanh của năm liền trước năm đăng ký phát hành phải có l•i."
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Tỷ lệ nắm giữ tối đa của nhà đầu tư nước ngoài đối với cổ phiếu của một tổ chức niêm yết được quy định theo pháp luật Việt Nam là:",
+    "correct": "49% tổng số cổ phiếu",
+    "dists": [
+      "25% tổng số cổ phiếu",
+      "30% tổng số cổ phiếu",
+      "27% tổng số cổ phiếu"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Một trong những điều kiện để niêm yết trái phiếu doanh nghiệp là:",
+    "correct": "Là công ty cổ phần, công ty trách nhiệm hữu hạn, doanh nghiệp nhà nước có vốn điều lệ đ• góp tại thời điểm xin phép niêm yết từ 10 tỷ VND trở lên.",
+    "dists": [
+      "Là công ty cổ phần, công ty trách nhiệm hữu hạn, doanh nghiệp nhà nước có vốn điều lệ đ• góp tại thời điểm xin phép niêm yết từ 5 tỷ VND trở lên.",
+      "Là công ty cổ phần, công ty trách nhiệm hữu hạn, doanh nghiệp nhà nước, doanh nghiệp tư nhân có vốn điều lệ đ• góp tại thời điểm xin phép niêm yết từ 5 tỷ VND trở lên.",
+      "Không câu nào đúng."
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Quỹ đầu tư chứng khoán theo quy định của Việt Nam là quỹ:",
+    "correct": "Đầu tư tối thiểu 60% giá trị tài sản của quỹ vào chứng khoán.",
+    "dists": [
+      "Đầu tư tối thiểu 40% giá trị tài sản của quỹ vào chứng khoán.",
+      "Đầu tư tối thiểu 50% giá trị tài sản của quỹ vào chứng khoán",
+      "Đầu tư tối thiểu 70% giá trị tài sản của quỹ vào chứng khoán."
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Tổ chức phát hành phải hoàn thành việc phân phối cổ phiếu trong vòng:",
+    "correct": "90 ngày kể từ ngày giấy chứng nhận đăng ký phát hành có hiệu lực.",
+    "dists": [
+      "60 ngày kể từ ngày giấy chứng nhận đăng ký phát hành có hiệu lực.",
+      "70 ngày kể từ ngày giấy chứng nhận đăng ký phát hành có hiệu lực.",
+      "80 ngày kể từ ngày giấy chứng nhận đăng ký phát hành có hiệu lực."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Hội đồng quản trị, Ban giám đốc, Ban kiểm soát của Công ty niêm yết phải nắm giữ.",
+    "correct": "ít nhất 50% số cổ phiếu do mình sơ hữu trong 3 năm kể từ ngày niêm yết.",
+    "dists": [
+      "ít nhất 20% vốn cổ phần của Công ty.",
+      "ít nhất 20% vốn cổ phiếu do mình sở hữu trong 3 năm kể từ ngày niêm yết.",
+      "ít nhất 30% số cổ phiếu do mình sở hữu trong 3 năm kể từ ngày niêm yết."
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Tổ chức phát hành, tổ chức niêm yết công bố báo cáo tài chính năm trên:",
+    "correct": "3 số báo liên tiếp của một tờ báo",
+    "dists": [
+      "4 số báo liên tiếp của một tờ báo",
+      "5 số báo liên tiếp của một tờ báo",
+      "6 số báo liên tiếp của một tờ báo"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Tổ chức phát hành, tổ chức niêm yết phải công bố thông tin bất thường trong thời gian:",
+    "correct": "24 tiếng kể từ khi sự kiện xảy ra",
+    "dists": [
+      "10 tiếng kể từ khi sự kiện xảy ra",
+      "30 tiếng kể từ khi sự kiện xảy ra",
+      "14 tiếng kể từ khi sự kiện xảy ra"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Người hành nghề kinh doanh chứng khoán được:",
+    "correct": "Chỉ được mở tài khoản giao dịch cho mình tại công ty chứng khoán nơi làm việc.",
+    "dists": [
+      "Được tự do mua, bán cổ phiếu ở mọi nơi.",
+      "Sở hữu không hạn chế số cổ phiếu biểu quyết của một tổ chức phát hành",
+      "Làm giám đốc một công ty niêm yết."
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Giao dịch theo phương pháp khớp lệnh ở Việt Nam quy định đơn vị yết giá đối với những cổ phiếu có mức giá dưới 50.000đồng là",
+    "correct": "100 đ",
+    "dists": [
+      "200 đ",
+      "300 đ",
+      "500 đ"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Doanh nghi p nhà n c c ph ệ ướ ổ ần hóa thực hiện bán đấu giá cổ phiếu lần đầu ra công chúng bắt buộc phải thực hiện đấu giá qua trung tâm giao dịch chứng khoán nếu khối lượng cổ phần bán ra công chúng có giá trị:",
+    "correct": "10 tỷ đồng trở lên",
+    "dists": [
+      "Từ 1 đến 10 tỷ",
+      "5 tỷ đồng trở lên",
+      "Tùy doanh nghiệp có muốn thực hiện đấu giá qua trung tâm hay không"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Khi nhà đầu tư mua cổ phần qua đấu giá tại Trung tâm Giao dịch Chứng khoán Hà Nội, nhà đầu tư phải đặt cọc:",
+    "correct": "10% giá trị cổ phần đăng ký mua tính theo giá khởi điểm",
+    "dists": [
+      "15% giá trị cổ phần đăng ký mua tính theo giá khởi điểm",
+      "5% giá trị cổ phần đăng ký mua tính theo giá khởi điểm",
+      "Không phải đặt cọc."
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Khi thực hiện bán cổ phần của doanh nghiệp nhà nước, cổ đông chiến lược được phép mua:",
+    "correct": "Tối đa 20% tổng số cổ phần bán ra bên ngoài với giá giảm 20% so với giá đấu bình quân.",
+    "dists": [
+      "Tối đa 25% tổng số cổ phần bán ra bên ngoài với giá giảm 20% so với giá đấu bình quân.",
+      "Tối đa 25% tổng số cổ phần bán ra bên ngoài với giá giảm 25% so với giá đấu bình quân.",
+      "Tối đa 20% tổng số cổ phần bán ra bên ngoài với giá giảm 25% so với giá đấu bình quân."
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Biên độ dao động giá trên thị trường chứng khoán Việt Nam do:",
+    "correct": "Chủ tịch ủy ban Chứng khoán Nhà nước quy định.",
+    "dists": [
+      "Bộ trưởng Bộ tài chính quy định.",
+      "Thống đốc Ngân hàng Nhà nước quy định",
+      "Giám đốc Trung tâm Giao dịch Chứng khoán quy định"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Đối tượng công bố thông tin thị trường chứng khoán gồm:",
+    "correct": "Tổ chức phát hành, tổ chức niêm yết, công ty quản lý quỹ, công ty chứng khoán, trung tâm giao dịch.",
+    "dists": [
+      "Tổ chức phát hành, tổ chức niêm yết.",
+      "Tổ chức phát hành, tổ chức niêm yết, công ty quản lý quỹ.",
+      "Tổ chức phát hành, tổ chức niêm yết, công ty quản lý quỹ, công ty chứng khoán."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Tại một thời điểm nhất định, nếu tất cả các trái phiếu có thể chuyển đổi đều được trái chủ đổi thành cổ phiếu phổ thông thì:",
+    "correct": "EPS giảm",
+    "dists": [
+      "EPS tăng",
+      "EPS không bị ảnh hưởng",
+      "P/E bị ảnh hưởng còn EPS không bị ảnh hưởng"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Hội đồng quản trị, Ban giám đốc, Ban kiểm soát của công ty niêm yết phải nắm giữ:",
+    "correct": "ít nhất 50% số cổ phiếu do mình sở hữu trong 3 năm kể từ ngày niêm yết",
+    "dists": [
+      "ít nhất 20% vốn cổ phần của Công ty",
+      "ít nhất 20% vốn cổ phần trong vòng 3 năm kể từ ngày niêm yết",
+      "ít nhất 30% số cổ phiếu do mình sở hữu trong 3 năm kể từ ngày niêm"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Việc phân phối cổ phiếu niêm yết phải:",
+    "correct": "Theo giá bán được xác định trong bản cáo bạch đ• đăng ký với ủy ban Chứng khoán Nhà nước",
+    "dists": [
+      "Theo giá thỏa thuận với nhà đầu tư.",
+      "Theo giá thị trường qua đấu giá.",
+      "Theo giá ưu đ•i do Hội đồng quản trị của công ty phát hành quyết định ."
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Thị trường tài chính là nơi huy động vốn:",
+    "correct": "Ngắn hạn, trung hạn và dài hạn",
+    "dists": [
+      "Ngắn hạn.",
+      "Trung hạn.",
+      "Dài hạn"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Nhà đầu tư đặt lệnh mua bán chứng khoán niêm yết tại:",
+    "correct": "Công ty chứng khoán.",
+    "dists": [
+      "ủy ban Chứng khoán",
+      "Trung tâm Giao dịch chứng khoán"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Hình thức bảo l•nh phát hành trong đó đợt phát hành sẽ bị hủy bỏ nếu toàn bộ chứng khoán không bán được hết, gọi là:",
+    "correct": "Bảo l•nh tất cả hoặc không",
+    "dists": [
+      "Bảo l•nh với cam kết chắc chắn",
+      "Bảo l•nh với cố gắng tối đa.",
+      "Tất cả các hình thức trên."
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Cổ đông sở hữu cổ phiếu ưu đ•i cổ tức ở Việt Nam có quyền: I. Nhận cổ tức với mức ưu đ•i. II.Tham dự và biểu quyết tất cả các vấn đề thuộc thẩm quyền của Đại hội đồng cổ đông. III. Khi công ty giải thể, được nhận lại một phần tài sản tương ứng với số cổ phần góp vào công ty. IV. Được nhận cổ tức ưu đ•i như l•i suất trái phiếu kể cả khi công ty làm ăn thua lỗ.",
+    "correct": "I",
+    "dists": [
+      "I và II",
+      "I và III",
+      "Chi IV e. I. III. IV f. Tất cả"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty XYZ có 10.000 cổ phiếu đang lưu hành và tuyên bố trả cổ tức bằng cổ phiếu với mức 30%. Khách hàng của bạn có 100 cổ phiếu XYZ. Sau khi nhận cổ tức bằng cổ phiếu, tỷ lệ sở hữu cổ phần của ông ta trong công ty XYZ là bao nhiêu?",
+    "correct": "1%",
+    "dists": [
+      "1.3%",
+      "1.5%",
+      "1.1%"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty SAM được phép phát hành 7.000.000 cổ phiếu theo Điều lệ công ty. Công ty phát hành được 6.000.000 cổ phiếu, trong đó có 1.000.000 cổ phiếu ngân quỹ. Vậy Công ty SAM có bao nhiêu cổ phiếu đang lưu hành?",
+    "correct": "5.000.000 cổ phiếu",
+    "dists": [
+      "7.000.000 cổ phiếu",
+      "6.000.000 cổ phiếu",
+      "4.000.000 cổ phiếu e. 3.000.000 cổ phiếu",
+      "Cơ chế xác lập giá; Phương án: I. a, b và c; II. a, b, c và d; III. b, c và d; IV. c và d; V. Chỉ c."
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Để giao dịch chưng khoán niêm yết tại Trung tâm giao dịch chứng khoán cần phải có các bước: I. Trung tâm giao dịch chứng khoán thực hện ghép lệnh và thông báo kết quả giao dịch cho công ty chứng khoán. II. Nhà đầu tư mở tài khoản, đặt lệnh mua bán chứng khoán. III. Công ty chứng khoán nhập lệnh vào hệ thống giao dịch của Trung tâm. IV. Nhà đầu tư nhận được chứng khoán (nếu là người mua) hoặc tiền (nếu là người bán) trên tài khoản của mình tại Công ty chứng khoán sau 3 ngày làm việc kể từ ngày mua bán. V. Công ty chứng khoán thông báo kết quả giao dịch cho nhà đầu tư. Anh (chị) h•y chỉ ra trình tự các bước giao dịch chứng khoán theo các phương án sau:",
+    "correct": "II, III, I, V, IV e. Không có phương án nào đúng.",
+    "dists": [
+      "I, II, III, IV, V",
+      "I, III, V, II, IV",
+      "II, I, V, IV, III"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Giả sử giá đóng cửa của chứng khoán A trong phiên giao dịch trước là 10200 đồng, đơn vị yết giá là 100 đồng, biên độ dao động giá là 2%. Các mức giá mà nhà đầu tư có thể đặt lệnh trong phiên giao dịch tới là:",
+    "correct": "9998, 10998, 10608",
+    "dists": [
+      "9900, 10000, 10100, 10300, 10300",
+      "9900, 1000, 10100, 10500, 10600",
+      "1000, 10100, 10200, 10300, 10400",
+      "Không phương án nào đúng."
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Phiến đóng cửa tuần n của thị trường chứng khoán Việt Nam, VN.Index là 237,78 điểm, tăng 2,64 điểm so với phiến đóng của tuần n-1, tức là mức tăng tương đương với:",
+    "correct": "1,12%",
+    "dists": [
+      "1,11%",
+      "1%",
+      "1,2%"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Trả cổ tức bằng cổ phiếu, sẽ làm:",
+    "correct": "Không có câu nào đúng.",
+    "dists": [
+      "Làm tăng quyền lợi theo tỷ lệ của cổ đông trong công ty.",
+      "Không làm thay đổi tỷ lệ quyền lợi của cổ đông",
+      "Làm giảm quyền lợi theo tỷ lệ của cổ đông trong công ty"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Chức năng thị trường chứng khoán thứ cấp của Trung tâm giao dịch chứng khoán được thể hiện, bởi:",
+    "correct": "Giao dịch chứng khoán niêm yết/đăng ký giao dịch.",
+    "dists": [
+      "Đấu giá cổ phần doanh nghiệp nhà nước cổ phần hóa;",
+      "Đấu thầu trái phiếu Chính phủ và các tài sản chính;"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Theo quy định của pháp luật Việt Nam, phát hành chứng khoán ra công chúng là:",
+    "correct": "Phát hành qua tổ chức trung gian;",
+    "dists": [
+      "Phát hành để niêm yết;",
+      "Có ít nhất 50 nhà đầu tư ngoài tổ chức phát hành;",
+      "Có ít nhất 50 nhà đầu tư. Phương án: I: a, b và c II: a và c; III: a, b và d; IV: b và d"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty cổ phần là doanh nghiệp, trong đó: I. Vốn điều lệ được chia thành nhiều phần bằng nhau gọi là cổ phần. II. Cổ đông chịu trách nhiệm hữu hạn về nghĩa vụ nợ III. Cổ đong có quyền tự do chuyển nhượng tất cả các loại cổ phần của mình. IV. Không hạn chế số lượng cổ đông tối đa",
+    "correct": "I, II và IV",
+    "dists": [
+      "I và II",
+      "I, II và III",
+      "I, III và IV e. Tất cả đều sai"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Loại hình niêm yết nào sau đây mang tính chất thâu tóm, sáp nhập công ty:",
+    "correct": "Niêm yết cửa sau;",
+    "dists": [
+      "Niêm yết lần đầu;",
+      "Niêm yết lại;",
+      "Niêm yết bổ sung;",
+      "Niêm yết tách, gộp cổ phiếu."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Các tổ chức có thể tham gia hoạt động tại trung tâm chứng khoán tập trung là: I. Các nhà đầu tư có tổ chức. II. Các nhà đầu tư cá thể III. Các công ty chứng khoán IV. Các ngân hàng thương mại được UBCK cấp phê",
+    "correct": "Chỉ có I",
+    "dists": [
+      "Chỉ có II",
+      "Chỉ có II",
+      "Không có câu nào đúng"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Khi công ty có l•i nó sẽ:",
+    "correct": "Trả cổ tức cho cổ phiếu thường",
+    "dists": [
+      "Trả l•i trái phiếu",
+      "Trả cổ tức cho cổ phiếu ưu đ•i",
+      "Không phải trả l•i và cổ tức"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Việc tách cổ phiếu trong số đại diện để tính chỉ số chứng khoán theo phương pháp DownJoncs sẽ làm cho hệ số chia:",
+    "correct": "Giảm",
+    "dists": [
+      "Tăng",
+      "Không đổi"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Đại hội cổ đông sẽ điều:",
+    "correct": "Hội đồng quản trị và Ban kiểm soát",
+    "dists": [
+      "Hội đồng quản trị, để Hội đồng quản trị chọn giám đốc và ban kiểm soát",
+      "Hội đồng quản trị, chủ tịch hội đồng quản trị và Ban kiểm soát",
+      "Cả 3 đều sai"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Theo luật pháp Việt Nam các tổ chức được phát hành cổ phiếu là:",
+    "correct": "Công ty CP và DN nhà nước thực hiện cổ phần hóa",
+    "dists": [
+      "Công ty TNHH",
+      "Doanh nghiệp nhà nước thực hiện cổ phần hóa",
+      "Công ty CP"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Việc phát hành cổ phiếu làm tăng:",
+    "correct": "Cả b và c",
+    "dists": [
+      "Nợ của công ty",
+      "Tài sản của công ty",
+      "Vốn cổ phần của công ty"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "M t c phi u bán theo quy n mua c phi u m ộ ổ ế ề ổ ế ới với giá 90.000đ/CP nhưng hiện nay giá trị thị trường là 100.000đ/CP. Theo điều lệ của công ty cứ 05 cổ phiếu cũ được mua CP mới. Vậy giá của quyền là:",
+    "correct": "2.000",
+    "dists": [
+      "3.000",
+      "20.000",
+      "10.000"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Theo luật pháp Việt Nam hiện hành, các tổ chức được phép phát hành trái phiếu là:",
+    "correct": "Công ty TNHH, công ty CP và DN Nhà nước",
+    "dists": [
+      "Doanh nghiệp tư nhân",
+      "Công ty CP và DN nhà nước",
+      "Công ty Cổ phần"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Theo luật pháp Việt Nam hiện hành, các tổ chức được phép phát hành trái phiếu là:",
+    "correct": "Công ty TNHH, Công ty CP và DN Nhà nước",
+    "dists": [
+      "Doanh nghiệp tư nhân",
+      "Công ty cổ phần và doanh nghiệp Nhà nước",
+      "Công ty Cổ phần"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Hiện nay ở Việt Nam, trong quy định về việc phát hành chứng khoán ra công chúng thì tỷ lệ chứng khoán phát hành ra bên ngoài tối thiểu phải đạt là:",
+    "correct": "20% hoặc 15%",
+    "dists": [
+      "30%"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Một cổ phiếu bán theo quyền mua cổ phiếu với giá 90.000đ/CP nhưng hiện nay giá thị trường là 100.000đ/CP theo điều lệ của công ty cứ 01 cổ phiếu cũ được mua CP mới. Vậy giá quyền là:",
+    "correct": "10.000",
+    "dists": [
+      "3.000",
+      "2.000",
+      "20.000"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Lệnh dừng để bán sẽ đặt tại mức giá:",
+    "correct": "Thấp hơn giá thị trường",
+    "dists": [
+      "Cao hơn giá thị trường",
+      "Bằng giá thị trường",
+      "Tùy vào quyết định của nhà đầu tư"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Lệnh dừng để mua đặt tại giá:",
+    "correct": "Cao hơn giá thị trường",
+    "dists": [
+      "Thấp hơn giá thị trường",
+      "Bằng giá thị trường",
+      "Tùy thuộc vào quyết định của nhà đầu tư"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Mục đích của lệnh AQT là:",
+    "correct": "Tăng khối lượng giao dịch",
+    "dists": [
+      "Tăng giá khớp lệnh",
+      "Giảm giá khớp lệnh",
+      "Giảm khối lượng giao dịch"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Lệnh ATO là lệnh được thực hiện:",
+    "correct": "Trước lệnh giới hạn",
+    "dists": [
+      "Sau lệnh giới hạn"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Vào ngày 1.1.2005, một nhà đầu tư mua 100 cổ phiếu ABC với giá 40.000/CP. Tỷ lệ ký quỹ là 50%. Đến ngày 1.50.2005, giá cổ phiếu ABC tăng lên 47.000đ/CP. Giả sử nhà đầu tư này bán toàn bộ số cổ phiếu ABC đang có và trong thời gian này công ty ABC không chi trả cổ tức. Vậy tỷ suất sinh lời cho nhà đầu tư này là:",
+    "correct": "35%",
+    "dists": [
+      "40%",
+      "17.50%",
+      "8.75%"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Theo cơ chế hoạt động của quỹ đầu tư mở thì: I. Nhà đầu tư không được quyền bán lại chứng chỉ cho quỹ đầu tư đ• phát hành ra nó. II. Nhà đầu tư được quyền bán lại cho quỹ đầu tư mở đ• phát hành ra nó. III. Quỹ có chiến lược đầu tư dài hạn IV. Quỹ có chiến lược đầu tư ngắn hạn",
+    "correct": "II và III đúng",
+    "dists": [
+      "I và IV đúng",
+      "II và IV đúng",
+      "I đúng"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty XYZ định phát hành thêm 2 triệu cổ phiếu thường. Nếu điều này xảy ta thực sự thì: I. Không ảnh hưởng đến tỷ lệ nắm giữ cổ phiếu của các cổ đông hiện có II. Tài sản của Công ty sẽ giảm đi III. Vốn chủ sở hữu của Công ty sẽ tăng lên.",
+    "correct": "I và IV đúng",
+    "dists": [
+      "II và III đúng",
+      "II và IV đúng",
+      "III và IV đúng"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Giá tham chiếu của cổ phiếu BBC đang ở mức 21.000. Với biên độ dao động là 3% thì các nhà đầu tư có thể đặt:",
+    "correct": "14 mức giá",
+    "dists": [
+      "11 mức giá",
+      "12 mức giá",
+      "13 mức giá"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Nếu giá tham chiếu của cổ phiếu IBM đang ở mức 101.000 với biên độ giao động 10% thì theo quy định của Việt Nam, nhà đầu tư có thể đặt được mức giá:",
+    "correct": "100.000",
+    "dists": [
+      "90.900",
+      "101.500",
+      "111.100"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Nếu giá tham chiếu của cổ phiếu GMD đang ở mức 50.500 với biên độ giao động 5% thì theo quy định của Việt Nam, nhà đầu tư có thể đặt được mức giá:",
+    "correct": "51.500",
+    "dists": [
+      "51.100",
+      "53.100",
+      "53.500"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Các nhà đầu tư lựa chọn giai dịch bán bán khi họ dự đoán rằng:",
+    "correct": "Giá CKhoán có xu hướng giảm trong tương lai",
+    "dists": [
+      "Giá CKhoán có xu hướng tăng trong tương lai",
+      "Giá CKhoán có thể là bất kỳ theo xu hướng nào",
+      "Giá CKhoán không thay đổi"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Một nhà đầu tư đến công ty CK của mình và vay 7.500 cổ phiếu VIH. Ông ta bán toàn bộ số cổ phiếu này với giá là 21.000. Sau đó 2 tuần, giá cổ phiếu VIH giảm xuống còn 20.100. Ông ta quyết định mua vào 7.500 cổ Phiếu với mức giá này để trả lại công ty CK. Giả thiết rằng tỷ lệ ký quỹ cho giao dịch bán khống là 40%, bỏ qua phí môi giới và tiền l•i vay phải trả cho công ty, tỷ lệ lợi nhuận mà nhà đầu tư thu được sẽ là:",
+    "correct": "10.71%",
+    "dists": [
+      "7.14%",
+      "10.14%",
+      "71.71%"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Chức năng của chỉ số là: I. Là phòng vũ biểu phản ánh nền kinh tế II. Là cơ sở để đánh giá hoạt động của doanh nghiệp III. Là cơ sở để người đầu tư lập danh mục đầu tư có hiệu quả",
+    "correct": "Chỉ I",
+    "dists": [
+      "Chỉ II",
+      "I,II,III"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Chỉ số bình quân DowJones bao gồm: I. 30 cổ phiếu của ngành công nghiệp. II. 20 cổ phiếu của ngành giao thông vận tải III. 15 cổ phiếu của ngành dịch vụ công cộng IV. 20 cổ phiếu của ngành nông nghiệp",
+    "correct": "I, II và III",
+    "dists": [
+      "I và II",
+      "II và III",
+      "II, III và IV"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Trên thị trường chứng khoán có tiêu cực là:",
+    "correct": "Mua báo nội gián",
+    "dists": [
+      "Giao dịch của các nhà đầu tư lớn",
+      "Mua bán cổ phiếu của cổ đông và l•nh đạo công ty niêm yết",
+      "Mua bán lại cổ phiếu của chính tổ chức niêm yết"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Người có thẩm quyền xử phạt đối với các vi phạm về chứng khoán và thị trường chứng khoán là:",
+    "correct": "Chánh thanh tra ủy ban CK nhà nước",
+    "dists": [
+      "Giám đốc TTâm GDCK, Sở GDCK",
+      "Thanh tra viên chuyên ngành UBCK",
+      "Chủ tịch UB nhân dân cấp huyện, Quận"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Những nội dung chính về đạo đức trong kinh doanh chứng khoán: I. Phải trung thực, công bằng và công khai II. Cung cấp thông tin đầy đủ và kịp thời III. Phải bảo vệ bí mật khách hàng. IV. Mối quan hệ với cơ quan quản lý (chấp hành đúng luật)",
+    "correct": "Tất cả",
+    "dists": [
+      "I và II",
+      "II và III",
+      "I, II và III"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Mở tài khoản lưu ký chứng khoán: I. Tài khoản chứng khoán giao dịch II. Tài khoản chứng khoán cầm cố III. Tài khoản chứng khoán chờ niêm yết, chờ rút IV. Tài khoản chứng khoán đ• giao dịch",
+    "correct": "Tất cả",
+    "dists": [
+      "I và II",
+      "I, II và III",
+      "II, III và IV"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Quy trình đăng ký làm thành viên lưu ký của TT GDCK I. Tổ chức hoạt động lưu ký nộp hồ sơ đăng ký II. Bộ phận lưu ký kiểm tra hồ sơ III. Đóng góp quỹ hỗ trợ thanh toán và phí thành viên IV. Ban giám đốc quyết định chấp nhận",
+    "correct": "I, II, III và IV",
+    "dists": [
+      "II, III, IV và I",
+      "III, IV, II và I",
+      "IV, III, II và I"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Chức năng của hệ thống đăng ký, lưu ký, thanh toán bù trừ chứng khoán I. Quản lý các chứng khoán lưu ký của khách hàng II. Ghi nhận quyền sở hữu III. Cung cấp các thông tin về chứng khoáng giả mạp, bị mất cắp IV. Phân phối l•i, trả vốn gốc, và cổ tức bằng tiền cho người sở hữu chứng khoán.",
+    "correct": "Tất cả",
+    "dists": [
+      "I và II",
+      "I, II và III",
+      "II, III và IV"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Trong khi th c hi n nghi p v t doanh. C ự ệ ệ ụ ự ông ty chứng khoán phải tuân thủ các nguyên tắc nghề nghiệp sau. I. Tách bạch tài khoản của công ty với tài khoản của khách hàng và ưu tiên khách hàng. II. Bình ổn thị trường III. Tuân thủ về giới hạn đầu tư, lĩnh vực đầu tư.",
+    "correct": "Tất cả",
+    "dists": [
+      "I và II",
+      "II và III"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty CK bao gồm các nghiệp vụ sau: I. Môi giới II. Tự doanh III. Bảo l•nh phát hành IV. Quản lý danh mục đầu tư V. Tư vấn đầu tư",
+    "correct": "Tất cả",
+    "dists": [
+      "I và II",
+      "I, II và III",
+      "II, III và IV"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Theo quy định của Việt Nam, công ty CK là loại hình doanh nghiệp nào I. DN nhà nước II. Cty LDoanh III. Cty TNHH IV. Cty CPhần V. Cty hợp danh",
+    "correct": "II, III và IV",
+    "dists": [
+      "Chỉ có I và II",
+      "Chỉ có II và III",
+      "Tất cả"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Những lợi ích khi đầu tư qua quỹ I. Đa dạng hóa danh mục đầu tư, phân tán rủi ro II. Đảm bảo đầu tư có hiệu quả hơn III. Giảm chi phí giao dịch và nghiên cứu",
+    "correct": "Tất cả",
+    "dists": [
+      "I và II",
+      "II và III"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Quỹ đầu tư dạng mở là: I. Phát hành chứng chỉ ra công chúng một lần II. Phát hành chứng chỉ nhiều lần ra công chúng III. Sẵn sàng mua lại khi người nắm giữ chứng chỉ đề nghị IV. Không thực hiện mua lại khi người nắm giữ chứng chỉ đề nghị V. Chứng chỉ được niêm yết giao dịch trên thị trường chứng khoán VI. Chứng chỉ không được niêm yết giao dịch trên thị trường chứng khoán",
+    "correct": "II, III và VI",
+    "dists": [
+      "I, III và V",
+      "II, IV và V",
+      "II, IV và VI"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Quỹ đầu tư theo nghị quyết 114 là: I. Quỹ hình thành từ vốn góp của người đầu tư II. Quỹ được ủy thác cho công ty quản lý quỹ quản lý III. Quỹ phải dành tối thiểu 60%giá trị tài sản để đầu tư và CKhoán IV. Qu ch đ c đ u t vào C ỹ ỉ ượ ầ ư khoán và không được phép đầu tư vào các lĩnh vực khác.",
+    "correct": "I, II và III",
+    "dists": [
+      "I, II và IV",
+      "II, III và IV",
+      "Tất cả đều sai e. Tất cả đều đúng"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Những điều nào sau đây đúng với phạm trù thứ cấp: I. Thị trường GDCK mua đi bán lại II. Tạo tính thanh khoản cho vốn đầu tư III. Tạo ra người đầu cơ IV. Tạo vốn đầu tư cho tổ chức phát hành",
+    "correct": "I, II và III",
+    "dists": [
+      "I và II",
+      "I, III và IV",
+      "Tất cả"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Sở GDCK là: I. Thị trường giao dịch tập trung II. Giao dịch CK niêm yết III. Thị trường thương lượng",
+    "correct": "I và II",
+    "dists": [
+      "I, II và III",
+      "II và III"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Quy trình giao dịch của Sở GD CK là: I. Khách hàng đặt lệnh II. Công ty CK nhận và kiểm tra lệnh III. Lệnh đăng ký tại quầy giao dịch hoặc máy chủ IV. Lệnh được chuyển đến Sở giao dịch.",
+    "correct": "I, III, II và IV",
+    "dists": [
+      "I, II, III và IV",
+      "I, II, IV và III",
+      "I, III, IV và II"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Kho b c ạ nhà nước phát hành trái phiếu với các nội dung sau: - Mệnh giá: 100.000đ/tp - Kỳ hạn: 5 năm - Khối lượng phát hành: 200 tỷ đồng - Hình thức đấu thầu cạnh tranh l•i suất Ta có khối lượng đặt thầu của ccthành viên đấu thầu như sau: Đơn vị đấu thầu Khối lượng trái phiếu (tỷ đồng) L•i suất (%/năm) Đơn vị đấu thầu Khối lượng trái phiếu (tỷ đồng) L•i suất (%/năm) A 110 8.7 8.8 B 100 8.75 8.8 C 50 8.75 9.0 L•i suất chỉ đạo của Bộ tài chính là: 8,75% năm H•y xác định khối lượng và l•i suất trúng thầu của từng đơn vị đấu thầu:",
+    "correct": "110 tỷ l•i suất 8.75%",
+    "dists": [
+      "60 tỷ l•i suất 8.75%",
+      "30 tỷ l•i suất 8.75%"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Phương thức phát hành qua đấu giá là:",
+    "correct": "Chào bán chứng khoán dựa trên cơ sở cạnh tranh hình thành giá và khối lượng trúng thầu",
+    "dists": [
+      "Nhận bán chứng khoán cho tổ chức phát hành trên cơ sở thỏa thuận về giá",
+      "Tổ chức phát hành trực tiếp bán cổ phiếu cho tổ chức, ca nhân có nhu cầu.",
+      "Nhận bán lại chứng khoán của tổ chức phát hành để mua lại"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Loại chứng khoán nào sau đây được phép phát hành kèm theo trái phiếu hoặc cổ phiếu ưu đ•i, cho phép người nắm giữ nó được quyền mua một khối lượng cổ phiếu phổ thông nhất định theo mộtgiá đ• được xác định trước trong một thời hạn nhất định.",
+    "correct": "Chứng quyền",
+    "dists": [
+      "Cổ phiếu ưu đ•i",
+      "Trái phiếu",
+      "Quyền mua cổ phần"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Thị trường mua bán lần đầu và chứng khoán mới phát hành là:",
+    "correct": "Thị trường sơ cấp",
+    "dists": [
+      "Thị trường tiền tệ.",
+      "Thị trường thứ cấp",
+      "Thị trường chính thức"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Ai trong số những người sau đây là chủ sở hữu công ty",
+    "correct": "Các cổ đông nắm giữ cổ phiếu ưu đ•i",
+    "dists": [
+      "Những người nắm giữ trái phiếu",
+      "Những cổ đông có giấy đẩm bảo quyền mua cổ phần mới",
+      "Các cổ đông nắm giữ cổ phiếu thường"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Năm N, công ty ABC có thu nhập ròng là 800 triệu đồng, số cổ phiếu đ• phát hành là 600.000 cổ phiếu, cổ phiếu quỹ là: 40.000, không có cổ phiếu ưu đ•i, HĐQT quyết định trả 560 triệu đồng cổ tức. Như vậy mỗi cổ phần được trả cổ tức là:",
+    "correct": "1.000đ",
+    "dists": [
+      "1.300đ",
+      "1.500đ",
+      "2.000đ"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Tại một thời điểm nhất định, nếu tất cả các trái phiếu có thể chuyển đổi đều được trải chủ đổi thành cổ phiếu phổ thông thì:",
+    "correct": "EPS giảm",
+    "dists": [
+      "EPS tăng",
+      "EPS không bị ảnh hưởng",
+      "P/E bị ảnh hưởng còn EPS không bị ảnh hưởng."
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Người nào sau đây được coi là chủ sở hữu chung của doanh nghiệp:",
+    "correct": "Người nắm giữ giấy tờ",
+    "dists": [
+      "Người nắm giữ trái phiếu thế chấp",
+      "Người sở hữu cổ phiếu phổ thông",
+      "Tất cả các trường hợp trên"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Người sở hữu cổ phiếu phổ thông",
+    "correct": "Là chủ sở hữu công ty",
+    "dists": [
+      "Là chủ nợ công ty",
+      "Không có quyền sở hữu công ty",
+      "Là chủ nợ của công ty nhưng không có quyền sở hữu công ty"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Người sở hữu cổ phần phổ thông:",
+    "correct": "Được bỏ phiếu để bầu ra Hội đồng quản trị",
+    "dists": [
+      "Được nhận lại vốn góp khi cổ phiếu đó dáo hạn a, b đều đúng a, b đều sai"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Khi công ty hoạt động có l•i, cổ đông phổ thông:",
+    "correct": "Được chia cổ tức sau thuế sau khi đ• chia cổ tức cho cổ phiếu ưu đ•i",
+    "dists": [
+      "Được chia cổ tức trước thuế",
+      "Được chia cổ tức sau thuế",
+      "Được chia cổ tức sau khi chia cổ tức cổ phiếu ưu đ•i"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Một cổ phiếu ưu đ•i có thể chuyển đổi thành cổ phiếu thường của chính công ty đothi được gọi là:",
+    "correct": "Cổ phiếu ưu đ•i có thể chuyển đổi",
+    "dists": [
+      "Cổ phiếu ưu đ•i tích lũy",
+      "Cổ phiếu ưu đ•i có thể hoán lại",
+      "Cổ phiếu ưu đ•i tham dự chia phần"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Trong trường hợp phá sản, giải thế doanh nghiệp, các cổ đông sẽ:",
+    "correct": "Là người cuối cùng được thanh toán",
+    "dists": [
+      "Là chủ nợ chung",
+      "Mất toàn bộ số tiền đầu tư",
+      "Được ưu tiên trả lại cổ phần đ• đóng góp trước"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Khi công ty không có l•i, công ty vẫn phải:",
+    "correct": "Trả l•i cho trái chủ",
+    "dists": [
+      "Trả cổ tức cho cổ đông phổ thông",
+      "Trả cổ tức cho cổ đông nắm giữ cổ phiếu ưu đ•i",
+      "Không trả l•i và cổ tức"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Cổ đông phổ thông có quyền được trong các trường hợp sau:",
+    "correct": "Chỉ a và c",
+    "dists": [
+      "Giả thể và hợp nhất công ty",
+      "Lựa chọn ban giám đốc",
+      "Sửa đổi quy định và điều lệ công ty"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Người sở hữu cổ phiếu và trái phiếu đều được hưởng:",
+    "correct": "Không câu nào đúng",
+    "dists": [
+      "L•i suất cố định.",
+      "Thu nhập phụ thuộc vào hoạt động của công ty",
+      "Được quyền bầu cử tại Đại hội cổ đông"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Cổ phiếu quỹ:",
+    "correct": "Là loại cổ phiếu đ• phát hành và được tổ chức phát hành mua lại trên thị trường.",
+    "dists": [
+      "Được chia cổ tức",
+      "Cho phép người sở hữu chúng có quyền biểu quyết",
+      "Là một phần cổ phiếu chưa được phát hành"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Khi phá sản, giải thể công ty, người nắm giữ trái phiếu sẽ được hoàn trả:",
+    "correct": "Trước các cổ đông nắm giữ cổ phiếu ưu đ•i và cổ phiếu phổ thông",
+    "dists": [
+      "Trước các khoản vay có thế chấp và các khoản phải trả",
+      "Trước thuế",
+      "Sau các khoản vay có thế chấp và các khoản phải trả"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Trái phiếu chuyển đổi có đặc tính sau:",
+    "correct": "Trái chủ có quyền đổi thành cổ phiếu phổ thông sau một thời gian nhất định.",
+    "dists": [
+      "Trái chủ có quyền đổi lấy một trái phiếu khác nếu như trái phiếu chuyển đổi đó không trả l•i đúng thời hạn. Cả a, b đều đúng.",
+      "Không có phương án nào đúng"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Số chi trả tiền l•i dựa trên:",
+    "correct": "Mệnh giá",
+    "dists": [
+      "Giá trị chiết khấu",
+      "Thị giá",
+      "Tùy từng trường hợp cụ thể."
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Câu nào đúng với quyền mua cổ phiếu (rights)",
+    "correct": "Quyền mua trước cho phép mua cổ phiếu mới với giá rẻ hơn chào mời ra công chúng trên thị trường.",
+    "dists": [
+      "Quyền mua trước có thời hạn",
+      "Giá mua cổ phiếu ghi trên quyền cao hơn giá trị thị trường hiện hành",
+      "a và c"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Câu nào sau đây đúng với hợp đồng quyền chọn:",
+    "correct": "Mua quyền chọn là mua quyền được mua hoặc được bán chứ không có nghĩa vụ phải thực hiện.",
+    "dists": [
+      "Hợp đồng quyền chọn là hợp đồng bắt buộc phải thực hiện",
+      "Hợp đồng quyền chọn giống như hợp đồng tương lai",
+      "Tất cả các câu trên đều đúng."
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Các câu nào sau đây không đúng với chung quyền:",
+    "correct": "Chứng quyền được phát hành đi kèm với chứng khoán kém hấp dẫn",
+    "dists": [
+      "Chứng quyền có thời hạn hiệu lực ngắn",
+      "Chứng quyền có thời hạn hiệu lực dài",
+      "Chứng quyền được phát hành trước khi phát hành một đợt cổ phiếu mới"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Chức năng của thị trường sơ cấp là:",
+    "correct": "Huy động vốn",
+    "dists": [
+      "Kiếm lợi nhuận do kinh doanh chênh lệch giá.",
+      "Tăng tính thanh khoản của chứng khoán"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Các câu nào sau đây đúng với thị trường sơ cấp",
+    "correct": "Làm tăng lượng vốn đầu tư cho nền kinh tế",
+    "dists": [
+      "Không làm tăng lượng tiền trong lưu thông.",
+      "Giá phát hành do quan hệ cung cầu quyết định"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Các câu nào sau đây đúng với thị trường sơ cắp:",
+    "correct": "Tất cả",
+    "dists": [
+      "Tập trung vốn",
+      "Luân chuyển vốn",
+      "Điều hòa vốn"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Chức năng của thị trường thứ cấp là:",
+    "correct": "Tất cả các ý trên",
+    "dists": [
+      "Huy động vốn",
+      "Xác định giá chứng khoán phát hành ở thị trường sơ cấp",
+      "Tập trung vốn"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Thị trường thứ cấp:",
+    "correct": "Là nơi mua bán các chứng khoán đ• phát hành",
+    "dists": [
+      "Là nơi các doanh nghiệp huy động vốn trung và dài hạn thông qua việc phát hành cổ phiếu và trái phiếu.",
+      "Là nơi mua bán các loại chứng khoán kém chất lượng",
+      "Là thị trường chứng khán kém phát triển"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Hình thức bảo l•nh phát hành trong đó đợt phát hành sẽ bị hủy bỏ nếu toàn bộ chứng khoán không bán được hết gọi là:",
+    "correct": "Bảo l•nh tất cả hoặc không",
+    "dists": [
+      "Bảo l•nh với cam kết chắc chắn",
+      "Bảo l•nh với cố gắng tối đa",
+      "Tất cả các hình thức trên."
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Hình thức chào bán mà trong đó có nhà bảo l•nh phát hành cam kết sẽ mua toàn bộ chứng khoán của tổ chức phát hành cho dù họ có thể bán hết hay không được gọi là:",
+    "correct": "Bảo l•nh với cam kết chắc chắn",
+    "dists": [
+      "Bảo l•nh với cố gắng tối đa",
+      "Bảo l•nh tất cả hoặc không",
+      "Bảo l•nh với han mức tối thểu"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Hình thức chào bán trong đó lượng chứng khoán không ban được sẽ được trả lại cho tổ chức phát hành được gọi là:",
+    "correct": "Bảo l•nh với cố gắng tối đa",
+    "dists": [
+      "Bảo l•nh với cam kết chắc chắn",
+      "Bảo l•nh tất cả hoặc không",
+      "Bảo l•nh với hạng mức tối thiểu"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Mục đích chủ yếu của phát hành chứng khoán ra công chúng là:",
+    "correct": "Huy động vốn để mở rộng sản xuất kinh doanh và nâng cao năng lực sản xuất",
+    "dists": [
+      "Để chứng tỏ công ty hoạt động có hiệu quả",
+      "Tăng số lượng cổ đông của công ty.",
+      "Không có câu nào đúng."
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Tr t t ậ ự ưu tiên lệnh theo phương thức khớp lệnh là:",
+    "correct": "Giá, thời gian, số lượng.",
+    "dists": [
+      "Thời gioan, giá, số lượng.",
+      "Số lượng, thời gian, giá",
+      "Thời gian, số lượng, giá"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Lệnh giới hạn là:",
+    "correct": "Cả a, b đều đúng.",
+    "dists": [
+      "Lệnh cho phép người mua mua ở mức giá đ• định hoặc tốt hơn.",
+      "Lệnh cho phép người bán, bán ở mức giá đ• định hoặc tốt hơn.",
+      "Cả a, b đều sai"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Lệnh thị trường:",
+    "correct": "Lệnh sẽ luôn thực hiện ở mức giá tốt nhất có trên thị trường.",
+    "dists": [
+      "Lệnh cho phép người bán, bán toàn bộ chứng khoán mình đang có trong tài khoản ở mức giá được quy định trước.",
+      "Lệnh cho phép người mua, mua chứng khoán theo mức giá đ• định hoặc thấp hơn",
+      "a, b, c đều đúng"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Lệnh dừng để bán được đưa ra.",
+    "correct": "Với giá thấp hơn giá thị trường hiện hành",
+    "dists": [
+      "Với giá cao hơn giá thị trường hiện hành",
+      "Hoặc cao hơn, hoặc thấp hưn giá thị trường hiện hành",
+      "a, b, c đều đúng"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Cổ đông sở hữu cổ phiếu phổ thông:",
+    "correct": "Chỉ nhận cổ tức khi nào hội đồng quản trị tuyên bố chi trả cổ tức",
+    "dists": [
+      "Tự động nhận cổ tức hàng quý khi công ty có lời",
+      "Nhận một tỷ lệ cố định số lợi nhuận của công ty bằng tiền mặt",
+      "Tất cả các câu trên."
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Cổ tức trả bằng cổ phiếu",
+    "correct": "Không làm thay đổi tỷ lệ quyền lợi của cổ đông",
+    "dists": [
+      "Làm tăng quyền lợi theo tỷ lệ của cổ đông trong công ty",
+      "Làm giảm quyền lợi theo tỷ lệ của cổ đông trong công ty",
+      "Không có câu nào đúng"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Biên đ giao đ ng cho phép t ộ ộ rên thị trường chứng khoán Việt Nam là:",
+    "correct": "+ - 5% đối với cổ phiếu và không giới hạn đối với trái phiếu",
+    "dists": [
+      "+ - 7%",
+      "+ - 5%",
+      "Không có câu nào đúng"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty chứng khoán hoạt động tại Việt Nam chỉ được thực hiện các nghiệp vụ sau:",
+    "correct": "Cả b và c có đủ vốn pháp định theo từng loại hình kinh doanh",
+    "dists": [
+      "Môi giới và tư vấn đầu tư chứng khoán.",
+      "Môi giới tư vấn đầu tư chứng khoán và bảo hành phát hành.",
+      "Quản lý doanh mục và tự doanh"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Mệnh giá trái phiếu phát hành ra công chúng ở Việt Nam là:",
+    "correct": "Tối thiểu là 100.000 đồng và bội số của 100.000 đồng",
+    "dists": [
+      "10.000 đồng",
+      "100.000 đồng",
+      "200.000 đồng"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Mệnh giá trái phiếu phát hành ra công chúng ở Việt Nam là:",
+    "correct": "Tối thiểu là 100.000 đồng và bội số của 100.000 đồng",
+    "dists": [
+      "100.000 đồng",
+      "10.000 đồng",
+      "20.000 đồng"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Những đối tượng nào sau đây được phép phát hành trái phiếu",
+    "correct": "Cả a và b",
+    "dists": [
+      "Công ty cổ phần",
+      "Công ty TNHH",
+      "Doanh nghiệp tư nhân"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Giá cổ phiếu A trên bảng giao dịch điện tử của công ty chứng khoán có màu đỏ có nghĩa là:",
+    "correct": "Biểu thị cổ phiếu A giảm giá",
+    "dists": [
+      "Biểu thị cổ phiếu A tăng giá",
+      "Biểu thị cổ phiếu A vẫn giữ nguyên giá.",
+      "Không câu nào đúng"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Nhà phát hành đ nh phát hành 2 lo i trái phi u: trái ị ạ ế phiếu X có thời hạn và 5 năm và trái phiếu Y có thời hạn 20 năm. Như vậy, nhà phát hành phải định mức l•i suất cho 2 trái phiếu như thế nào?",
+    "correct": "L•i suất trái phiếu X < l•i suất trái phiếu Y",
+    "dists": [
+      "L•i suất trái phiếu X > l•i suất trái phiếu Y",
+      "L•i suất trái phiếu X = l•i suất trái phiếu Y",
+      "Còn tùy trường hợp cụ thể."
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Thời hạn thanh toán giao dịch chứng khoán được quy định trên thị trường chứng khoán Việt Nam là:",
+    "correct": "T + 3",
+    "dists": [
+      "T + 1",
+      "T + 2",
+      "T + 0"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Các phiên giao dịch chứng khoán trên thị trường chứng khoán Việt Nam được thự__________c hiện vào:",
+    "correct": "Tất cả các ngày trong tuần trừ thứ bảy, chủ nhật và ngày lễ.",
+    "dists": [
+      "Buổi sáng các ngày thứ bảy, chủ nhật và các ngày lễ.",
+      "Buổi chiều các ngày trong tuần trừ thứ bảy, chủ nhật và các ngày lễ.",
+      "Tất cả các ngày trong tuần."
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "ủy ban chứng khoán nhà nước thuộc:",
+    "correct": "Bộ tài chính",
+    "dists": [
+      "Quốc hội",
+      "Chính phủ",
+      "Ngân hàng nhà nước Việt Nam"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Văn bản pháp luật cao nhất điều chỉnh các hoạt động của thị trường chứng khoán Việt Nam hiện nay là:",
+    "correct": "Luật chứng khoán.",
+    "dists": [
+      "Nghị định 48/1998/NĐ-CP ngày 11/7/1998 của Chính phủ",
+      "Nghị định 144/2003/NĐ-CP ngày 27/11/2003 của Chính phủ",
+      "Tất cả các câu trên."
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Ưu tiên trong giao dịch chứng khoán treo phương thức khớp lệnh ở thị trường chứng khoán Việt Nam là:",
+    "correct": "Chỉ có a và b",
+    "dists": [
+      "Giá",
+      "Thời gian",
+      "Số lượng"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Giá của trái phiếu giảm khi:",
+    "correct": "L•i suất thị trường tưng",
+    "dists": [
+      "L•i suất thị trường giảm",
+      "L•i suất thị trường không thay đổi",
+      "Giá của trái phiếu không phụ thuộc vào l•i suất của thị trường"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Lệnh dừng để múa được đưa ra:",
+    "correct": "Với giá cao hơn giá thị trường hiện hành",
+    "dists": [
+      "Với giá thấp hơn giá thị trường hiện hành"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Một trái phiếu có mệnh giá 1.000 USD, có l•i suất danh nghĩa là 8%/năm, đang được bán với giá 950 USD. L•i suất hiện hành của trái phiếu này là:",
+    "correct": "8,42%",
+    "dists": [
+      "8%",
+      "10,37%",
+      "10%"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty X phát hành thêm đợt cổ phiếu phổ thông mới để tăng vốn bằng cách cung ứng các đặc quyền ngắn hạn với tỷ lệ 4 quyền được mua một cổ phiếu mới theo giá 75 USD, giá tham chiếu của cổ phiếu X sau khi tăng vốn là 90 USD.Vậy giá của quyền là:",
+    "correct": "3.75 USD",
+    "dists": [
+      "2.5 USD",
+      "3 USD",
+      "15 USD"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty X phát hành cổ phiếu mới giá thực hiện theo quyền là 30 USD. Giá tham chiếu của cổ phiếu đó sau đợt phát hành trên thị trường là 40 USD. Giá trị của một quyền là 2 USD. Vậy số quyền cần có để mua một cổ phiếu là:",
+    "correct": "5",
+    "dists": [
+      "3",
+      "4",
+      "6"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty A cung ng 300.000 c phi u ra ứ ổ ế công chúng với giá 15 USD/ cổ phiếu, lệ phí cho nhà quản lý là 0,15 USD / cổ phiếu, lệ phí cho nhà bao tiêu 0,2 USD / cổ phiếu, hoa hồng cho nhóm bán là 0,65 USD / cổ phiếu. Vậy tổng số tiền mà công ty phát hành nhận được là:",
+    "correct": "4.200.000 USD",
+    "dists": [
+      "4.000.000 USD",
+      "4.500.000 USD",
+      "5.000.000 USD"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Một trái phiếu có l•i suất 5%/năm được phát hành theo mệnh giá là 1000 USD. Hiện tại trái phiếu đang được bán với giá là 900 USD và có thể được thu hồi theo mệnh giá. Vậy số l•i hàng năm mà nhà đầu tư thu được là:",
+    "correct": "50 USD",
+    "dists": [
+      "20 USD",
+      "500 USD",
+      "5.000 USD"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Khi chào bán ra công chúng với giá 12 USD một cổ phiếu, chênh lệch bảo l•nh là 2 USD. Vậy tổ chức phát hành nhận được bao nhiêu USD cho 10.000 cổ phiếu.",
+    "correct": "100.000 USD",
+    "dists": [
+      "120.000 USD",
+      "140.000 USD",
+      "20.000 USD"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Nếu giá cổ phiếu X trên thị trường là 23.800 đ. Với số tiền là 24 triệu, phí môi giới là 0,5% nhà đầu tư có thể mua tối đa bao nhiêu cổ phiếu X:",
+    "correct": "1003",
+    "dists": [
+      "1000",
+      "1010",
+      "1005"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Ông X vừa bán 10 cổ phiếu của công ty A với giá 40 USD / cổ phiếu. Ông ta mua cổ phiếu đó một năm trước đây với giá 30 USD / cổ phiếu, năm vừa qua ông ta có nhận cổ tức 2 USD / cổ phiếu. Vậy thu nhập trước thuế của ông từ 100 cổ phiếu A là:",
+    "correct": "1200 USD",
+    "dists": [
+      "1000 USD",
+      "1300 USD",
+      "Tất cả đều sai."
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "M t trái phi u có m nh giá là 1000 USD, l•i su ộ ế ệ ất hiện hành là 12% năm, đang được mua bán với giá 1600 USD. Vậy l•i suất danh nghĩa của nó là bao nhiêu.",
+    "correct": "19,2%",
+    "dists": [
+      "13%.",
+      "15%",
+      "19%"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Một trái phiếu có thể chuyển đổi được mua theo mệnh giá là 1000 USD, giá chuyển đổi là 125 USD. Vậy tỷ lệ chuyển đổi là:",
+    "correct": "8",
+    "dists": [
+      "2",
+      "12",
+      "20"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Hiện tại giá cổ phiếu KHA trên thị trường chứng khoán Việt Nam là 45.700 đồng/ cổ phiếu, biên độ giao động đối với cổ phiếu quy định là + - 5%, đơn vị yết giá là 100 đồng. Trong phiên giao dịch tiếp theo, giá nào mà nhà đầu tư đưa ra dưới đây là hợp lệ.",
+    "correct": "47.100 đồng",
+    "dists": [
+      "43.415 đồng",
+      "46.150 đồng",
+      "48.100 đồng"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty X được phép phát hành 1 triệu cổ phiếu thường, công ty đ• phát hành được 600.000 cổ phiếu, vừa qua công ty đ• mua lại 40.000 cổ phiếu thường. Như vậy công ty X có bao nhiêu cổ phiếu thường đang lưu hành.",
+    "correct": "560.000",
+    "dists": [
+      "40.000",
+      "600.000",
+      "1.000.000"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Phiên đóng cửa tuần n của thị trường chứng khoán Việt Nam, VN - Index là 237.78 điểm, tăng 2,64 điểm so với phiên đóng của tuần n -1, tức là mức tăng tương đương với:",
+    "correct": "1,12%",
+    "dists": [
+      "1,11%",
+      "1%",
+      "1,2%"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "T i s giao d ch, trong phiên giao d ch sau khi ạ ở ị ị tập hợp được các lệnh mua và bán cổ phiếu X nhận thấy như sau: I. ở mức giá 275 có: khối lượng đặt mua là 720 cổ phiếu, và khối lượng đặt là bán 1.560 cổ phiếu. II. ở mức giá 274 có : khối lượng đặt mua là 900 cổ phiếu, và khối lượng đặt là bán 1440 cổ phiếu. III. ở mức giá 273 có: Khối lượng đặt mua là 1200 cổ phiếu, và khối lượng đặt mua là bán 1300 cổ phiếu. IV. ở mức giá 272 có: Khối lượng đặt mua là 1400 cổ phiếu, và khối lượng đặt là bán 640 cổ phiếu. Vậy giá được xác định cho phiên giao dịch này của cổ phiếu X sẽ là:",
+    "correct": "273",
+    "dists": [
+      "272",
+      "274",
+      "275"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Tại sở giao dịch, trong phiên giao dịch sau khi tập hợp được các lệnh mua và bán cổ phiếu X nhận thấy như sau: I. ở mức giá 275 có: khối lượng đặt mua là 720 cổ phiếu, và khối lượng đặt là bán 1.560 cổ phiếu. II. ở mức giá 274 có: khối lượng đặt mua là 900 cổ phiếu, và khối lượng đặt là bán 1.440 cổ phiếu. III. ở mức giá 273 có: Khối lượng đặt mua là 1200 cổ phiếu, và khối lượng đặt là bán 900 cổ phiếu. IV. ở mức giá 272 có: Khối lượng đặt mua là 1400 cổ phiếu, và khối lượng đặt là bán 640 cổ phiếu. Giá phiên dịch trước đó của cổ phiếu X là 273.5. Vậy giá được xác định cho phiên giao dịch này của cổ phiếu X sẽ là:",
+    "correct": "272",
+    "dists": [
+      "273",
+      "274",
+      "275"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Cổ phiếu X có mức tăng trưởng g = 0, cổ tức nhận được hàng năm là 2.000 đồng. Với mức tỷ suất lợi nhuận yêu cầu là 10%/năm thì giá cổ phiếu X được xác định là:",
+    "correct": "20.000 đồng",
+    "dists": [
+      "10.000 đồng",
+      "15.000 đồng",
+      "21.000 đồng"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Cổ phiếu X có mức tăng trưởng không đổi g = 5%/năm, cổ tức vừa được chia trước đó là 2.000 đồng/cổ phiếu, với mức tỷ suất lợi nhuận yêu cầu là 10%/năm, giá cổ phiếu X được xác định là:",
+    "correct": "42.000 đồng",
+    "dists": [
+      "40.000 đồng",
+      "41.500 đồng",
+      "40.500 đồng"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Một trái phiếu có mệnh giá 500.000 đồng, l•i suất 5%/năm, thời hạn trái phiếu 3 năm, thanh toán theo mệnh giá vào cuối kỳ hạn. Nếu l•i suất yêu cầu là 6% thì giá trái phiếu sẽ là:",
+    "correct": "486.634,9 đồng",
+    "dists": [
+      "500.000 đồng",
+      "490.000 đồng",
+      "499.602,6 đồng"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Giá của cổ phiếu X được xác định trong phiên giao dịch là 155 như bảng dưới đây Mua Giá Bán Lệnh mua SL Mua Cộng dồn Cộng dồn SL bán Lệnh bán M1 600 600 Thị trường M2 300 900 156 1600 500 B2 M3 400 1300 155 1.100 300 B3 M4 500 1800 154 800 200 B4 M5 100 1900 153 600 400 B5 M6 200 2100 152 200 100 B6 Thị trường 100 100 B1 H•y cho biết lệnh mua nào được thực hiện:",
+    "correct": "M1: 600, M2: 300, M3: 200",
+    "dists": [
+      "M1: 600, M2: 300, M3: 400",
+      "M3: 300, M4: 500, M5: 400, M6: 200",
+      "M2: 300, M3: 400, M4: 400"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Giá của cổ phiếu X được xác định trong phiên giao dịch là: 155 như bảng dưới đây: Mua Giá Bán Lệnh mua SL Mua Cộng dồn Cộng dồn SL bán Lệnh bán M1 600 600 Thị trường M2 300 900 156 1600 500 B2 M3 400 1300 155 1.100 300 B3 M4 500 1800 154 800 200 B4 M5 100 1900 153 600 400 B5 M6 200 2100 152 200 100 B6 Thị trường 100 100 B1 H•y cho biết lệnh bán nào được thực hiện:",
+    "correct": "B1: 100, B3: 300, B4: 200, B5: 400, B6: 100",
+    "dists": [
+      "B1: 100, B2: 500, B3: 200",
+      "B2: 100, B3: 300, B4: 200, B5; 400, B6: 100",
+      "B1: 100, B2: 100, B6: 100, B5: 400 < B4: 200, B3: 300"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Một nhà đầu tư bán 100 cổ phiếu X với giá 24.000 đồng/cổ phiếu. Phí môi giới là 0,5% trên giá trị giao dịch. Vậy số tiền nhà đầu tư đó thu được là:",
+    "correct": "2.388.000 đồng",
+    "dists": [
+      "2.400.000 đồng",
+      "2.412.000 đồng",
+      "2.410.000 đồng"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Một nhà đầu tư mua được 200 cổ phiếu Y với giá 50.000đ/cổ phiếu.Phí môi giới là 0,5% trên giá trị giao dịch. Vậy số tiền mà nhà đầu tư phải trả là:",
+    "correct": "10.050.000 đồg",
+    "dists": [
+      "10.000.000 đồng",
+      "9.950.000 đồng",
+      "10.500.000 đồng"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Giả sử cổ phiếu A đang có giá ở phiên giao dịch trước là 101.000 đồng, theo quy định yết giá của Việt Nam hiện nay, giá mà bạn trả trong phiên giao dịch này như thế nào là hợp lệ:",
+    "correct": "100.000 đồng",
+    "dists": [
+      "101.500 đồng",
+      "106.050 đồng",
+      "95.000 đồng"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty X đang cung ng 300.000 c ứ ổ phiếu ra công chúng với giá 15 USD/ cổ phiếu. Lệ phí cho nhà quản lý là 0,15 USD/ cổ phiếu, lệ phí cho nhà bảo l•nh là 0,2 USD/ cổ phiếu, hoa hồng cho nhóm bán là 0,65 USD / cổ phiếu, như vậy, giá mà công chúng phải trả khi mua một cổ phiếu là:",
+    "correct": "15 USD",
+    "dists": [
+      "13,75 USD",
+      "14 USD",
+      "14,5 USD"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Nhà đầu tư có tổ chức là:",
+    "correct": "Quỹ đầu tư",
+    "dists": [
+      "Công chúng đầu tư",
+      "Các tổ chức kinh tế",
+      "Các công ty"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Cổ phiếu ưu đ•i cổ tức được trả cổ tức theo:",
+    "correct": "Mức cổ tưc cao hơn cổ tức cổ phiếu phổ thông",
+    "dists": [
+      "Tỷ lệ cố định",
+      "Tỷ lệ cố định cao hơn trái tức",
+      "Tỷ lệ tuyệt đối tối đa"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Một trong những điều kiện công ty trả cổ tức là:",
+    "correct": "Có l•i trong kỳ",
+    "dists": [
+      "Có l•i tích lũy lại",
+      "Có thăng dư vốn",
+      "Tất cả các trường hợp trên"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Nguồn lợi tức tiềm năng của trái phiếu là:",
+    "correct": "Tất cả các phương án trên",
+    "dists": [
+      "Tiền l•i định kỳ",
+      "Chênh lệch giá mua, bán trái phiếu",
+      "L•i của l•i trái phiếu"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Quỹ đầu tư chứng khán của Việt Nam là quỹ:",
+    "correct": "Đầu tư tối thiểu 60% giá trị tài sản vào quỹ",
+    "dists": [
+      "Đầu tư tối thiểu 40% giá trị tài sản vào quỹ",
+      "Đầu tư tối thiểu 50% giá trị tài sản vào quỹ",
+      "Đầu tư tối thiểu 70% giá trị tài sản vào quỹ"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Phát hành chứng khoán ra công chúng theo quy định của pháp luật Việt Nam là:",
+    "correct": "Cả a và b",
+    "dists": [
+      "Chào bán cho ít nhất 100 nhà đầu tư ngoài tổ chức phát hành",
+      "Chào bán chứng khoán có thể chuyển nhượng được",
+      "Chịu sự điều chỉnh của luật doanh nghiệp"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Chào bán so cấp là:",
+    "correct": "Phát hành cổ phiếu lần đầu ra công chúng",
+    "dists": [
+      "Đợt phát hành cổ phiếu bổ sung của công ty đại chúng cho rộng r•i công chúng.",
+      "Phát hành trái phiếu ra công chúng",
+      "Tất cả các câu trên đều đúng"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Tổ chức b•o l•nh phát hành ở Việt Nam chỉ được bảo l•nh cho một đợt phát hành với tổng giá trị cổ phiếu không vượt quá:",
+    "correct": "30% vốn có của tổ chức bảo l•nh phát hành",
+    "dists": [
+      "20% vốn có của tổ chức bảo l•nh phát hành.",
+      "25% vốn có của tổ chức bảo l•nh phát hành",
+      "35% vốn có của tổ chức bảo l•nh phát hành"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Tổ chức phát hành phải hoàn thành việc phân phối cổ phiếu trong vòng:",
+    "correct": "90 ngày kể từ ngày giấy chứng nhận đăng ký phát hành có hiệu lực",
+    "dists": [
+      "60 ngày kể từ ngày giấy chứng nhận đăng ký phát hành có hiệu lực",
+      "70 ngày kể từ ngày giấy chứng nhận đăng ký phát hành có hiệu lực",
+      "80 ngày kể từ ngày giấy chứng nhận đăng ký phát hành có hiệu lực"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Chứng nhận đăng ký phát hành chứng khoán bị thu hồi trong trường hợp sau:",
+    "correct": "Sai sót trong bản cáo bạch gây thiệt hại cho nhà đầu tư",
+    "dists": [
+      "Phát hành chỉ đạt 85% số lượng chứng khoán được phát hành",
+      "Chỉ đạt được 100 nhà đầu tư",
+      "Tất cả các câu trên."
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Một trái phiếu có mệnh giá 10.000 USD, thời hạn 2 năm, l•i suất 5%/năm. Nếu l•i suất yêu cầu là 10%/năm thì giá của trái phiếu sẽ là:",
+    "correct": "9132.23 USD",
+    "dists": [
+      "9005 USD",
+      "10005 USD",
+      "10132 USD"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "C phi u X có t l tăng tr ng kỳ v ng không đ i theo ổ ế ỷ ệ ưở ọ ổ các nhà phân tích chứng khoán là 8%/năm. Cổ tức được trả trong lần gần nhất là 2 USD. Nếu nhà đầu tư có ý định bán cổ phiếu đi sau khi đ• nhận cổ tức của năm thì phải bán với giá bao nhiêu biết rằng tỷ lệ sinh lời yêu cầu của nhà đầu tư là 12%/năm:",
+    "correct": "54 USD",
+    "dists": [
+      "58,32 USD",
+      "55 USD",
+      "58 USD"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Sau khi có quyết định hồi chứng nhận đăng ký phát hành, tổ chức phát hành phải hoàn trả tiền cho nhà đầu tư trong vòng:",
+    "correct": "15 ngày",
+    "dists": [
+      "30 ngày",
+      "45 ngày",
+      "60 ngày"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Hội đồng quản trị, ban giám đốc, ban kiểm soát của công ty niêm yết phải nắm giữ:",
+    "correct": "ít nhất 20% vốn cổ phần của công ty kể từ ngày niêm yết b ít nhất 20% vốn cổ phần trong vòng 3 năm kể từ ngày niêm yết c ít nhất 50% vốn cổ phiếu do mình sở hữu trong vòng 3 năm kể từ ngày niêm yết.",
+    "dists": [
+      "Tất cả các câu trên."
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Biên độ giao động giá trên thị trường chứng khoán Việt Nam do:",
+    "correct": "Chủ tịch ủy ban chứng khoán nhà nước quy định",
+    "dists": [
+      "Bộ trưởng bộ tài chính quy định.",
+      "Thống đốc ngân hàng Nhà nước quy định",
+      "Giám đốc trung tâm giao dịch chứng khoán quy định"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Thời hạn công bố thông tin về báo cáo tài chính năm của tổ chức niêm yết chậm nhất là:",
+    "correct": "10 ngày kể từ ngày hoàn thành báo cáo tài chính năm",
+    "dists": [
+      "5 ngày kể từ ngày hoàn thành báo cáo tài chính năm",
+      "15 ngày kể từ ngày hoàn thành báo cáo tài chính năm",
+      "20 ngày kể từ ngày hoàn thành báo cáo tài chính năm"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Tổ chức phát hành, tổ chức niêm yết phải công bố thông tin bất thường trong thời gian:",
+    "correct": "24 tiếng kể từ khi sự kiện xảy ra",
+    "dists": [
+      "10 tiếng kể từ khi sự kiện xảy ra",
+      "30 tiếng kể từ khi sự kiện xảy ra",
+      "20 tiếng kể từ khi sự kiện xảy ra"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty chứng khoán có thể chỉ hoạt động tối đa",
+    "correct": "30 ngày",
+    "dists": [
+      "45 ngày",
+      "60 ngày",
+      "90 ngày"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Khi tiến hành tự doanh chứng khoán, công ty chứng khoán không được:",
+    "correct": "Tất cả đều đúng.",
+    "dists": [
+      "Đầu tư trên 20% tổng số cổ phiếu đang lưu hành của một tổ chức niêm yết",
+      "Đầu tư vào cổ phiếu của công ty đang có sở hữu 50% vốn điều lệ của công ty chứng khoán.",
+      "Đầu tư 15% tổng số cổ phiếu đang lưu hành của một tổ chức không niêm hết."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty chứng khoán phải duy trì tỷ lệ vốn khả dụng tối thiểu trên tỏng vốn nợ điều chỉnh là:",
+    "correct": "5%",
+    "dists": [
+      "3%",
+      "6%",
+      "8%"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty chứng khoán phải báo cáo ủy ban chứng khoán khi vốn khả dụng thấp hơn quy định trong vòng:",
+    "correct": "24 giờ kể từ khi phát hiện",
+    "dists": [
+      "32 giờ kể từ khi phát hiện",
+      "40 giờ kể từ khi phát hiện",
+      "48 giờ kể từ khi phát hiện"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty quản lý quỹ được phép",
+    "correct": "Tất cả đều sai",
+    "dists": [
+      "Dùng tài sản quỹ để cho vay",
+      "Dùng vón của quỹ để bảo l•nh các khoản vay",
+      "Vay để tài trợ cho hoạt động quỹ"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "M t công ty có l ộ ợi nhuận sau thiếu là 12.000.000.000 đồng. Số cổ phiếu phổ thông đang lưu hành là 5.000.000 cổ phiếu, tổng số cổ phiếu ưu đ•i trị giá 1.000.000.000 đồng phải trả l•i hàng năm là 50%. Vậy cổ tức của mỗi cổ phiếu phổ thông là:",
+    "correct": "2.300 đồng",
+    "dists": [
+      "2.000 đồng",
+      "2.500 đồng",
+      "2.400 đồng"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Năm N, công ty ABC có thu nhập ròng là 800 triệu đồng, số cổ phiếu đ• phát hành là 600.000 cổ phiếu, cổ phiếu quỹ là 40.000, không có cổ phiếu ưu đ•i. Hội đồng quản trị quyết định trả 560 triệu cổ tức. Như vậy mỗi cổ phần được trả cổ tức là:",
+    "correct": "1000 đồng",
+    "dists": [
+      "1500 đồng",
+      "2000 đồng",
+      "1300 đồng"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Nhà đầu tư A vừa mua được 100 cổ phiếu phổ thông X với giá 24.000 đồng/cổ phiếu, phí môi giới là 0,5% tổng giá trị giao dịch. Vậy số tiền mà nhà đầu tư A đ• bỏ ra là:",
+    "correct": "24.120.000 đồng",
+    "dists": [
+      "24.000.000 đồng",
+      "24.150.000 đồng",
+      "23.878.000 đồng"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Một công ty có cổ phiếu đang được bán với giá 20 USD / cổ phiếu. Nếu tất cả các trái chủ của công ty đều chuyển đổi thành cổ phiếu thường (Đối với trái phiếu có thể chuyển đổi thành cổ phiếu thường) thì:",
+    "correct": "EPS giảm",
+    "dists": [
+      "EPS tăng",
+      "EPS không bị ảnh hưởng",
+      "P/E bị ảnh hưởng còn EPS không bị ảnh hưởng"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Các câu nào sau đây không chắc chắn với quyền mua cổ phiếu (rights)",
+    "correct": "Một quyền cho phép mua một cổ phiếu mới",
+    "dists": [
+      "Giá trị nội tại của quyền mua trước. 1. Bằng 0 nếu hết thời hạn hiệu lực của quyền 2 > 0 nếu quyền còn hiệu lực.",
+      "Trong thời hạn hiệu lực của quyền, người sở hữu quyền có thể sử dụng quyền để mua cổ phiếu mới hoặc bán nó trên thị trường.",
+      "Tr c khi phát hành c phi u m i đ tăng ướ ổ ế ớ ể vốn, công ty bắt buộc phải phát hành quyền mua trước."
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Chức năng chính của nhà bảo l•nh phát hành là:",
+    "correct": "Phân phối chứng khoán ra công chúng và tư vấn cho tổ chức phát hành các thủ tục pháp lý liên quan đến đợt phát hành.",
+    "dists": [
+      "Phân phối chứng khoán ra công và cung cấp thị trường cấp 2.",
+      "Cung cấp thị trường cấp 2 và cung cấp tài chính cá nhân.",
+      "Cung cấp thị trường cấp 2 và tư vấn cho tổ chức phát hành các thủ tục pháp lý liên quan đến đợt phát hành."
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Tài liệu nào quan trọng nhất trong hồ sơ đăng ký phát hành ra công chúng:",
+    "correct": "Bản cáo bạch",
+    "dists": [
+      "Bản sao giấy phép thành lập và đăng ký kinh doanh",
+      "Danh sách và sơ yếu lý lịch thành viên HDDQT và ban Giám đốc.",
+      "Đơn xin phép phát hành."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Nếu một cổ phiếu đang được mua bán ở mức 35USD nhưng bạn chỉ có để mua cổ phiếu đó với giá là 30 USD, bạn nên đặt lệnh.",
+    "correct": "Giới hạn",
+    "dists": [
+      "Thị trường",
+      "a và b đều đúng",
+      "a và b đều sai"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Lý do nào sau đây đúng với bán khống chứng khoán.",
+    "correct": "Hưởng lợi từ việc tăng giá chứng khoán",
+    "dists": [
+      "Hạn chế rủi ro."
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Các chỉ tiêu sau đây không phải là chỉ tiêu của phân tích cơ bản:",
+    "correct": "Chỉ số giá của thị trường chứng khoán.",
+    "dists": [
+      "Các chỉ tiêu phản ánh khả năng sinh lời của công ty",
+      "Các chỉ tiêu phản ánh khả năng thanh toán của công ty",
+      "Tỷ số P/E."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Để dự đoán xem việc tăng, giảm giá chứng khoán nào đó có phải là khởi đầu một xu hướng biến động lớn hay không, nhà phân tích kỹ thuật sẽ:",
+    "correct": "Tất cả các câu trên",
+    "dists": [
+      "Xem xét kỹ các báo cáo tài chính.",
+      "Đi thu nhập các tin đồn",
+      "Sử dụng biểu đồ"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty ABA có 10.000 cổ phần đang lưu hành và tuyên bố trả cổ tức 30% cổ phiếu khách hàng của bạn có 100 cổ phần ABA, sau khi nhận cổ tức bằng cổ phiếu tỷ lệ sở hữu công ty của ông ta là bao nhiêu:",
+    "correct": "1%",
+    "dists": [
+      "1,3%",
+      "1,5%",
+      "1,1%"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Một trái phiếu có l•i suất cao đang bán với giá cao hơn mệnh giá và được thu hồi theo mệnh giá. Bên nào sẽ hưởng lợi về điều khoản bảo vệ về lệnh thu hồi:",
+    "correct": "Tổ chức phát hành",
+    "dists": [
+      "Nhà đầu tư.",
+      "Người ủy thác",
+      "Công ty môi giới chứng khoán"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Giao dịch theo phương thức khớp lệnh ở Việt Nam quy định đơn vị yết giá đối với những cổ phiếu có mức giá từ 50.000 đồng đến 99.500 đồng là:",
+    "correct": "500 đồng",
+    "dists": [
+      "100 đồng",
+      "200 đồng",
+      "300 đồng"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Một trong những điều kiện phát hành cổ phiếu lần đầu ra công chúng ở Việt Nam là:",
+    "correct": "Có vốn tối thiểu là 10 tỷ VNĐ, hoạt động kinh doanh của năm liền trước năm đăng ký phát hành phải có l•i.",
+    "dists": [
+      "Có vốn tối thiểu là 10 tỷ VNĐ, hoạt động kinh doanh của 2 năm liền trước năm đăng ký phải có l•i.",
+      "Có vốn tối thiểu là 5 tỷ VNĐ, hoạt động kinh doanh của 2 năm liền trước năm đăng ký phải có l•i.",
+      "Có vốn tối thiểu là 5 tỷ VNĐ, hoạt động kinh doanh của năm liền trước năm đăng ký phát hành phải có l•i."
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Tỷ lệ nắm giữ tối đa của nhà đầu tư nước ngoài đối với cổ phiếu của một tổ chức niên yết được quy định theo pháp luật Việt Nam là:",
+    "correct": "49% Tổng số cổ phiếu",
+    "dists": [
+      "25% Tổng số cổ phiếu",
+      "30% Tổng số cổ phiếu",
+      "27% Tổng số cổ phiếu"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Một trong những điều kiện để niêm yết trái phiếu doanh nghiệp là:",
+    "correct": "Là công ty c ph n, công ty trách nhi m h u h n, doanh ổ ầ ệ ữ ạ nghiệp nhà nước có vốn điều lệ đ• góp tại thời điểm xin phép niêm yết từ 10 tỷ VNĐ trở lên.",
+    "dists": [
+      "Là công ty cổ phần, công ty trách nhiệm hữu hạn, doanh nghiệp nhà nước có vốn điều lệ đ• góp tại thời điểm xin phép niêm yết từ 5 tỷ VNĐ trở lên.",
+      "Là công ty cổ phần, công ty trách nhiệm hữu hạn, doanh nghiệp nhà nước, doanh nghiệp tư nhân có vốn điều lệ đ• góp tại thời điểm xin phép niêm yết từ 5 tỷ VNĐ trở lên.",
+      "Không câu nào đúng."
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Một trong các điều kiện niêm yết trái phiếu doanh nghiệp là:",
+    "correct": "Hoạt động kinh doanh có l•i liên tục năm liền trước năm xin phép niêm yết và có tình hình tài chính lành mạnh.",
+    "dists": [
+      "Hoạt động kinh doanh có l•i liên tục 2 năm liền trước năm xin phép niêm yết và có tình hình tài chính lành mạnh.",
+      "Hoạt động kinh doanh có l•i liên tục 3 năm liền trước năm xin phép niêm yết và có tình hình tài chính lành mạnh.",
+      "Không câu nào đúng."
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Nếu một trái phiếu được bán đúng bằng mệnh giá của nó thì:",
+    "correct": "L•i suất hiện hành của trái phiếu = l•i suất danh nghĩa của trái phiếu",
+    "dists": [
+      "L•i suất hiện hành của trái phiếu < l•i suất danh nghĩa của tráiphiếu",
+      "L•i suất hiện hành của trái phiếu > l•i suất danh nghĩa của trái phiếu",
+      "Không có câu nào đúng."
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Nếu một trái phiếu được bán với giá thấp hơn mệnh giá thì:",
+    "correct": "L•i suất hiện hành của trái phiếu > l•i suất danh nghĩa của trái phiếu",
+    "dists": [
+      "L•i suất hiện hành của trái phiếu < l•i suất danh nghĩa của tráiphiếu",
+      "L•i suất hiện hành của trái phiếu = l•i suất danh nghĩa của trái phiếu",
+      "Không có cơ sở để so sánh."
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Nếu một trái phiếu được bán với giá cao hơn mệnh giá thì:",
+    "correct": "L•i suất hiện hành của trái phiếu < l•i suất danh nghĩa của tráiphiếu",
+    "dists": [
+      "L•i suất hiện hành của trái phiếu = l•i suất danh nghĩa của trái phiếu",
+      "L•i suất hiện hành của trái phiếu > l•i suất danh nghĩa của trái phiếu",
+      "Không có câu nào đúng."
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Nhà đầu tư sẽ yêu cầu một l•i suất như thế nào nếu mua trái phiếu có điều khoản cho phép nhà phát hành có thể mua lại:",
+    "correct": "Cao hơn l•i suất các trái phiếu khác có cùng kỳ hạn",
+    "dists": [
+      "Th p h n ấ ơ l•i suất các trái phiếu khác có cùng kỳ hạn.",
+      "Bằng l•i suất các trái phiếu khác có cùng kỳ hạn.",
+      "Tùy nhà phát hành."
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Trong phiên giao dịch giá cổ phiếu X được xác định là 32.500 đồng, như vậy những lệnh mua sau sẽ được thực hiện.",
+    "correct": "Trường hợp (a) chắc chắn được thực hiện và trường hợp (b) có thể được thực hiện tùy trường hợp cụ thể.",
+    "dists": [
+      "Lệnh đặt mua > 32.500 đồng",
+      "Lệnh đặt mua = 32.500 đồng",
+      "Lệnh đặt mua < 32.500 đồng"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Trong phiên giao dịch giá cổ phiếu X được xác định là 52.000 đồng, như vậy những lệnh bán sau sẽ được thực hiên:",
+    "correct": "Lệnh đặt bán < 52.000 đồng",
+    "dists": [
+      "Lệnh đặt bán > 52.000 đồng",
+      "Lệnh đặt bán = 52.000 đồng"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Thị trường OTC là:",
+    "correct": "Thị trường giao dịch theo phương thức thỏa thuận",
+    "dists": [
+      "Thị trường giao dịch theo phương thức khớp lệnh",
+      "Thị trường giao dịch theo phương thức khớp lệnh và phương thức thỏa thuận.",
+      "Không có câu nào đúng."
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Trung tâm giao dịch chứng khoán Hà Nội là:",
+    "correct": "Nơi giao dịch những chứng khoán đ• niêm yết.",
+    "dists": [
+      "Nơi giao dịch những chứng khoán chưa niêm yết",
+      "Cả a và b",
+      "Chỉ mua bán trái phiếu của các công ty"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Chỉ số VN - Index thời điểm cao nhất tính cho tới hiện nay là:",
+    "correct": "Trên 1000 điểm",
+    "dists": [
+      "300 điểm",
+      "400 điểm",
+      "Không câu nào đúng."
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Người bán khống chứng khoán thực hiện hành động bán khống khi họ đi đoán giá của cổ phiếu sẽ:",
+    "correct": "Giảm đi",
+    "dists": [
+      "Tăng lên",
+      "Không thay đổi",
+      "Không câu nào đúng"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Lợi nhuận mà người bán chứng khoán không nhận được là:",
+    "correct": "(Giá cuối kỳ + Cổ tức) - giá ban đầu",
+    "dists": [
+      "Giá ban đầu - (cổ tức + giá cuối kỳ)",
+      "Giá ban đầu - Giá cuối kỳ",
+      "Giá cuối kỳ - giá ban đầu"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Trái phiếu có thời gian dáo hạn dài sẽ cho nhà đầu tư:",
+    "correct": "L•i suất ổn định và giảtị thị trường ổn định.",
+    "dists": [
+      "L•i suất ổn định và giá trị thị trường biến động",
+      "L•i suất biến động và giá trị thị trường ổn định",
+      "L•i suất biến động và giá trị thị trường biến động."
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Cái gì sau đây bị ảnh hưởng bởi việc phát hành trái phiếu dài hạn:",
+    "correct": "Tổng số nợ",
+    "dists": [
+      "Tài sản",
+      "Vốn lưu động",
+      "Vốn cổ phần"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Trong trường hợp nào vốn cổ đông sẽ bị pha lo•ng:",
+    "correct": "Trái phiếu có thể chuyển đổi được chuyển sang cổ phiếu thường",
+    "dists": [
+      "Trả cổ tức bằng chứng khoán",
+      "Tách cổ phiếu",
+      "Tất cả các trường hợp trên."
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Chức năng của thị trường tài chính là:",
+    "correct": "Tất cả các chức năng trên.",
+    "dists": [
+      "Dẫn vốn từ nơi thừa vốn sang nơi thiếu vốn",
+      "Hình thành giá các tài sản, tài chính",
+      "Tạo tính thanh khoản cho tài sản tài chính"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Kênh tài chính gián tiếp là:",
+    "correct": "Thị trường chứng khoán",
+    "dists": [
+      "Thị trường trái phiếu.",
+      "Sở giao dịch chứng khoán"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Thị trường vốn là thị trường giao dịch:",
+    "correct": "Các công cụ tài chính trung và dài hạn",
+    "dists": [
+      "Các công cụ tài chính ngắn hạn",
+      "Kỳ phiếu",
+      "Tiền tệ"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Thị trường chứng khoán là một bộ phận của:",
+    "correct": "Thị trường vốn",
+    "dists": [
+      "Thị trường tín dụng.",
+      "Thị trường liên ngân hàng",
+      "Thị trường mở"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Thị trường chứng khoán không phải là:",
+    "correct": "Nơi đấu thầu các tín phiếu",
+    "dists": [
+      "Nơi tập trung và phân phối các nguồn vốn tiết kiệm",
+      "Định chế tài chính trực tiếp.",
+      "Nơi giao dịch cổ phiếu"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Đối tượng tham gia mua - bán chứng khoán trên thị trường chứng khoán có thể là:",
+    "correct": "Quĩ đầu tư chứng khoán",
+    "dists": [
+      "Chính phủ",
+      "ủy ban chứng khoán Nhà nước",
+      "Sở giao dịch chứng khoán."
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Tổ chức nào không được phát hành trái phiếu:",
+    "correct": "Công ty hợp danh",
+    "dists": [
+      "Công ty trách nhiệm hữu hạn",
+      "Doanh nghiệp Nhà nước",
+      "Công ty cổ phần"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Cơ quan quản lý Nhà nước đối với TTCK là:",
+    "correct": "ủy ban chứng khoán",
+    "dists": [
+      "Sở giao dịch chứng khoán",
+      "Hiệp hội kinh doanh chứng khoán.",
+      "ủy ban nhân dân thành phố"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Các nguyên tắc hoạt động của TTCK tập trung",
+    "correct": "Công khai thông tin",
+    "dists": [
+      "Mua bán trực tiếp",
+      "Giao dịch thỏa thuận",
+      "Tất cả đều đúng"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công khai thông tin về TTCK phải thỏa m•n các yêu cầu ngoại trừ",
+    "correct": "Ưu tiên khách hàng",
+    "dists": [
+      "Chính xác",
+      "Kịp thời",
+      "Dễ tiếp cận"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Thị trường chứng khoán thứ cấp là:",
+    "correct": "Thị trường tạo tính thanh khoản cho chứng khoán",
+    "dists": [
+      "Thị trường huy động vốn",
+      "Thị trường tạo hàng hóa chứng khoán",
+      "Tất cả đều đúng"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Thị trường chứng khoán tập trung là thị trường.",
+    "correct": "Giao dịch tất cả các loại chứng khoán",
+    "dists": [
+      "Giao dịch thỏa thuận diễn ra đồng thời với giao dịch khớp lệnh",
+      "Giao dịch khớp lệnh",
+      "Giao dịch chứng khoán của công ty vừa và nhỏ"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Nhận định nào là sai về thị trường thứ cấp",
+    "correct": "Là nơi giao dịch các chứng khoán kém phẩm chất",
+    "dists": [
+      "Là nơi luân chuyển vốn đầu tư",
+      "Là nơi tạo cơ hội đầu tư cho công chúng.",
+      "Là nơi chuyển đổi sở hữu về chứng khoán"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Những cổ phiếu nào được tự do chuyển nhượng:",
+    "correct": "Cổ phiếu phổ thông",
+    "dists": [
+      "Cổ phiếu ưu đ•i cổ tức",
+      "Cổ phiếu ưu đ•i biểu quyết",
+      "Cổ phiếu quỹ"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Cổ đông phổ thông có quyền:",
+    "correct": "Bỏ phiếu",
+    "dists": [
+      "Nhận cổ tức trước trái tức",
+      "Nhận thanh lý tài sản đầu tiên khi công ty phá sản",
+      "Nhận thu nhập cố định"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Thặng dư vốn phát sinh khi",
+    "correct": "Chênh lệch giá khi phát hành cổ phiếu mới",
+    "dists": [
+      "Công ty làm ăn có l•i",
+      "Công ty tăng vốn khi phát hành thêm chứng khoán",
+      "Tất cả các trường hợp trên."
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Giá tráiphiếu vận động",
+    "correct": "Ngược chiều với l•i suất thị trường",
+    "dists": [
+      "Cùng chiều với l•i suất thị trường",
+      "Không chịu ảnh hưởng của l•i suất thị trường",
+      "Tất cả đều sai."
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Khi mua cổ phiếu nhà đầu tư quan tâm nhất đến:",
+    "correct": "Tình hình hoạt động của công ty",
+    "dists": [
+      "Giá cổ phiếu",
+      "Quan hệ cung cầu của cổ phiếu trên thị trường"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Khi mua trái phiếu nhà đầu tư quan tâm nhất đến gì:",
+    "correct": "L•i suất trái phiếu",
+    "dists": [
+      "Mệnh giá trái phiếu",
+      "Thời hạn dáo hạn của trái phiếu",
+      "Cách thức trả l•i trái phiếu"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty cổ phần là doanh nghiệp trong đó",
+    "correct": "Cổ đông chịu trách nhiệm hữu hạn về nghĩa vụ nợ",
+    "dists": [
+      "Cổ đông có quyền tự do chuyển đổi tất cả các loại cổ phiếu của mình",
+      "Hạn chế số lượng cổ đông tối đa",
+      "Tất cả đều đúng."
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty cổ phần bắt buộc phải có",
+    "correct": "Cổ phiếu phổ thông",
+    "dists": [
+      "Cổ phiếu ưu đ•i",
+      "Trái phiếu công ty",
+      "Tất cả các loại chứng khoán trên"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Mục đích phân biệt phát hành riêng lẻ và phát hành ra công chúng là:",
+    "correct": "Để bảo vệ công chúng đầu tư",
+    "dists": [
+      "Để dễ dàng quản lý",
+      "Để thu hút phát hành",
+      "Để dễ dàng huy động vốn."
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "ở Việt Nam, muốn phát hành cổ phiếu ra công chúng phải:",
+    "correct": "Được ủy ban chứng khoán Nhà nước chấp thuận đăng ký",
+    "dists": [
+      "Được ủy ban chứng khoán Nhà nước cấp phép",
+      "Xin phép bộ tài chính",
+      "Xin phép trung tâm giao dịch"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Nghị định 144/2003/NĐ-CP của Chính phủ diều chỉnh.",
+    "correct": "Phát hành cổ phiếu của công ty cổ phần.",
+    "dists": [
+      "Phát hành cổ phiếu của các tổ chức tín dụng",
+      "Phát hành cổ phiếu của các doanh nghiệp Nhà nước cổ phần hóa",
+      "Phát hành cổ phiếu của các doanh nghiệp có vốn đầu tư nước ngoài chuyển đổi thành công ty cổ phần."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Phát hành cổ phiếu ra công chúng bao gồm các hình thức:",
+    "correct": "Tất cả các hình thức trên.",
+    "dists": [
+      "Chào bán sơ cấp lần đầu.",
+      "Chào bán thứ cấp lần đầu",
+      "Phát hành thêm cổ phiếu ra công chúng"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Phát hành thêm cổ phiếu ra công chúng bao gồm:",
+    "correct": "Chào bán thêm cổ phiếu để tăng vốn điều lệ",
+    "dists": [
+      "Chào bán thêm cổ phiếu để trả cổ tức",
+      "Chào bán thêm cổ phiếu thưởng",
+      "Tất cả các câu trên."
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "ủy ban chứng khoán cấp giấy chứng nhận đăng ký phát hành ra công chúng kể từ khi nhận đầy đủ hồ sơ hợp lệ trong thời hạn:",
+    "correct": "30 ngày.",
+    "dists": [
+      "30 ngày làm việc",
+      "45 ngày.",
+      "45 ngày làm việc."
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Trông thời hạn UBCKNN xem xét hồ sơ đăng ký phát hành đối tượng có liên quan được phép:",
+    "correct": "Được phép sử dụng các thông tin trong bản cáo bạch để thăm dò thị trường.",
+    "dists": [
+      "Quảng cáo chào mời mua cổ phiếu.",
+      "Thăm dò thị trường trên các phương tiện thông tin đại chúng.",
+      "Tất cả các phương án trên."
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Những tổ chức được phép làm đại lý phát hành chứng khoán.",
+    "correct": "Tất cả các phương án trên",
+    "dists": [
+      "Công ty chứng khoán.",
+      "Tổ chức tín dụng",
+      "Tổ chức tín dụng phi Ngân hàng"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Bảo l•nh phát hành chứng khoán là việc tổ chức bảo l•nh giúp tổ chức phát hành thực hiện:",
+    "correct": "Tất cả các việc trên.",
+    "dists": [
+      "Các thủ tục trước khi chào bán chứng khoán.",
+      "Nhận mua một phần hay toàn bộ chứng khoán của tổ chức phát hành.",
+      "Tổ chức phân phối chứng khoán."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Phân phối cổ phiếu phải:",
+    "correct": "Theo giá bán được xác định trong bản cáo bạch đ• đăng ký với UBCKNN",
+    "dists": [
+      "Theo giá thỏa thuận với nhà đầu tư.",
+      "Theo giá trị trường qua đấu giá",
+      "Theo giá ưu đ•i do Hội đồng quản trị của công ty phát hành quyết định"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Tổ chức bảo l•nh phát hành phải:",
+    "correct": "Phải có giấy phép hoạt động bảo l•nh",
+    "dists": [
+      "Có liên quan với tổ chức phát hành.",
+      "Phải là công ty chứng khoán.",
+      "Phải là công ty tài chính."
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Điều điện niêm yết cổ phiếu",
+    "correct": "Tất cả các điều kiện trên.",
+    "dists": [
+      "Vốn điều lệ 5 tỷ đồng trở lên.",
+      "Kinh doanh có l•i 2 năm liên tiếp",
+      "Tối thiểu 20% cổ phiếu bán ít nhất 50 cổ đông ngoài tổ chức phát hành"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Giao dịch nội bộ phải thông báo cho trung tâm giao dịch chứng khoán trước khi thực hiện ít nhất.",
+    "correct": "10 ngày làm việc",
+    "dists": [
+      "10 ngày",
+      "15 ngày làm việc",
+      "15 ngày"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Tổ chức niêm yết được phép mua bán cổ phiếu quỹ trong vòng:",
+    "correct": "90 ngày",
+    "dists": [
+      "60 ngày làm việc",
+      "60 này",
+      "90 ngày làm việc"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Tổ chức niêm yết chỉ được bán cổ phiếu quỹ sau khi trả lại tối thiểu",
+    "correct": "6 tháng",
+    "dists": [
+      "3 tháng",
+      "4 tháng",
+      "5 tháng"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Tổ chức nào sau đây có thể là thành viên của trung tâm giao dịch chứng khoán:",
+    "correct": "Công ty chứng khoán",
+    "dists": [
+      "Công ty quản lý quỹ",
+      "Quỹ đầu tư chứng khoán",
+      "Ngân hàng chỉ định chứng khoán"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Tổ chức nào sau đây có thể là thành viên của trung tâm giao dịch chứng khoán phải có:",
+    "correct": "Tất cả các điều kiện trên.",
+    "dists": [
+      "Giấy phép hoạt động môi giới chứng khoán.",
+      "Giấy phép tự doanh chứng khoán.",
+      "Có cơ sở vật chất đảm bảo giao dịch."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Nhà đầu tư có quyền bán cổ phiếu niêm yết lô lẻ tại:",
+    "correct": "Trung tâm giao dịch chứng khoán",
+    "dists": [
+      "Công ty chứng khoán.",
+      "Thị trường tự do",
+      "Các Ngân hàng thương mại"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Đổi tên phân bổ thị trường chứng khoán gồm:",
+    "correct": "Tổ chức phát hành tổ chức niêm yết.",
+    "dists": [
+      "Tổ chức phát hành tổ chức niêm yết, công ty quản lý quỹ.",
+      "Tổ chức phát hành tổ chức niêm yết, công ty quản lý quỹ, công ty chứng khoán.",
+      "Tổ chức phát hành tổ chức niêm yết, công ty quản lý quỹ, công ty chứng khoán trung tâm phát hành."
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Tự doanh chứng khoán là việc:",
+    "correct": "Công ty chứng khoán mua bán chứng khoán cho chính mình",
+    "dists": [
+      "Công ty chứng khán mua bán chứng khoán cho khách hàng",
+      "Công ty chứng khoán quản lý vốn của khách hàng qua việc và nắm giữ chứng khoán vì quyền lợi khách hàng.",
+      "Tất cả các câu trên đều đúng."
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Tổ chức phát hành, tổ chức niêm yết công bố báo cáo tài chính năm trên",
+    "correct": "3 số báo liên tiếp của một tờ báo.",
+    "dists": [
+      "4 số báo liên tiếp của một tờ báo.",
+      "5 số báo liên tiếp của một tờ báo.",
+      "6 số báo liên tiếp của một tờ báo."
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty chứng khoán là gì:",
+    "correct": "Công ty cổ phần, công ty trách nhiệm hữu hạn",
+    "dists": [
+      "Doanh nghiệp tư nhân, công ty hợp doanh",
+      "Doanh nghiệp tư nhân, công ty trách nhiệm hữu hạn",
+      "Doanh nghiệp tư nhân, công ty cổ phần"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Các loại hình kinh doanh chứng khoán chính là:",
+    "correct": "TÊt c¶",
+    "dists": [
+      "Môi giới phát hành chứng khoán",
+      "Bảo l•nh phát hành, quản lý doanh mục đầu tư",
+      "Tư vấn tài chính và đầu tư chứng khoán."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Thời hạn cấp giấy phép kinh doanh chứng khoán là:",
+    "correct": "45 ngày kể từ khi UBCK nhận được hồ sơ hợp lệ",
+    "dists": [
+      "60 ngày kể từ khi UBCK nhận được hồ sơ hợp lệ",
+      "60 này làm việc kể từ khi UBCK nhận được hồ sơ hợp lệ",
+      "45 ngày làm việc kể từ khi UBCK nhận được hồ sơ hợp lệ"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Các công ty chứng khoán nhận lệnh qua:",
+    "correct": "Mạng Internet",
+    "dists": [
+      "Chi nhánh",
+      "Phòng giao dịch",
+      "Đại lý nhận lệnh e.Tất cả"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Điều kiện để nhân viên công ty chứng khoán được cấp chứng chỉ hành nghề kinh doanh chứng khoán là:",
+    "correct": "Tất cả các điều kện trên",
+    "dists": [
+      "Có chứng chỉ nguyên môn về chứng khoán do UBCK cấp.",
+      "Có năng lực pháp luật và năng lực hành vi dân sự",
+      "Đủ tiêu chuẩn trình độ chuyên môn"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Nhân viên công ty chứng khoán",
+    "correct": "Chỉ được mở tài khoản giao dịch cho mình tại công ty chứng khoán nơi làm việc.",
+    "dists": [
+      "Được tự do mua, bán cổ phiếu ở mọi nơi",
+      "Sở hữu không hạn chế số cổ phiếu biểu quyết của một tổ chức phát hành.",
+      "Làm giám đốc một công ty niêm yết."
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Chứng chỉ hành nghề kinh doanh chứng khoán có thời hạn:",
+    "correct": "3 năm",
+    "dists": [
+      "2 năm",
+      "4 năm",
+      "5 năm"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Qũy đầu tư chứng khoán có vốn điều lệ tối thiểu là:",
+    "correct": "5 tỷ đồng",
+    "dists": [
+      "10 tỷ đồng",
+      "15 tỷ đồng",
+      "20 tỷ đồng"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Cơ cấu tổ chức của công ty chứng khán phải đảm bảo:",
+    "correct": "Tất cả những điều trên.",
+    "dists": [
+      "Tách biệt giữa hoạt động kinh doanh của chủ sở hữu công ty chứng khoán với hoạt động kinh doanh của công ty chứng khán.",
+      "Tách biệt hoạt động môi giới với hoạt động tự doanh",
+      "Tách biệt hoạt động tự doanh với hoạt động quản lý danh mục đầu tư"
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Nghiệp vụ ư vấn tài chính bao gồm:",
+    "correct": "Tư vấn kết cấu tài chính.",
+    "dists": [
+      "Tư vấn phát triển và niêm yết chứng khoán.",
+      "Các ngân hàng thương mại"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Đối tượng công bố thôn tin thị trường chứng khoán gồm:",
+    "correct": "Tổ chức phát hành tổ chức niêm yết, công ty quản lý quỹ, công ty chứng khoán, trung tâm giao dịch.",
+    "dists": [
+      "Tổ chức phát hành tổ chức niêm yết",
+      "Tổ chức phát hành tổ chức niêm yết, công ty quản lý quỹ.",
+      "Tổ chức phát hành tổ chức niêm yết, công ty quản lý quỹ, công ty chứng khoán."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Tự doanh chứng khoán là việc",
+    "correct": "Công ty chứng khoán mua bán chứng khoán cho chính mình",
+    "dists": [
+      "Công ty chứng khoán mua bán chứ khoán cho khách hàng.",
+      "Công ty chứng khoán quản lý vốn của khách hàng qua việc và nắm giữ chứng khoán vì quyền lợi của khách hàng.",
+      "Tất cả các câu trên đều đúng."
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Tổ chức phát hành, tổ chức niêm yết công bố báo cáo tài chính năm trên:",
+    "correct": "3 số báo liên tiếp của một tờ báo.",
+    "dists": [
+      "4 số báo liên tiếp của một tờ báo",
+      "5 số báo liên tiếp của một tờ báo",
+      "6 số báo liên tiếp của một tờ báo"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty chứng khoán phải là:",
+    "correct": "Công ty cổ phần, công ty trách nhiệm hữu hạn",
+    "dists": [
+      "Doanh nghiệp tư nhân, công ty hợp danh",
+      "Doanh nghiệp tư nhân, công ty trách nhiệm hữu hạn",
+      "Doanh nghiệp tư nhân, công ty cổ phần"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Các loại hình kinh doanh chứng khoán chính là:",
+    "correct": "Tất cả các loại hình trên.",
+    "dists": [
+      "Môi giới, tự doanh chứng khoán",
+      "Bảo l•nh phát hành, quản lý danh mục đầu tư",
+      "Tư vấn tài chính và đầu tư chứng khoán."
+    ],
+    "explanation": "Đáp án đúng là D"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Thời hạn cấp giấy phép kinh doanh chứng khoán tối đa là:",
+    "correct": "45 ngày kể từ khi UBCK nhận được hồ sơ hợp lệ",
+    "dists": [
+      "60 ngày kể từ khi UBCK nhận được hồ sơ hợp lệ",
+      "60 ngày làm việc kể từ khi UBCK nhận được hồ sơ hợp lệ.",
+      "45 ngày làm việc kể từ khi UBCk nhận được hồ sơ hợp lệ"
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty chứng khoán được phép:",
+    "correct": "Làm đại lý phát hành chứng khoán niêm yết",
+    "dists": [
+      "Làm đại lý phát hành chứng khoán chưa niêm yết",
+      "Tư vấn cổ phần hóa, xác định giá trị doanh nghiệp",
+      "Tất cả các câu trên đều đúng"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Chứng chỉ hành nghề kinh doanh chứng khoán chỉ được cấp cho:",
+    "correct": "Cá nhân có đủ chứng chỉ chuyên môn về thị trường chứng khoán.",
+    "dists": [
+      "Công ty chứng khoán",
+      "Cá nhân đang làm việc tại một công ty chứng khoán.",
+      "Tất cả đều đúng."
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Giao dịch theo phương thức khớip lệnh ở Việt Nam quy định đơn vị yết giá đối với những cổ phiếu có mức giá dưới 50.000 đồng là:",
+    "correct": "100 đ",
+    "dists": [
+      "200 đ",
+      "300 đ",
+      "500 đ"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Giao d ch theo ph ng th c kh p l nh Vi t ị ươ ứ ớ ệ ở ệ Nam quy định đơn vịyết giá đối với những cổ phiếu có mức giá từ 100.000 đồng trở lên là:",
+    "correct": "1000 đ",
+    "dists": [
+      "100 đ",
+      "500 đ"
+    ],
+    "explanation": "Đáp án đúng là B"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty A là một doanh nghiệp nhà nước thực hiện cổ phần hóa, công ty A sẽ tiến hành bán cổ phần bằng cách:",
+    "correct": "Đấu gia công khai",
+    "dists": [
+      "Chỉ bán trong nội bộ công ty",
+      "Bán theo giá sẵn cho người ld",
+      "Chỉ có b và c"
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Doanh nghiệp Nhà nước cổ phần hóa thực hiện bán đấu giá cổ phiếu lần đầu ra công chúng bắt buộc phải thực hiện đấu giá qua trung gian giao dịch chứng khoán nếu khối lượng cổ phần bán ra công chúng có giá trị.",
+    "correct": "10 tỷ đồng trở lên",
+    "dists": [
+      "Từ 1 đến 10 tỷ đồng",
+      "5 tỷ đồng trở lên",
+      "Tùy doanh nghiệp có muốn thực hiện đấu giá qua trung tâm hay không."
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Điều kiện được đăng ký giao dịch tại TTGDCK Hà Nội đối với cổ phiếu là:",
+    "correct": "Doanh nghiệp cổ phần có vốn từ 10 tỷ trở lên có ít nhất 100 cổ đông ngoài tổ chức phát hành, có tình hình tài chính lành mạnh, báo cáo tài chính 1 năm được kiểm toán.",
+    "dists": [
+      "Doanh nghiệp cổ phần có vờnt 5tỷ trở lên có ít nhất 50 cổ đông, có tình hình tài chính lành mạnh, báo cáo tài chính 1 năm được kiểm toán.",
+      "Doanh nghiệp cổ phần có vốn từ 5 tỷ trở lên có ít nhất 50 cổ đông trong tổ chức phát hành, có tình hình tài chính lành mạnh, báo cáo tài chính 1 năm được kiểm toán.",
+      "Không câu nào đúng."
+    ],
+    "explanation": "Đáp án đúng là C"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Khi thực hiện bán cổ phần của DNNN, cổ đông chiến lược được phép mua:",
+    "correct": "Tối đa 20% tổng số cổ phần bán ra bên ngoài với giá giảm 20% so với giá đấu bình quân.",
+    "dists": [
+      "Tối đa 25% tổng số cổ phần bán ra bên ngoài với giá giảm 20% so với giá đấu bình quân.",
+      "Tối đa 25% tổng số cổ phần bán ra bên ngoài với giá giảm 25% so với giá đấu bình quân.",
+      "Tối đa 20% tổng số cổ phần bán ra bên ngoài với giá giảm 25% so với giá đấu bình quân."
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Khi nhà đ u t mua c ph n qua đ u giá t i trung tâm ầ ư ổ ầ ấ ạ giao dịch chứng khán Hà Nội, nhà đầu tư phải đặt cọc:",
+    "correct": "10% giá trị cổ phần đăng ký mua tính theo giá khởi điểm",
+    "dists": [
+      "15% giá trị cổ phần đăng ký mua tính theo giá khởi điểm",
+      "5% giá trị cổ phần đăng ký mua tính theo giá khởi điểm.",
+      "Không phải đặt cọc."
+    ],
+    "explanation": "Đáp án đúng là A"
+  },
+  {
+    "subjectId": "cccm1",
+    "question": "Công ty cổ phần ABC phát hành trái phiếu trị giá 10 tỷ đồng, mệnh giá trái phiếu là 100.000 đồng. Đợt phát hành này ảnh hưởng đến bảng cân đối kế toán của công ty như sau:",
+    "correct": "Tăng vốn lưu động, tăng tổng nợ và tăng tổng tài sản",
+    "dists": [
+      "Tăng vốn lưu động.",
+      "Tăng vốn lưu động và tăng tổng nợ",
+      "Tăng vốn lưu động, tăng tổng nợ, tăng tổng tài sản và tăng vốn chủ sở hữu."
+    ],
+    "explanation": "Đáp án đúng là C"
+  }
+]

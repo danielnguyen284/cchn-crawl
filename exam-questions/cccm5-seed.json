@@ -1,0 +1,38 @@
+[
+  {
+    "q": "ROE là chỉ số nào?",
+    "options": [
+      "LN trên VCSH",
+      "LN trên tổng TS",
+      "Tỷ lệ thanh toán hiện hành",
+      "Vòng quay HTK"
+    ],
+    "correct": "A",
+    "exp": "ROE = LN ròng / VCSH.",
+    "topic": "cccm5-t4"
+  },
+  {
+    "q": "BCLCTT bao gồm mấy hoạt động?",
+    "options": [
+      "3 (KD, ĐT, TC)",
+      "2 (thu, chi)",
+      "4",
+      "1"
+    ],
+    "correct": "A",
+    "exp": "3 phần: HĐKD, HĐĐT, HĐTC.",
+    "topic": "cccm5-t3"
+  },
+  {
+    "q": "EBITDA là?",
+    "options": [
+      "LN trước lãi, thuế, khấu hao",
+      "Tổng DT trước thuế",
+      "Chi phí vốn vay",
+      "LN sau thuế"
+    ],
+    "correct": "A",
+    "exp": "Earnings Before Interest, Taxes, Depreciation and Amortization.",
+    "topic": "cccm5-t1"
+  }
+]

@@ -1,0 +1,384 @@
+{
+  "firestoreCollections": [
+    "BatchGetDocuments",
+    "Can",
+    "DocumentSnapshot",
+    "FirebaseError",
+    "InvalidStateError",
+    "PersistentCacheIndexManager",
+    "QueryEngine",
+    "SharedClientState",
+    "VersionError",
+    "addDoc",
+    "added",
+    "and",
+    "app",
+    "arrayRemove",
+    "collection",
+    "collectionGroup",
+    "count",
+    "default",
+    "deleteDoc",
+    "disablePersistentCacheIndexAutoCreation",
+    "doc",
+    "document",
+    "firestore",
+    "firestore_mutations",
+    "firstParty",
+    "function",
+    "getDocFromCache",
+    "getDocFromServer",
+    "getDocsFromCache",
+    "getDocsFromServer",
+    "gsessionid",
+    "heartbeat",
+    "increment",
+    "maximum",
+    "medium",
+    "memory",
+    "notTerminated",
+    "number",
+    "object",
+    "previous",
+    "server",
+    "serverTimestamp",
+    "setDoc",
+    "startAfter",
+    "storage",
+    "string",
+    "users",
+    "value",
+    "where"
+  ],
+  "firestorePaths": [
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore\");function eO(){return eD.logLevel}function eR(e,...t){if(eD.logLevel<=b.LogLevel.DEBUG){l"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "FIRESTORE (${eC}) INTERNAL ASSERTION FAILED: ${t} (ID: ${e.toString(16)})`;if(void 0!==r)try{n+=\" CO"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "Firestore SDK?\");{let r=tr(e);throw new eB(eF.INVALID_ARGUMENT,`Expected type '${t.name}', but it wa"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore/timestamp/1.0\",to._jsonSchema={type:ts(\"string\""
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "Firestore persistence suffers from a bug in iOS 12.2 Safari that may cause your app to stop working."
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "Firestore SDK was previously used and so the persisted data is not compatible with the version of th"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore/bytes/1.0\",sW._jsonSchema={type:ts(\"string\""
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore/geoPoint/1.0\",s1._jsonSchema={type:ts(\"string\""
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore.v1.Firestore\",\"/\",e,\"/channel\"],a=this.createWebChannelTransport(),o={httpSessionIdParam:\""
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore.googleapis.com\";class av{constructor(e){if(void 0===e.host){if(void 0!==e.ssl)throw new eB"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore-lite\",this._persistenceKey=\"(lite)\",this._settings=new av({}),this._settingsFrozen=!1,this"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "Firestore was not initialized using the Firebase SDK. 'app'"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "Firestore has already been started and its settings can no longer be changed. You can only modify se"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "FirestoreEmulator(), emulator host will be used.\");let l={...s,host:o,ssl:i,emulatorOptions:n};if(!("
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore=e}withConverter(e){return new aT(this.firestore,e,this._query)}}class aS{constructor(e,t,r"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore=e}get _path(){return this._key.path}get id(){return this._key.path.lastSegment()}get path("
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore,null,new e3(e))}withConverter(e){return new aI(this.firestore,e,this._path)}}function ax(e"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "Firestore\");let n=e._path.child(e6.fromString(t,...r));return e5(n),new aS(e.firestore,e instanceof "
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore/vectorValue/1.0\",aC._jsonSchema={type:ts(\"string\""
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore._databaseId;if(!n.isEqual(r))throw t.createError(`Document reference is for database ${n.p"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "Firestore()`)\"),o+=\". \";let l=\"\";return(s||a)&&(l+=\" (found\",s&&(l+=` in field ${n}`),a&&(l+=` in do"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore_zombie_${this.persistenceKey}_${e}`}}function hL(e,t){let r=e.projectId;return e.isDefault"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore_clients\";function hZ(e,t){return`${hJ}_${e}_${t}`}let h1=\"firestore_mutations\""
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore_targets\";function h6(e,t){return`${h0}_${e}_${t}`}let h7=\"SharedClientState\""
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore_sequence_number_${e}`}(this.persistenceKey),this.oa=this.oa.insert(this.ia,new h5),this.la"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "Firestore shutting down\"),t=this.queries,this.queries=cq(),t.forEach((t,r)=>{for(let t of r.Eu)t.onE"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "Firestore transactions require all reads to be executed before all writes.\"),this.lastTransactionErr"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "FirestoreClient\";class dq{constructor(e,t,r,n,i){this.authCredentials=e,this.appCheckCredentials=t,t"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore\",this._queue=new fr,this._persistenceKey=n?.name||\"[DEFAULT]\"}async _terminate(){if(this._"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore=e}convertBytes(e){return new sW(e)}convertReference(e){let t=this.convertDocumentKey(e,thi"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore,fs)),i=n._onlineComponents?.datastore.serializer;return void 0===i?null:sB(i,iV(e._query),"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "Firestore instance is initialized or after it is terminated.\");let t=new eq;return e._queue.enqueueA"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "Firestore\");let n=e._path.child(e6.fromString(t,...r));return te(n),new aI(e.firestore,null,n)}},\"aS"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "FirestoreSettings.cache` instead.\");let r=e._freezeSettings();return fu(e,dk.provider,{build:e=>new "
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore\").getImmediate({identifier:n});if(!i._initialized){let e=(0,_.getDefaultEmulatorHostnameAn"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore\");if(n.isInitialized(r)){let e=n.getImmediate({identifier:r}),i=n.getOptions(r);if((0,_.de"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore===t.firestore&&e.path===t.path&&e.converter===t.converter},\"b4\",0,function(){return new aF"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore\",e._databaseId.database),e._delete()},\"b7\",0,a4,\"b8\",0,function(e){var t;let r;return t=fa"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore=e,this._userDataWriter=t,this._key=r,this._document=n,this._converter=i}get id(){return th"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore,e.converter,iF(e._query,t))}_parse(e){let t=aP(e.firestore);return function(e,t,r,n,i,s,a)"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore._databaseId,this._field,this._op,this._value)}}class fI extends fb{constructor(e,t){super("
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore,e.converter,iB(e._query,t))}}class fA extends fT{constructor(e,t,r){super(),this.type=e,th"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore._databaseId,i,t,r,n)}}function fO(e,t,r){if(\"string\""
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "Firestore(t,r):e.toFirestore(t):t}class fM extends fd{constructor(e){super(),this.firestore=e}conver"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore,fs),n=fa(r),i=r$(t,(e,t)=>new n9(t,e.aggregateType,e._internalFieldPath));return d6(n,e._q"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore=e,this._firestoreImpl=e,this.metadata=i}exists(){return super.exists()}data(e={}){if(this."
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore,this.ref.path,t.bundle=\"NOT SUPPORTED\"),t}}fQ._jsonSchemaVersion=\"firestore/documentSnapsh"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore=e,this._userDataWriter=t,this._snapshot=n,this.metadata=new fH(n.hasPendingWrites,n.fromCa"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore,e._userDataWriter,t.doc.key,t.doc,new fH(e._snapshot.mutatedKeys.has(t.doc.key),e._snapsho"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore._databaseId.database,this._firestore._databaseId.projectId;let t=[],r=[],n=[];return this."
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore,this.query._query,e.bundleName,e.bundle=\"NOT SUPPORTED\",e}}fW._jsonSchemaVersion=\"firestor"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore=e,this._commitHandler=t,this._mutations=[],this._committed=!1,this._dataReader=aP(e)}set(e"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore);return this._mutations=this._mutations.concat(new n3(t._key,nY.none())),this}commit(){ret"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore);return this._transaction.delete(t._key),this}}class f2 extends f1{constructor(e,t){super("
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore,fs),i=iR(e._key.path),r={next:r=>{t[a]&&t[a](f7(n,e,r))},error:t[a+1],complete:t[a+2]};els"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore=e,this.type=\"PersistentCacheIndexManager\""
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore),t).then(e=>eR(`setting persistent cache index auto creation isEnabled=${t} succeeded`)).c"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore,fs),n=ax(e),i=fP(e.converter,t);return f6(r,[aM(aP(e.firestore),\"addDoc\""
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore)).then(e=>eR(\"deleting all persistent cache indexes succeeded\")).catch(e=>eL(\"deleting all"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore,fs),[new n3(e._key,nY.none())])},\"disablePersistentCacheIndexAutoCreation\""
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore,fs);return d1(fa(t),e._key).then(r=>f7(t,e,r))},\"getDocFromCache\""
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore,fs),r=fa(t),n=new ff(t);return dZ(r,e._key).then(r=>new fQ(t,n,e._key,r,new fH(null!==r&&r"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore,fs);return d1(fa(t),e._key,{source:\"server\""
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore,fs),r=fa(t),n=new ff(t);return fE(e._query),d0(r,e._query).then(r=>new fW(t,n,e,r))},\"getD"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore,fs),r=fa(t),n=new ff(t);return d2(r,e._query).then(r=>new fW(t,n,e,r))},\"getDocsFromServer"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore,fs),r=fa(t),n=new ff(t);return d0(r,e._query,{source:\"server\""
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore,fs),i=fP(e.converter,t,r),s=aP(n);return f6(n,[aM(s,\"setDoc\""
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore===t._firestore&&e._key.isEqual(t._key)&&(null===e._document?null===t._document:e._document"
+    },
+    {
+      "file": "3rj1yc81ak5gv.js",
+      "match": "firestore,fs),s=aP(i);return f6(i,[(\"string\""
+    },
+    {
+      "file": "03bd7j0rxkqph.js",
+      "match": "firestore\":\"fire-fst\",\"@firebase/firestore-compat\":\"fire-fst-compat\",\"@firebase/ai\":\"fire-vertex\",\"f"
+    },
+    {
+      "file": "3o_l_ntp2qxx5.js",
+      "match": "Firestore:\",e)}}}async function l(e){if(!e)return[];let i=[];try{let t=`exam_results_${e}`;i=JSON.pa"
+    },
+    {
+      "file": "3o_l_ntp2qxx5.js",
+      "match": "Firestore, using local fallback:\",e),i.sort((e,t)=>{let r=e.endTime?new Date(e.endTime).getTime():0;"
+    },
+    {
+      "file": "0_ok362-xccig.js",
+      "match": "Firestore, falling back to API:\",t);try{let t=await fetch(\"/api/real-questions\");if(t.ok){let c=(awa"
+    },
+    {
+      "file": "1lc94dqmjphkj.js",
+      "match": "Firestore, falling back to API:\",t);try{let t=await fetch(\"/api/real-questions\");if(t.ok){let c=(awa"
+    }
+  ],
+  "notebookLinks": [
+    {
+      "file": "3n1qnik1c2mzt.js",
+      "matches": [
+        "notebookLMAccess:null,recordExam:()=>e(e=>{let",
+        "notebookLMAccess:{date:new",
+        "notebookLMAccess;if(!a)return!0;let"
+      ]
+    }
+  ],
+  "driveLinks": [
+    "https://drive.google.com/drive/folders/1w6eXTf6xRPXxqG0XHuUQLjddigdxHneU"
+  ],
+  "pdfUrls": [
+    "/documents/CoSo-500CauHoi.pdf",
+    "/documents/CoSo-DeWeb.pdf",
+    "/documents/Luat-BoDe.pdf",
+    "/documents/Luat-TongHopChuY.pdf",
+    "/documents/Luat-DeThi.pdf",
+    "/documents/MoiGioi-VietStock.pdf",
+    "/documents/MoiGioi-NganHangCauHoi.pdf",
+    "/documents/PhanTich-BangCongThuc.pdf",
+    "/documents/PhanTich-BangCongThuc2.pdf",
+    "/documents/PhanTich-TaiLieuOnTap.pdf",
+    "/documents/PhanTich-DapAnDeThi.pdf",
+    "/documents/PhanTich-DeChuanTN.pdf"
+  ],
+  "subjectData": [],
+  "questionPatterns": [],
+  "apiEndpoints": [
+    "/api/chat",
+    "/api/real-questions"
+  ]
+}
