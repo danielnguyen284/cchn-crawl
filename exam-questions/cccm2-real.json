@@ -46,9 +46,9 @@
   {
     "subjectId": "cccm2",
     "question": "Theo quy định hiện hành kể từ ngày nhận được hồ sơ hợp lệ UBCK nhà nước cấp giấy phép thành lập và hoạt động cho công ty chứng khoán, cty quản lý quỹ trong thời hạn ?",
-    "correct": "15 ngày",
+    "correct": "30 ngày",
     "dists": [
-      "30 ngày",
+      "15 ngày",
       "60 ngày",
       "45 ngày"
     ],

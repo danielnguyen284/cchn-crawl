@@ -272,6 +272,16 @@
   },
   {
     "subjectId": "cccm3",
+    "question": "Khách hàng mua cổ phiếu trên tài khoản bảo chứng với tổng giá trị là 16.000$ bằng cách vay 8.000$ từ công ty môi giới và trả 8.000$ còn lại bằng tiền. Giả sử giá trị thị trường hiện hành của cổ phiếu giảm xuống còn 12.000$ và giả sử theo quy định của công ty môi giới mức duy trì ký quỹ bắt buộc là 40%. Trong trường hợp này môi giới được quyền gọi ký quỹ (margin call) để đưa tài khoản về mức duy trì là bao nhiêu?",
+    "correct": "800$",
+    "dists": [
+      "600$",
+      "500$"
+    ],
+    "explanation": ""
+  },
+  {
+    "subjectId": "cccm3",
     "question": "Tài khoản bảo chứng (tài khoản margin) thực chất là:",
     "correct": "Tài khoản thể hiện khoản Nợ giữa khách hàng và người môi giới, trong đó số chứng khoán khách hàng đã mua được dùng làm vật bảo đảm, thế chấp cho khoản vay",
     "dists": [
@@ -409,14 +419,23 @@
   },
   {
     "subjectId": "cccm3",
-    "question": "Khách hàng mua 1000 cổ phiếu thưởng của công ty XYZ và cổ phiếu này được đăng ký đứng tên công ty môi giới. Công ty XYZ công bố trả cổ tức 25.000đ/1CP. Đến ngày trả cổ tức, công ty XYZ phải chuyển bao nhiêu tiền cho công ty môi giới để trả cho khách hàng? Chọn Phương án đúng trong số các phương án sau:",
-    "correct": "25 triệu đ",
+    "question": "Khách hàng A đến làm thủ tục mở tài khoản tại công ty môi giới chứng khoán. Ngày 16/3, khách hàng chuyển 10.000.000 đồng vào tài khoản bằng tiền mặt. Ngày 17/3 người môi giới nhận lệnh của khách hàng đặt mua 10.000 CP Ree với giá 20.000 đồng/CP trên tài khoản bảo chứng và hứa gửi giấy ủy quyền sau. Mức ký quỹ tối thiểu ban đầu là 10.000.000 đồng và phải đạt 50% giá trị giao dịch lần đặt mua chứng khoán lần đầu. Nhân viên môi giới đặt lệnh khớp và hoàn tất giao dịch ngày 20/3. Đến ngày 21/3, khách hàng A vẫn chưa gửi giấy ủy quyền, giá Ree giảm còn 15.000 đồng/CP. Khách hàng A khiếu kiện công ty môi giới đã thực hiện giao dịch khi chưa có ủy quyền bằng văn bản và không đồng ý thanh toán. Trong trường hợp này bên có lỗi là:",
+    "correct": "Công ty môi giới",
     "dists": [
-      "50 triệu đ",
-      "15 triệu đ",
-      "10 triệu đ"
+      "Khách hàng A",
+      "Không ai có lỗi"
     ],
-    "explanation": "Đáp án đúng là A"
+    "explanation": ""
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Trong trường hợp công ty môi giới nhận lệnh mua 10.000 CP Ree với giá 20.000 đồng/CP trên tài khoản bảo chứng (tổng trị giá 200 triệu đồng) của khách hàng A (chỉ nộp 10 triệu đồng), tại sao công ty môi giới bị buộc tội thực hiện giao dịch không đúng quy định về ký quỹ?",
+    "correct": "Vì tỷ lệ ký quỹ tối thiểu ban đầu không đảm bảo quy định pháp luật.",
+    "dists": [
+      "Vì không thực hiện công bố thông tin giao dịch",
+      "Vì công ty môi giới tự ý bán giải chấp"
+    ],
+    "explanation": ""
   },
   {
     "subjectId": "cccm3",
@@ -673,15 +692,56 @@
   },
   {
     "subjectId": "cccm3",
-    "question": "Khi hoạt động tư vấn đầu tư chứng khoán, người hành nghề tư vấn đầu tư chứng khoán phải tuân thủ quy tắc đạo đức nghề nghiệp sau: I. Người tư vấn đầu tư phải đưa ra ý kiến đánh giá một cách độc lập và khách quan trong hoạt động chuyên môn II. Người tư vấn đầu tư chứng khoán phải đảm bảo tính liêm khiết, minh bạch trong hoạt động chuyên môn và các vấn đề cá nhân III. Người TVĐTCK phải luôn làm việc một cách chuyên nghiệp và cần mẫn IV. Người TVĐTCK phảỉ luôn trung thành với khách hàng và luôn ưu tiên lợi ích khách hàng V. Người TVĐTCK phải đảm bảo mọi khách hàng được đối xử công bằng và bình đẳng VI. Người TVĐTCK phải ưu tiên hơn cho những khách hàng trả mức phí đặc biệt cao so với những khách hàng trả mức phí thấp hơn",
-    "correct": "a và c",
+    "question": "Giả sử tỷ lệ ký quỹ là 70%, một khách hàng mua 1.000 CP công ty ACB với giá 35 triệu đồng. Khách hàng trả tiền 24,5 triệu đồng và vay 10,5 triệu đồng. Giá trị cổ phiếu (chứng khoán) thực có ban đầu là:",
+    "correct": "24,5 triệu đồng",
     "dists": [
-      "I, II, V, VI",
-      "III, IV",
-      "I, II, V",
-      "b và c"
+      "35 triệu đồng",
+      "10,5 triệu đồng",
+      "30 triệu đồng"
     ],
-    "explanation": "Đáp án đúng là A"
+    "explanation": ""
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Giả sử tỷ lệ ký quỹ là 70%, một khách hàng mua 1.000 CP công ty ACB với giá 35 triệu đồng (vay 10,5 triệu đồng). Giả sử giá cổ phiếu ACB trên thị trường tăng lên 70.000 đồng/CP. Như vậy giá trị hiện hành trên thị trường của 1.000 CP ACB có trên tài khoản là 70 triệu đồng. Giá trị chứng khoán ký quỹ lúc này là:",
+    "correct": "70 triệu đồng",
+    "dists": [
+      "50 triệu đồng",
+      "49 triệu đồng"
+    ],
+    "explanation": ""
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Giả sử tỷ lệ ký quỹ là 70%, một khách hàng mua 1.000 CP công ty ACB với giá 35 triệu đồng (vay 10,5 triệu đồng). Giả sử giá cổ phiếu ACB trên thị trường tăng lên 70.000 đồng/CP (tổng giá trị 70 triệu đồng). Giá trị chứng khoán thực có (tài sản ròng) của khách hàng lúc này là:",
+    "correct": "59,5 triệu đồng",
+    "dists": [
+      "70 triệu đồng",
+      "45,5 triệu đồng",
+      "35 triệu đồng"
+    ],
+    "explanation": ""
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Giả sử tỷ lệ ký quỹ là 70%, một khách hàng mua 1.000 CP công ty ACB với giá 35 triệu đồng (vay 10,5 triệu đồng). Khi giá cổ phiếu ACB tăng lên 70.000 đồng/CP (tổng giá trị 70 triệu đồng), giá trị vượt trội (giá trị vượt quy định ký quỹ) là:",
+    "correct": "10,5 triệu đồng",
+    "dists": [
+      "21 triệu đồng",
+      "24,5 triệu đồng",
+      "36,5 triệu đồng"
+    ],
+    "explanation": ""
+  },
+  {
+    "subjectId": "cccm3",
+    "question": "Hãy tính sức mua (buying power) của tài khoản ký quỹ biết tỷ lệ ký quỹ yêu cầu là 70% và giá trị vượt trội (excess margin) hiện tại là 10,5 triệu đồng:",
+    "correct": "15 triệu đồng",
+    "dists": [
+      "10,5 triệu đồng",
+      "21 triệu đồng"
+    ],
+    "explanation": ""
   },
   {
     "subjectId": "cccm3",
